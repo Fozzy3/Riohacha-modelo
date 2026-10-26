@@ -1,0 +1,610 @@
+[
+ {
+  "piso": "Piso 1",
+  "numero": 1,
+  "espacio": "Laboratorio de ensayo de caracterización energética de sistemas fotovoltaicos",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 10,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 16,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 2,
+  "espacio": "Laboratorio de prácticas de sistemas fotovoltaicos",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 3,
+  "espacio": "Laboratorio de prácticas de sistemas de energía eólica",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 4,
+  "espacio": "Laboratorio de Geodata",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 5,
+  "espacio": "Taller de estructura de sistemas fotovoltaicos y eólicos",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 6,
+  "espacio": "Laboratorio de negocios digitales (Big data - machine learning, trasformación digital, vigilancia y valoración tecnológica, tecnologías de la información).",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Sofá de 3 puestos elaborado con internos en madera, recubierto en espuma laminada tapizada en paño o vinilo.": 4,
+   "Poltrona tipo alva, elaborado en internos de polipropileno, en espuma laminada tapizado en paño o vinilo. estructura de 4 aspas en pintura horneada": 4,
+   "Mesa baja tipo kosh. superficie enchapada en formica de 60cms. de diámetro. estructura 4 aspas recubiertas en pintura electrostática. h= 54cms": 2,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 7,
+  "espacio": "Laboratorio de creatividad e innovación",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 8,
+  "espacio": "Laboratorio prototipado digital 3d",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 10,
+  "espacio": "Laboratorio prototipado unión y corte",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 11,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 11,
+  "espacio": "Depósitos laboratorios",
+  "cantidad_espacios": 3,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 9
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 12,
+  "espacio": "Bodega 1er piso",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 3,
+   "Locker metálico de 16 compartimentos (Dimensiones: Alto 200cm, Frente 120cm, Fondo 30cm)": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 13,
+  "espacio": "Oficina de laboratoristas",
+  "cantidad_espacios": 2,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 4,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 4,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 4
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 14,
+  "espacio": "Recepción",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Sofá de 3 puestos elaborado con internos en madera, recubierto en espuma laminada tapizada en paño o vinilo.": 2,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 2,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 15,
+  "espacio": "Locales comerciales",
+  "cantidad_espacios": 4,
+  "mobiliario": {}
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 16,
+  "espacio": "Área de Coworking",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Sofá de 3 puestos elaborado con internos en madera, recubierto en espuma laminada tapizada en paño o vinilo.": 4,
+   "Poltrona tipo alva, elaborado en internos de polipropileno, en espuma laminada tapizado en paño o vinilo. estructura de 4 aspas en pintura horneada": 4,
+   "Mesa baja tipo kosh. superficie enchapada en formica de 60cms. de diámetro. estructura 4 aspas recubiertas en pintura electrostática. h= 54cms": 2,
+   "Puff elipse 67cms. elaborado en internos de madera tapizado en paño silvertex. dimensiones 67x40cms.": 6,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Silla tipo wash. silla carcasa monoblock. apilable hasta 15 unidades de manera vertical. variedad de colores y patas.": 20,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 45,
+   "Mesa de juntas 10 personas de redonda 2mts. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Mesa de juntas 12 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 2,
+   "Silla alta tipo barra (Silla Barra Tapizada Materiales: asiento y espaldar en polipropileno tapizado con asiento acolchado y patas en madera con apoya pies. Medidas: 111 alto x 49 ancho x 42 fondo, o similar)": 10
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 17,
+  "espacio": "Cuarto de aseo",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 1
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 18,
+  "espacio": "Auditorio",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Sillas auditorio (Cubierta en tela de alta calidad, con relleno en espuma de alta densidad, reposabrazos en madera maciza de alta calidad, base/patas en aluminio/acero, con estilo redondo o cuadrado": 96
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 19,
+  "espacio": "Taller de sistemas de estructuras fotovoltaicas y eólicas",
+  "cantidad_espacios": 3,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 4,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Estación de trabajo recta para 1 personas de 1,00x0.60m. superficie enchapada en formica. estructura metalica recubiertas en pintura electrostatica.": 5,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 21,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 5,
+   "Mesa de trabajo para laboratorio (superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. módulo de 1.40x0,70m)": 2,
+   "Mueble metálico con puerta metálica rígida o enrollable, cerradura para almacenamiento de equipos y herramientas, de 1,80 cms de alto por 1,5 mts de ancho y 0,45 mts de fondo": 2
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 20,
+  "espacio": "Recepción",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Módulo de atención fabricado en melamina de 18mm. incluye cajonera de almacenamiento. Medidas 2.40x0,80m": 1
+  }
+ },
+ {
+  "piso": "Piso 1",
+  "numero": 21,
+  "espacio": "Ventanas",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Velo enrollable, Ancho 200 cms x alto 180 cms color Blanco": 87,
+   "Persiana Blackout, Ancho 200 cms x alto 180 cms color Blanco": 87
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 1,
+  "espacio": "Oficinas de trabajo individual (1 puesto)",
+  "cantidad_espacios": 6,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 1,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 1
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 2,
+  "espacio": "Oficinas de trabajo colaborativo (2 puestos)",
+  "cantidad_espacios": 2,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 2,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 2
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 3,
+  "espacio": "Oficinas de trabajo colaborativo (4 puestos)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 4,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 4
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 4,
+  "espacio": "Oficinas de trabajo colaborativo (5 puestos)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 5,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 5
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 5,
+  "espacio": "Oficinas de trabajo colaborativo (9 puestos)",
+  "cantidad_espacios": 4,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 9,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 9
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 6,
+  "espacio": "Depósito",
+  "cantidad_espacios": 2,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 3
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 7,
+  "espacio": "Aulas de capacitación (25 mesas – 50 sillas + mesa y silla tutor)",
+  "cantidad_espacios": 2,
+  "mobiliario": {
+   "Silla tipo wash. silla carcasa monoblock. apilable hasta 15 unidades de manera vertical. variedad de colores y patas.": 102,
+   "Mesa modular individual reconfigurable. superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. modulo de 1.40x0,70m": 52,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 2
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 8,
+  "espacio": "Zona de acceso a bases de datos científicas (3 mesas con 18 sillas, 15 puestos, 4 mesas, 2 sofás, 4 poltronas)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 8,
+   "Sofá de 3 puestos elaborado con internos en madera, recubierto en espuma laminada tapizada en paño o vinilo.": 2,
+   "Poltrona tipo alva, elaborado en internos de polipropileno, en espuma laminada tapizado en paño o vinilo. estructura de 4 aspas en pintura horneada": 4,
+   "Mesa baja tipo kosh. superficie enchapada en formica de 60cms. de diámetro. estructura 4 aspas recubiertas en pintura electrostática. h= 54cms": 2,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 3,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 62,
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 2
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 9,
+  "espacio": "Sala de juntas  (12 puestos)",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 24,
+   "Mesa de juntas 10 personas de redonda 2mts. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 2
+  }
+ },
+ {
+  "piso": "Piso 2",
+  "numero": 10,
+  "espacio": "Ventanas",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Velo enrollable, Ancho 200 cms x alto 180 cms color Blanco": 75,
+   "Persiana Blackout, Ancho 200 cms x alto 180 cms color Blanco": 75
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 1,
+  "espacio": "Oficinas de trabajo individual (1 puesto)",
+  "cantidad_espacios": 6,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 1,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 1
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 2,
+  "espacio": "Oficinas de trabajo colaborativo (2 puestos)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 2,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 2
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 3,
+  "espacio": "Oficinas de trabajo colaborativo (4 puestos)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 4,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 4
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 4,
+  "espacio": "Oficinas de trabajo colaborativo (5 puestos)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 5,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 5
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 5,
+  "espacio": "Oficinas de trabajo colaborativo (9 puestos)",
+  "cantidad_espacios": 4,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 9,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 9
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 6,
+  "espacio": "Sala de juntas (10 puestos)",
+  "cantidad_espacios": 2,
+  "mobiliario": {
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 10,
+   "Mesa de juntas 10 personas de redonda 2mts. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 7,
+  "espacio": "Área de coworking",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estación de trabajo recta para 4 personas de 4,00x0.60m. superficie enchapada en fórmica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Sofá de 3 puestos elaborado con internos en madera, recubierto en espuma laminada tapizada en paño o vinilo.": 4,
+   "Poltrona tipo alva, elaborado en internos de polipropileno, en espuma laminada tapizado en paño o vinilo. estructura de 4 aspas en pintura horneada": 4,
+   "Mesa baja tipo kosh. superficie enchapada en formica de 60cms. de diámetro. estructura 4 aspas recubiertas en pintura electrostática. h= 54cms": 2,
+   "Puff elipse 67cms. elaborado en internos de madera tapizado en paño silvertex. dimensiones 67x40cms.": 6,
+   "Estación de trabajo recta para 10 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Silla tipo wash. silla carcasa monoblock. apilable hasta 15 unidades de manera vertical. variedad de colores y patas.": 20,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1,
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 50,
+   "Mesa de juntas 10 personas de redonda 2mts. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Mesa de juntas 12 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 2,
+   "Mesa redonda de 1mt. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 4,
+   "Silla alta tipo barra (Silla Barra Tapizada Materiales: asiento y espaldar en polipropileno tapizado con asiento acolchado y patas en madera con apoya pies. Medidas: 111 alto x 49 ancho x 42 fondo, o similar)": 10
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 8,
+  "espacio": "Oficinas de trabajo individual (8 puestos)",
+  "cantidad_espacios": 3,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 8,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 8
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 9,
+  "espacio": "Oficinas de trabajo colaborativo (4 puestos)",
+  "cantidad_espacios": 5,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 4,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 4
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 10,
+  "espacio": "Oficinas de trabajo colaborativo (2 puestos)",
+  "cantidad_espacios": 6,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 3,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 3
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 11,
+  "espacio": "Cafetería para uso del personal del CIP",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo wash. silla carcasa monoblock. apilable hasta 15 unidades de manera vertical. variedad de colores y patas.": 40,
+   "Mesa redonda de 1mt. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 10
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 12,
+  "espacio": "Depósito",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 3
+  }
+ },
+ {
+  "piso": "Piso 3",
+  "numero": 13,
+  "espacio": "Ventanas",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Velo enrollable, Ancho 200 cms x alto 180 cms color Blanco": 75,
+   "Persiana Blackout, Ancho 200 cms x alto 180 cms color Blanco": 75
+  }
+ },
+ {
+  "piso": "Piso 4",
+  "numero": 1,
+  "espacio": "Aula de capacitación (16 mesas - 32 sillas + mesa y silla tutor)",
+  "cantidad_espacios": 2,
+  "mobiliario": {
+   "Silla tipo wash. silla carcasa monoblock. apilable hasta 15 unidades de manera vertical. variedad de colores y patas.": 32,
+   "Mesa modular individual reconfigurable. superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. modulo de 1.40x0,70m": 17,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 2
+  }
+ },
+ {
+  "piso": "Piso 4",
+  "numero": 2,
+  "espacio": "Aula de capacitación (9 mesas - 18 sillas + mesa y silla tutor)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo wash. silla carcasa monoblock. apilable hasta 15 unidades de manera vertical. variedad de colores y patas.": 18,
+   "Mesa modular individual reconfigurable. superficie enchapada en laminado de alta presión. estructura aluminizada con rodachinas inferiores. modulo de 1.40x0,70m": 10,
+   "Tablero rodante. estructura en colled rolled. cal18 recubierto en pintura horneada porta borrador. dos lados en formica pizarra. dimensiones 1800 x 1200mm": 1
+  }
+ },
+ {
+  "piso": "Piso 4",
+  "numero": 3,
+  "espacio": "Depósito",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 3
+  }
+ },
+ {
+  "piso": "Piso 4",
+  "numero": 4,
+  "espacio": "Ventanas",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Velo enrollable, Ancho 200 cms x alto 180 cms color Blanco": 21,
+   "Persiana Blackout, Ancho 200 cms x alto 180 cms color Blanco": 21
+  }
+ },
+ {
+  "piso": "Piso 5",
+  "numero": 1,
+  "espacio": "Dirección técnica del CIP (4 puestos y una mesa de juntas de 12 puestos)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 16,
+   "Mesa de juntas 12 personas de 3.40x1.00m. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 1,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 4
+  }
+ },
+ {
+  "piso": "Piso 5",
+  "numero": 2,
+  "espacio": "Dirección técnica del CIP (8 puestos y 2 mesas de reuniones de 4 puestos c/u)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 16,
+   "Mesa redonda de 1mt. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 2,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 8
+  }
+ },
+ {
+  "piso": "Piso 5",
+  "numero": 3,
+  "espacio": "Administración del CIP (4 puestos y 2 mesas de reuniones de 4 puestos c/u)",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Silla tipo jobs. espaldar en malla deseable con soporte lumbar graduable en altura. asiento tapizado. mecanismo sincrónico en 3 posiciones de bloqueo. base en nylon. brazos graduables en altura y desplazamiento.": 12,
+   "Mesa redonda de 1mt. superficie enchapada en formica. estructura metálica recubiertas en pintura electrostática.": 2,
+   "Puesto en L con superficie enchapada en formica de 150x60. retorno de 90x60. cajonero pedestal con frentes en formica. faldero metálico. estructura en tubo cuadrado recubierto en pintura electrostática. pasacables redondo": 4
+  }
+ },
+ {
+  "piso": "Piso 5",
+  "numero": 4,
+  "espacio": "Archivo",
+  "cantidad_espacios": 1,
+  "mobiliario": {
+   "Estante metálico graduable (5 ent Estante Semipesado Pequeño 1000 Kg. repaños para 200 Kg x nivel. Alto 180, ancho 90, fondo 45 cm)": 10
+  }
+ },
+ {
+  "piso": "Piso 5",
+  "numero": 5,
+  "espacio": "Ventanas",
+  "cantidad_espacios": null,
+  "mobiliario": {
+   "Velo enrollable, Ancho 200 cms x alto 180 cms color Blanco": 21,
+   "Persiana Blackout, Ancho 200 cms x alto 180 cms color Blanco": 21
+  }
+ }
+]

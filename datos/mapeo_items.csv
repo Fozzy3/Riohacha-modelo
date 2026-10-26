@@ -1,0 +1,33 @@
+clase,nombre,bloque,nivel,items,nota
+IfcShadingDevice,Cortasol,A,,6.02,Pérgolas cortasoles bloque A
+IfcShadingDevice,Cortasol,B,,6.03,Pérgolas cortasoles bloque B
+IfcShadingDevice,Cortasol,D,,6.01,Pérgolas cortasoles tipo arcos auditorio
+IfcColumn,Columna,,,4.01|4.15,Columnas en concreto y su acero de refuerzo
+IfcSlab,Placa de piso N1,,,4.17|4.16,Placa de contrapiso del primer piso y malla
+IfcSlab,Placa de piso N1,C,,17.01|17.02|17.03,Piso laboratorios
+IfcSlab,Placa de piso N1,D,,17.04|17.05,Piso auditorio
+IfcSlab,Placa de piso N1,A,,17.06|17.07|17.08,Piso bloques A y B
+IfcSlab,Placa de piso N1,B,,17.06|17.07|17.08,Piso bloques A y B
+IfcSlab,Entrepiso,,Nivel 2,4.04|17.06|17.07,Losa nivel 4.00
+IfcSlab,Entrepiso,,Nivel 3,4.05|17.06|17.07,Losa nivel 7.80
+IfcSlab,Entrepiso,,Nivel 4,4.05|17.06|17.07,Losa nivel 11.60
+IfcSlab,Entrepiso,,Nivel 5,4.08|17.06|17.07,Losa nivel 15.40
+IfcSlab,Cubierta,A,,4.09|16.01|16.02|16.03,Cubierta 5.º piso
+IfcSlab,Cubierta,B,,4.05|16.04|16.05|16.07,Cubierta 3er piso
+IfcSlab,Cubierta,C,,4.06|16.08|16.09|16.10,Cubierta laboratorios (el capítulo 16 la llama 'bloque D')
+IfcSlab,Cubierta,D,,4.07|16.11|16.12|16.13,Cubierta auditorio (el capítulo 16 la llama 'bloque C')
+IfcWall,Muro,C,,5.02|5.03|5.04|5.05,Muros laboratorios
+IfcWall,Muro,D,,5.11|5.14|5.12|5.13,Muros auditorio
+IfcWall,Muro,A,Nivel 1,5.18|5.19,Muros primer piso bloques A y B
+IfcWall,Muro,B,Nivel 1,5.18|5.19,Muros primer piso bloques A y B
+IfcWall,Franja maciza,C,,5.06|5.07|5.09,Antepecho y fachada laboratorios
+IfcWall,Antepecho,B,,5.29|5.30|5.31,Antepecho cubierta
+IfcWall,Antepecho,D,,5.17,Hilera de bloque sobre cubierta auditorio
+IfcPlate,Vidrio,,,14.01,Vidrios y perfilería aluminio tipo fachada flotante
+IfcMember,Montante,,,14.01,Perfilería de fachada flotante
+IfcSlab,Plaza en gramoquín,,,24.06|26.04,Gramoquín
+IfcSlab,Andén central,,,24.08|24.07,Piso andén y bordillo
+IfcGeographicElement,Palmera grande,,,26.05,Palmeras grandes
+IfcGeographicElement,Planta mediana,,,26.02,Plantas medianas
+IfcGeographicElement,Planta ornamental,,,26.01,Plantas ornamentales
+IfcMember,Columna metálica inclinada,A,,6.04,Columnas metálicas inclinadas fachada norte bloque A (tubería 4")

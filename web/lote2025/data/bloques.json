@@ -1,0 +1,26 @@
+{
+  "nota": "Correspondencia entre la nomenclatura del presupuesto/memoria (A-D) y la de los planos arquitectónicos.",
+  "A": {
+    "nombre": "Bloque Principal",
+    "pisos": 5,
+    "evidencia": ["Memoria 10.25-10.29: 'bateria de baños bloque A 5to piso' (único bloque con 5.º piso)",
+                  "Memoria 15.07 y 8.13: plantas de pisos 4 y 5 muestran solo este bloque"]
+  },
+  "B": {
+    "nombre": "Bloque B",
+    "pisos": 3,
+    "evidencia": ["Mismo nombre en planos (A-111) y memoria", "Memoria 5.18-5.24: 'modulo a y b' comparten entrepisos"]
+  },
+  "C": {
+    "nombre": "Bloque Laboratorios",
+    "pisos": 1,
+    "evidencia": ["Memoria 5.04-5.05: 'modulo C' con captura del bloque de laboratorios a 45°",
+                  "Memoria 15.02: 'cielo raso ... bloque c laboratorio'"]
+  },
+  "D": {
+    "nombre": "Bloque Auditorio",
+    "pisos": 1,
+    "evidencia": ["Memoria 6.01, 7.04-7.06, 8.07: 'bloque D auditorio'",
+                  "Memoria 5.11: 'modulo d doble altura 6.40 perimetral auditorio'"]
+  }
+}

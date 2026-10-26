@@ -1,0 +1,2307 @@
+[
+ {
+  "espacio": "Equipos y Software",
+  "equipos": [
+   {
+    "equipo": "Laboratorio de ensayo de caracterización energética de sistemas fotovoltaicos",
+    "especificaciones": "Ver fila 20",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1228180000,
+    "vr_total": 1228180000
+   },
+   {
+    "equipo": "Laboratorio de prácticas de sistemas fotovoltaicos",
+    "especificaciones": "Ver fila 44",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1231510000,
+    "vr_total": 1231510000
+   },
+   {
+    "equipo": "Laboratorio de energía eólica",
+    "especificaciones": "Ver fila 77",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 762210000,
+    "vr_total": 762210000
+   },
+   {
+    "equipo": "Taller de estructura de sistemas fotovoltaicos y eólicos",
+    "especificaciones": "Ver fila 102",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 308610000,
+    "vr_total": 308610000
+   },
+   {
+    "equipo": "Laboratorio de geodata",
+    "especificaciones": "Ver fila 122",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1740499022,
+    "vr_total": 1740499022
+   },
+   {
+    "equipo": "Laboratorio de Negocios Digitales",
+    "especificaciones": "Ver fila  141",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 208656256,
+    "vr_total": 208656256
+   },
+   {
+    "equipo": "Laboratorio Prototipado para unión y corte",
+    "especificaciones": "Ver fila 153",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 44932878,
+    "vr_total": 44932878
+   },
+   {
+    "equipo": "Laboratorio de Creatividad",
+    "especificaciones": "Ver fila 167",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 310315649,
+    "vr_total": 310315649
+   },
+   {
+    "equipo": "Laboratorio Prototipado digital",
+    "especificaciones": "Ver fila 177",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 310315649,
+    "vr_total": 310315649
+   },
+   {
+    "equipo": "Laboratorio de Productividad",
+    "especificaciones": "Ver fila 202",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 769769421,
+    "vr_total": 769769421
+   },
+   {
+    "equipo": "Equipos ofimáticos",
+    "especificaciones": "Ver fila 222",
+    "justificacion": "",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 839179647,
+    "vr_total": 839179647
+   },
+   {
+    "equipo": "Sistema de vigilancia (sistema de seguridad formado por cámaras de vigilancia y un software de grabación que almacena, en tiempo real, las imágenes y vídeos de lo que ocurre en las instalaciones internas y externas del CIP. Es necesario para garantizar la seguridad y prevenir hurtos)",
+    "especificaciones": "Ver fila 244",
+    "justificacion": "Necesario para salvaguardar la seguridad del CIP y en específico de los equipos, software y sistemas especializados que harán parte de los laboratorios y los diferentes servicios del centro.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 174985140,
+    "vr_total": 174985140
+   },
+   {
+    "equipo": "Provisión de recuros por variación del la TRM",
+    "especificaciones": "Ver fila 286",
+    "justificacion": "Provisión de recursos por posibles riesgos económicos que generen variaciones potenciales en los equipos y software para la dotación de los laboratorios y de los procesos constructivos, asociados a la devaluación del peso frente al dólar",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 129919612,
+    "vr_total": 129919612
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de ensayo de caracterización energética de sistemas fotovoltaicos",
+  "equipos": [
+   {
+    "equipo": "cámara termográfica De  alta resolución",
+    "especificaciones": "Campo instantáneo de visión (IFOV, por su sigla en inglés) con una lente estándar (resolución espacial) 0,93 mrad, D:S 1065:1. Resolución del detector 640 x 480 (307 200 píxeles). Super Resolución, en la cámara y en el software. Captura y combina los datos ampliados en 4x para crear una imagen de 1280 x 960. Enfoque MultiSharp™, enfocado de cerca y de lejos en todo el campo de visión. Enfoque automático LaserSharp®, para imágenes consistentemente enfocadas. Telémetro láser. calcula la distancia hasta el objetivo para obtener imágenes enfocadas de manera precisa y muestra la distancia en la pantalla. Enfoque manual avanzado. Pantalla táctil (capacitiva) 5,7 pulgadas (14,4 cm) panorama 640 x 480 LCD. Diseño resistente y ergonómico. Lente giratoria de 240° (de articulación). Zoom digital 2x, 4x, y 8x. Lentes precalibradas gran angular, teleobjetivo 2x, teleobjetivo 4x y macro de 25 micras. Medición de la temperatura: Rango de medición de temperatura (no calibrada por debajo de -10 °C) De -20 °C a +1000 °C (-4 °F a +1832 °F). Exactitud ±2 °C o 2 % (a 25 °C nominales, la mayor de ambas). Sensibilidad térmica (NETD) * ≤ 0,05 °C a 30 °C temperatura objetivo (50 mK). Corrección de emisividad en pantalla. Compensación de la temperatura reflejada de fondo en pantalla. Corrección de transmisión en pantalla. Marcador de líneas en vivo. Conectividad inalámbrica Para PC, iPhone® y iPad® (iOS 4s y posterior), Android™ 4.3 y superior, y WiFi a LAN (donde esté disponible). Tecnología IR-Fusion®. Modo AutoBlend™ Continuamente variable. Imagen en imagen (PIP) 100 %, 75 %, 50 %, 25 % de infrarrojos. Cámara digital incorporada (luz visible) 5 megapíxeles. Cajas de herramientas MATLAB® y LabVIEW®",
+    "justificacion": "Necesario para la medición de temperaturas o termografías de módulos paneles fotovoltaico y generadores eólicos, para detectar puntos calientes de posible daño interno del en estos sistemas de generación",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 78000000,
+    "vr_total": 156000000
+   },
+   {
+    "equipo": "cámara infrarrojo De 8 bandas espectrales intercaladas",
+    "especificaciones": "Las cámaras Goldeye están equipadas con tecnología de sensor InGaAs, lo que las hace sensibles en el espectro infrarrojo de onda corta que va de 900 nm a 1700 nm. Algunos modelos tienen sensibilidad extendida en el espectro visible hasta 400 nm. Interfaz, Base de enlace de cámara. Resolución 320 (alto) × 256 (alto). Sensor InGaAs FPA 320 × 256. Tipo de sensor InGaAs. Tamaño del sensor Sin tamaño estándar. Tamaño de píxel 30 µm × 30 µm. Monturas de lentes (disponibles) Montura C máx. velocidad de fotogramas a máxima resolución 344 fps ADC 14 bits. Búfer de imagen (RAM) 256 MB. Ruido oscuro temporal  420 eˉ (Ganancia0), 170 eˉ (Ganancia1). Capacidad de saturación 2,5 Meˉ (Ganancia0), 170 keˉ (Ganancia1). Gama dinámica 75 dB (Ganancia0), 60 dB (Ganancia1)",
+    "justificacion": "Necesario para la Medición del espectro infrarrojo que al inducirle un voltaje al modulo fotovoltaico, conocido como prueba de electroluminiscencia, el cual detecta micro-fisuras en los módulos fotovoltaicos y daños que no son detectables.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 91000000,
+    "vr_total": 91000000
+   },
+   {
+    "equipo": "Simulador solar  (200-1200W/m2) tecnologías (Monocrystalline, polycrystalline, PERC, HIT, HJT, N type, IBC)",
+    "especificaciones": "El simulador solar de tipo mesa, fácil de integrar en la línea de producción de módulos solares automáticos, fácil conexión de cables, operación y mantenimiento, velocidad de prueba rápida. Es de clase A+A+A+, duración de pulso largo que varía de 10 ms a 300 ms, capaz de monocristalino, policristalino, PERC, HJT. tipo N. CIB. Prueba de módulos solares de alta eficiencia y alta capacitancia, área de prueba 2,4 m * 1,4 m, Se alimenta con 220V. Equipo que emite una irradiancia entre los 200 y 1200W/m2.",
+    "justificacion": "Necesario para escanear y detectar curvas de comportamiento en relación las características eléctricas según fabricante y observar que cumplan con los estándares de condición internacionales",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 461500000,
+    "vr_total": 461500000
+   },
+   {
+    "equipo": "fuentes de voltajes variables",
+    "especificaciones": "Módulo de alimentación adecuado para el suministro en corriente alterna, fija y variable, y en corriente directa, rectificada, fija y variable, para efectuar fácilmente todas las pruebas sobre las maquinas eléctricas de laboratorio. Está provisto con un pulsador de arranque con interruptor de control remoto, pulsador de paro, pulsador con cabeza de hongo para emergencias y protección magnetotérmica diferencial en las tomas principales. Se alimenta con 220V, 60Hz. Voltaje de salida variable AC hasta 440V, 4.5A / hasta 240V, 8ª. Voltaje de salida fijo AC hasta 380V, 4.5A / hasta 220V, 16ª. Voltaje de salida estándar fijo AC es 127V o 220V, 10ª. Voltaje de salida variable DC hasta 240V, 10A / hasta 225V, 1ª. Voltaje de salida fijo DC es 220V, 10ª. Cumple con los estándares IEC para el control de dispositivos y la seguridad en la conexión de terminales",
+    "justificacion": "Equipo necesario para inducir voltajes a los módulos fotovoltaicos y hacer pruebas de electroluminiscencia.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 19500000,
+    "vr_total": 39000000
+   },
+   {
+    "equipo": "analizadores de red Clase A",
+    "especificaciones": "Calcula la potencia y la eficiencia mecánica sin sensores mecánicos Solo tiene que conectar los conductores de entrada. Mide parámetros de potencia eléctrica como tensión, corriente, potencia, potencia aparente, factor de potencia, distorsión armónica y desequilibrio para identificar características que afectan a la eficiencia del motor. Puede identificar problemas de calidad eléctrica como caídas, subidas, transitorios, armónicos y desequilibrios. Utiliza la captura de datos PowerWave para capturar rápidamente datos de verdadero valor eficaz y mostrar medios ciclos y formas de onda para caracterizar la dinámica de los sistemas eléctricos (arranque de generadores, conmutaciones en SAI, etc.). Ofrece la función de captura de forma de onda para capturar ciclos de 100/120 ciclos (50/60 Hz) de los eventos detectados en todos los modos sin necesidad de configuración. Utiliza el modo de transitorio automático para capturar datos de forma de onda a 200 kS/s en todas las fases y de forma simultánea hasta 6 kV. Calcula automáticamente el factor de desclasificación del motor según las directrices de NEMA/IEC",
+    "justificacion": "Equipos necesario para la medición y caracterización de sistemas de potencia como inversores, de igual forma medición de potencia, curvas de consumo, calidad de la energía, medición de harmónicos, necesarios para estudio de he implementación de sistemas fotovoltaicos y eólicos conectados a la red.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 71500000,
+    "vr_total": 143000000
+   },
+   {
+    "equipo": "termómetros Infrarrojo",
+    "especificaciones": "Medición de -30 a 900 °C (de -22 a 1652 °F). Relación de distancia al punto de medición de 60:1 con doble láser, para apuntar al objetivo con rapidez y exactitud\nInterfaz multilingüe (selección por el usuario). Pantalla de temperatura actual más MAX, MIN, DIF, AVG. Compatible con los termopares tipo K estándar con miniconector. Emisividad ajustable y tabla de emisividades predefinidas. Lectura de temperatura por infrarrojos y termopar en pantalla retroiluminada. Retención de la última lectura (20 segundos). Alarma de temperatura alta y baja Almacenamiento y análisis de datos (99 conjuntos de datos)",
+    "justificacion": "Equipos necesario para medir temperaturas y espectro infrarrojos en sistemas de cableado, caja de conexiones y tableros de distribución de sistemas fotovoltaicos y eólicos.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 6500000,
+    "vr_total": 26000000
+   },
+   {
+    "equipo": "medidor de irradiancia solar",
+    "especificaciones": "Irradiancia: Rango de medición 0 a 1400 W/m², Resolución 1 W/m², Exactitud de medición ± (5% + 5 dígitos).\nMedición de temperatura: Intervalo de medición (°C) -30 °C a 100 °C (-22 °F a 212 °F), Resolución 0,1 °C (0,2 °F) / 1 °F a >100 °F, Exactitud de medición ±1 °C (±2 °F) a entre -10 °C y 75 °C (14 °F y 167 °F), ±2 °C (±4 °F) a entre -30 °C y -10 °C (-22 °F y 14 °F) y entre 75 °C y 100 °C (167 °F y 212 °F).\nÁngulo de inclinación: Rango de medición -90° a +90°, Resolución  0,1°, Exactitud de medición ±1,5° a entre -50° y +50°, ±2,5° a entre -85° y -50° y entre +50° y +85°, ±3,5° a entre -90° y -85° y entre +85° y +90°.\nTemperatura: -20 °C a 50 °C (humedad <80%), sin condensación\nTemperatura de funcionamiento del 80PR-IRR -30 °C a +100 °C\nTemperatura de almacenamiento  -30 °C a 60 °C (humedad <80%)\nAltitud 0 m a 2000 m máx.",
+    "justificacion": "Equipo necesario para medir y analizar la irradiancia incidente sobre el módulo fotovoltaico y poder determinar su eficiencia energética.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 20800000
+   },
+   {
+    "equipo": "pinza amperimétrica de verdadero valor eficaz",
+    "especificaciones": "Medida de corriente CA y CC de 400 A\nMedida de tensión de CA y CC de 600 V\nVoltaje y corriente de CA con verdadero valor eficaz para obtener mediciones exactas en señales no lineales\nMedida de resistencia de hasta 40 kOhm con detección de continuidad\nMediciones de temperatura y capacitancia\nMedición de frecuencia 5,0 Hz a 500,0 Hz",
+    "justificacion": "Equipo necesario para medir características de corriente en sistemas fotovoltaicos y eólicos,",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "multímetro de aislamiento",
+    "especificaciones": "Pruebas de relación de Pi/DAR programadas\nLocalización de voltaje en el circuito bajo prueba que anula la prueba si se detecta voltaje > 30 V\nFiltro de paso bajo para accionadores de frecuencia variable (VFD) para realizar mediciones precisas de los accionadores del motor\nDescarga automática de los voltajes capacitivos para ofrecer una protección adicional al usuario\nPrueba de aislamiento (1587 FC: de 0.01 M? a 2 G?)\nVoltajes de prueba de aislamiento (1587 FC: 50 V, 100 V, 250 V, 500 V, 1000 V) válidas para muchas aplicaciones\nVoltaje de CA/CC, milivoltios de CC, miliamperios de CA/CC, resistencia (?), continuidad\nCapacidad, prueba de diodos, temperatura, mín./máx., frecuencia (Hz)\nApagado automático para ahorrar carga de la batería\nCategoría de medición CAT III, 1000 V, CAT IV, 600 V\nPantalla amplia retroiluminada\nEl estuche rígido y reforzado le permite llevar todo lo que necesita para el trabajo\nAccesorios incluidos: sonda remota, puntas y cables de prueba, pinzas de cocodrilo y termopar tipo K",
+    "justificacion": "Equipó necesario para detectar si hay problemas de aislamientos en el sistema de cableado eléctrico en los sistemas fotovoltaicos y eólicos.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "multímetro digital de verdadero valor eficaz",
+    "especificaciones": "Voltaje y corriente de CA con valor eficaz verdadero para obtener mediciones exactas en señales no lineales\nMediciones de hasta 1000 V CA y CC\nMedida de hasta 10 A (20 A por un máximo de 30 segundos)\nRango de capacidad de 10 000 F\nFrecuencia hasta 50 kHz.\nEl termómetro incorporado le permite tomar lecturas de temperatura sin la necesidad de llevar un instrumento separado.\nPrueba de resistencia, continuidad y diodos\nLa tecnología inalámbrica de baja potencia permite situar la pantalla hasta a 10 metros (33 pies) de distancia del punto de medida a fin de permitir una mayor flexibilidad. No se produce interferencia en las mediciones\nLa pantalla magnética extraíble puede situarse cómodamente donde usted pueda verla.\nTome medidas sin tener que sujetar el multímetro; así podrá concentrarse en las sondas y aumentar la seguridad durante las medidas eléctricas\nCuando la pantalla está montada, se usa como un multímetro convencional.\nEl transmisor de radio se desactiva automáticamente cuando la pantalla se encuentra montada en el multímetro\nApagado automático para alargar la duración de las baterías.\nRegistro de valores mínimo, máximo y promedio para capturar las variaciones automáticamente.\nComprobación de continuidad y diodos.\nPantalla de fácil lectura con números grandes y retroiluminación brillante.\nDuración de la batería de aproximadamente 400 horas",
+    "justificacion": "Equipo necesario para medir características de voltaje en sistemas fotovoltaicos y eólicos,",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "comprobador de puesta a tierra",
+    "especificaciones": "El comprobador de puesta a tierra ofrece almacenamiento de datos y capacidades de descarga mediante un puerto USB.  \nPrueba de bucle de resistencia de tierra con el método de caída de potencial de 3 y 4 hilos\nMedición de la resistividad de suelos de 4 hilos\nMedición de resistencia de tierra de varilla selectiva con 1 pinza\nMedición de resistencia de tierra de varilla sin picas con 2 pinzas\nCon clasificación IP56 para uso en exteriores\nMaletín de transporte rígido\nTransferencia y almacenamiento de datos a través de USB",
+    "justificacion": "Equipo necesario para verificar puestas a tierras ya instaladas, en el que se puede observar si cumplen con las características necesarias para el sistema eléctrico",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7800000,
+    "vr_total": 15600000
+   },
+   {
+    "equipo": "telurómetro Digital, resistencia y resistividad",
+    "especificaciones": "Posee rango automático.\nResistencia a tierra (R) desde 0 hasta 19.99Ω, con precisión de ± (2% + 5).\nResistencia a tierra desde 20Ω hasta 199.9Ω, con precisión de ± (2% + 5).\nResistencia a tierra desde 200Ω hasta 1999Ω, con precisión de ± (2% + 5).\nResistencia a tierra desde 2KΩ hasta 19.99KΩ, con precisión de ± (2% + 5).\nResistencia a tierra desde 20KΩ hasta 210KΩ, con precisión de ± (2% + 5).\nResistividad de suelo (ρ) desde 0Ωm hasta 99.99Ωm, desde 100Ωm hasta 999.9Ωm, desde 1000Ωm hasta 9999Ωm, desde 10KΩm hasta 99.99KΩm, desde 100KΩm hasta 999.9KΩm, desde 1000KΩm hasta 9000KΩm. La precisión es de acuerdo a R (ρ = 2πaR a:1 m ~ 100m; π = 3.141).\nMide voltaje AC a tierra desde 0 hasta 750V, con precisión de ± (2% + 5).\nRealiza prueba de frecuencia en 128Hz, 111Hz, 105Hz, 94Hz (AFC).\nMétodo de medición de resistencia a tierra por cambio de polo de corriente, medida máxima de corriente es 20mA.\nMétodo de medición de resistividad de suelos es por medición de 4 polos con el método Wenner.\nMétodo de medición de voltaje a tierra es con rectificación promedio entre P(S)-ES.\nPrueba de corriente en cortocircuito es máximo 30mA AC.\nPrueba de corriente en circuito abierto es máximo 40V AC.\nEl rango de distancia del electrodo puede ser configurado entre 1m hasta 20m.\nPrueba de voltaje en forma de onda sinusoidal.\nLínea de voltaje por debajo de 750V AC.\nLos tiempos de medición son más de 5000 veces, en prueba de cortocircuito el tiempo de intervalo debe ser al menos 30 segundos.\nPosee una pantalla LCD de 128mm x 75mm.\nPosee retención de datos (Data Hold) y función de alarma.\nCon interfaz RS232.\nPosee indicación de batería baja a un nivel ≤ 7.5V.\nIncluye cables de prueba estándar (4 polos para rojo de 20m, negro de 20m, amarillo de 10, verde de 10m), línea de prueba simple, baterías, CD con software, cable con interfaz RS232.",
+    "justificacion": "Equipo necesario para diseñar y calcular sistemas de puesta a tierras para sistemas eléctricos convencionales, así como para sistemas fotovoltaicos y eólicos.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 32500000,
+    "vr_total": 32500000
+   },
+   {
+    "equipo": "trazador de curvas i-v y verificador del rendimiento fotovoltaico",
+    "especificaciones": "Rangos de medición: tensión de 25, 100, 500 y 1500 V; corriente de 2, 5 10 y 20 A; temperatura de -40 a +100 °C (con Pt1000); e “irradiancia” de 0 a 1300 W/m² (sensor estándar).",
+    "justificacion": "Equipo necesario para analizar características de comportamiento de curvas I-V en sistemas fotovoltaicos aislados y conectados a red, con el objetivo de verificar rendimientos y establecer posibles mantenimiento correctivos y preventivos en sistemas fotovoltaico.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 71500000,
+    "vr_total": 143000000
+   },
+   {
+    "equipo": "analizador y comprobador de baterías para sistemas de batería estacionaria",
+    "especificaciones": "Resistencia de batería/resistencia entre celdas: 3 mΩ-0,001 mΩ; 30 mΩ-0,01 mΩ; 300 mΩ-0,1 mΩ; 3000 mΩ-1 mΩ\nVCC: 6 V-0,001 V;  60 V-0,01 V;  600 V-0,1 V;  1000 V-1 V\nVCA (45 a 500 Hz, con un filtro de 800 Hz):600 V-0,1 V\nFrecuencia (expresada en V CA y A CA): 500 Hz-0,1 Hz\nTensión de rizado de CA (20 kHz máx.): 600 mV-0,1 mV; 6000 mV-1 mV\nA CC/A CA: 400 A-1 A\nTemperatura: 0 °C a 60 °C-1 °C\nModo de multímetro: 999 registros en cada posición de medida con marca de tiempo.\nModo secuencial: Hasta 100 perfiles y 100 plantillas de perfiles (cada perfil puede almacenar hasta 450 baterías) con marca de tiempo",
+    "justificacion": "Equipo necesario para verificar estado de funcionamiento baterías estacionarias ya sea en bancos de sistemas UPS en la industria o sistemas fotovoltaicos aislados.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11700000,
+    "vr_total": 11700000
+   },
+   {
+    "equipo": "cargador de bacterias estacionarias",
+    "especificaciones": "Tensión de salida nominal: 24 V\nCorriente de carga total: 30 A a 28,8 V\nNúmero de salidas para baterías: 3\nSalida auxiliar de corriente de carga: 30 A\nTercera salida de corriente de carga: 30 A\nGama de la capacidad de la batería: 60-300 Ah\nTensión de entrada nominal: 120/230 V (90-265 V), 50/60 Hz\nConexión CA: regleta de conexiones\nSuministra alimentación al sistema sin batería: sí\nPantalla/lectura: pantalla LED\nFijación: soporte de montaje (incluido) o 4x tornillos\nCaracterísticas de carga: IUoUo, automática de 3-etapas+ para baterías de Gel/AGM/húmedas/Ión de Litio\nTensión de carga Inicial: 28,8 V\nTensión de carga Absorción: 28,5 V\nTiempo de Absorción: 4 horas\nTensión de carga Flotante (baterías húmedas): 26,5 V\nTensión de carga Flotante (baterías de gel/AGM): 27,6 V\nCompensación térmica: sí\nCompensación de tensión: automático\nConsumo eléctrico (lado CC): < 2,5 mA\nConsumo a plena carga (230 V CA): 925 W\nFunción de control de corriente: sí, a través de MasterBus\nControl de factor de potencia: ≥ 0,98\nRango de temperatura (temp. ambiente): -25 °C a 60 °C, reducción > 40 °C -13 °F a 140 °F\nRefrigeración: sistema vario fan\nGrado de protección: IP23\nProtecciones: sobretemperatura, sobrecarga, cortocircuito, batería alta, batería baja\nInterfaz de Estado de Carga (contacto de alarma): sí, en combinación con Salida de Contacto Multifunción",
+    "justificacion": "Equipo necesario para cargar baterías estacionarias y verificar su comportamiento de carga y descarga en laboratorio con el analizador y comprobador de baterías.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 10400000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "osciloscopio digital",
+    "especificaciones": "Canales de entrada: 4 o 6 entradas FlexChannel®\nAncho de banda (todos los canales analógicos): 200 MHz, 350 MHz, 500 MHz, 1 GHz, 1.5 GHz (actualizable)\nFrecuencia de muestreo (todos los canales analógicos / digitales): Tiempo real: 6.25 GS/s\nLongitud de grabación (todos los canales analógicos / digitales): Estándar de 31.25 Mmuestras (actualización opcional de 62.5 Mmuestras).\nVelocidad de captura: más de 500,000 formas de onda/s\nResolución vertical: ADC de 12 bits, Hasta 16 bits en modo de alta resolución\nTipos de disparo estándar:\nFlanco, Ancho de pulso, Runt, Tiempo de espera, Ventana, Lógica, Configuración y retención, Tiempo de subida / bajada, Bus paralelo, Secuencia, Disparo visual, Disparo auxiliar ≤300 VRMS (solo disparo de borde)\nAnálisis estándar: Cursores: forma de onda, barras V, barras H, barras V&H. Medidas automáticas: 36\nFastFrameTM: modo de adquisición de memoria segmentada con el máximo velocidad de disparo por segundo\nGráficos: tendencia temporal, histograma y espectro\nMatemáticas: aritmética de forma de onda básica, FFT y editor de ecuaciones avanzadas\nSpectrum View: análisis de dominio de frecuencia con controles independientes para dominios de frecuencia y tiempo\nMedidas de potencia y análisis\nConectividad\nUSB 2.0 Host, dispositivo USB 2.0 (5 puertos); LAN (10/100/1000 Base-T Ethernet); HDMI 3, e*Scope ®: Ver y controlar remotamente el osciloscopio a través de una conexión de red a través de un navegador web estándar",
+    "justificacion": "Equipo necesario necesario para análisis de sistemas electrónicos como tarjetas de potencia en inversores y reguladores de voltaje, de igual forma para análisis de curvas de ondas de salidas de inversores.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 23400000,
+    "vr_total": 23400000
+   },
+   {
+    "equipo": "kits de herramientas",
+    "especificaciones": "Destornilladores, pinzas, alicates, martillos",
+    "justificacion": "Herramientas necesarias para trabajar ensamblaje y desarme de estructuras y equipos de sistemas fotovoltaicos y eólicos.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2560000,
+    "vr_total": 5120000
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia Sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesario para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesario para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de prácticas de sistemas fotovoltaicos",
+  "equipos": [
+   {
+    "equipo": "entrenador modulo Ongrid",
+    "especificaciones": "Fuente de Alimentación Principal Industrial.\nMódulo Analizador de Redes Avanzado.\nAlimentación del Simulador de Panel Avanzado.\nMódulo de Interruptor de Potencia.\nMódulo Inversor Trifásico de Red 2.\nMódulo de Resistencias Variables Trifásico de 1kW.\nMódulo de Inductancias Configurables Trifásico de 3 x 300 Var.\nMódulo Smart Meter de Inyección Cero.\nRelé Electrónico de Tiempo contra Sobrecorrientes (1,2-7A).",
+    "justificacion": "Necesario para la aplicación Fotovoltaica con Conexión a la Red, para estudiar la producción de energía mediante módulos fotovoltaicos y cómo se inyecta esta energía en la red, observar sus características eléctricas y curvas de comportamiento.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 468000000,
+    "vr_total": 468000000
+   },
+   {
+    "equipo": "entrenador modulo Offgrid",
+    "especificaciones": "Módulos de cristal templado con alto nivel de transmisividad. \nMaterial de encapsulamiento: etil-vinil-acetato modificado. \nPotencial nominal de salida: 66W. \nÁrea del panel: 0,51 m². \nCorriente máxima: 3,76 A. Tensión máxima: 17,53 V. \nTreinta y seis células, de 156 x 156 mm cada una. \nSimulador solar compuesto por: \nEstructura de aluminio. \nOcho lámparas halógenas de 400 W cada una, distribuidas en dos circuitos independientes regulables en tensión. \nSeguro eléctricamente. \nSistema de ventilación, controlado desde computador, que permite analizar el efecto de la temperatura sobre la operación del equipo, formado por: \nCuatro ventiladores axiales compactos con guardamanos de plástico. \nRegulador para cargas CC y batería: \nRegula cómo la electricidad generada en los paneles solares fotovoltaicos es distribuida hacia y desde la batería y hacia la carga. Un display informa sobre el estado de carga, parámetros de operación y mensajes de fallo. \nLas funciones de protección electrónica son: Desconexión por alta tensión, protección contra cortocircuito de la carga y el módulo, protección contra sobretensión en la entrada del módulo, protección contra sobretemperatura y sobrecarga y desconexión por sobretensión en la batería. \nCargador auxiliar de batería: \nEvalúa la batería cuidadosamente y entonces distribuye la carga óptima requerida. \nBatería: tensión nominal: 12 V, capacidad (20 horas): 24A/H. \nMódulo de Cargas de CC: \nCaja metálica con diagrama en el panel frontal. \nDos lámparas de 24 V. Un motor de CC: tensión: 36 V, potencia: 5 W. Reóstato de 500 W. \nConexión independiente de cada carga con ayuda del selector de 4 posiciones: \nLos paneles solares funcionan en circuito abierto. \nEl reóstato y las lámparas se conectan directamente a los paneles solares. Estas cargas se pueden conectar independientemente o en paralelo con la ayuda de interruptores manuales. \nEl motor CC se conecta directamente a los paneles solares. \nLa carga CC se desconecta y los paneles solares se conectan directamente al regulador de carga.",
+    "justificacion": "Necesario para la aplicación de Sistemas Fotovoltaicos en Redes en Isla y en Paralelo, para estudiar las operaciones llevadas a cabo en los sistemas de generación de potencia fotovoltaicos que operan aislados de la red nacional de energía y conectados a ella. Este entrenador permite estudiar la generación eléctrica a través de módulos fotovoltaicos, mediante la simulación de diferentes configuraciones y condiciones de irradiación, así como el funcionamiento de éstos en isla y en paralelo con la red. Para ello el entrenador también permite demostrar y entender el funcionamiento de los distintos dispositivos de control, regulación y almacenamiento de energía empleados en sistemas fotovoltaicos reales.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 364000000,
+    "vr_total": 364000000
+   },
+   {
+    "equipo": "Entrenador sistema de bombeo",
+    "especificaciones": "Módulo de Fuente de Alimentación Principal.\nMódulo de Control Remoto de Bombeo.\nMódulo Fuente de Alimentación de CC de 36 VCC, 150W.\nMultímetro Digital.\nEquipo de Bombeo con Dos Depósitos de Agua y Control Manual de la Altura Manométrica.\nOrdenador y pantalla táctil.\nKit de Panel Fotovoltaico de 300 W con Regulador e Instrumentación de Medida.\nPanel de 3 Lámparas con Control Remoto.\nMódulo Regulador Electrónico de Corriente 2.\nMódulo Regulador de Corriente Local/Remoto de CA.\nVoltímetro CC (0-50 V).\nAmperímetro de CC (0-30 A).\nPanel Fotovoltaico, 24 VCC, 300 W.\nBatería de 70 Ah (2 unidades).\nRack requerido para el PV-KIT-300W:\nKit de Turbina Eólica de 400W con Regulador e Instrumentación de Medida.\nTurbina Eólica de Imanes Permanentes 24V, 400 W.\nMódulo Controlador de Servomotor de 200 W.\nMódulo Regulador de Turbina Eólica de 24V, 400W.\nMódulo Convertidor de CA/CC de 400 V.\nVoltímetro CC (0-50 V).\nAmperímetro de CC (0-30 A).\nBatería de 70 Ah (2 unidades).",
+    "justificacion": "Necesario para la aplicación de Bombeo para Redes Aisladas, para mostrar al usuario los principios básicos de funcionamiento de los equipos de bombeo en redes aisladas, exponiendo de forma didáctica los elementos implicados en el proceso de generación y bombeo.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 117000000,
+    "vr_total": 117000000
+   },
+   {
+    "equipo": "Inversor Offgrid 1.5kWp",
+    "especificaciones": "SUMINISTRO CONSTANTE DE ENERGÍA\nTRANSFERENCIA AUTOMATICA MODO UPS\nONDA SINUSOIDAL PURA Y SISTEMA MPPT\nMÚLTIPLES MODOS DE OPERACIÓN:\nPRIORIDAD SOLAR\nPRIORIDAD RED / GENERADOR\nSOLAR CON BACKUP (MODO BATERIAS)\nPOTENCIA PERMITIDA EN PANELES 500Wp\nCORRIENTE Y VOLTAJE DE CARGA AJUSTABLE\nPRIORIDAD AJUSTABLE (BATERÍA, SOLAR O RED)\nPOTENCIA 1.5KVA (1500W) FP=1\nSALIDA NOMINAL 120 VAC\nFRECUENCIA 60 Hz\nCONEXIÓN A BATERIAS 12 VDC\nMODULO DE COMUNICACIÓN USB\nSOFTWARE DE MONITOREO GRATUITO\nPANTALLA LCD CON MENÚ PROGRAMABLE\nTEMPERATURA DE TRABAJO 0 A 55° C\nALARMAS Y PROTECCIONES INCORPORADAS\nCABLES DE CONEXIÓN MODULO DE COMUNICACIÓN USB",
+    "justificacion": "Equipo electrónico de potencia necesario para el estudio de operación y manteamiento de inversores conectados a red.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5850000,
+    "vr_total": 11700000
+   },
+   {
+    "equipo": "Inversor Ongrid 1.5kWp",
+    "especificaciones": "ENTRADA\nPotencia máxima de entrada: 1600W\nTensión máxima de entrada: 420Vdc\nRango de Voltaje marca MPP: (120Vdc uno 335Vdc)\nTensión mínima de entrada: 120Vdc\nVoltaje para arranque: 140Vdc\nCorriente de entrada máxima: 13.3A\nSALIDA\nPotencia nominal de salida: 1500W\nVoltaje de SALIDA (Rango): 180Vac a 270Vac\nFrecuencia de SALIDA: 60Hz\nCorriente máxima de salida: 7.2A\n OTRAS CARACTERÍSTICAS\nMáxima Eficiencia: 95.9%\nConsumo interno (Noche): <1W\nTemperatura de funcionamiento: -25 °C a +50 °C\nFrecuencia de SALIDA: 60Hz",
+    "justificacion": "Equipo electrónico de potencia necesario para el estudio de operación y manteamiento de inversores en modo aislado.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5850000,
+    "vr_total": 11700000
+   },
+   {
+    "equipo": "Microinversor 1.5kWp",
+    "especificaciones": "ENTRADA\nPotencia máxima de entrada: 1600W\nTensión máxima de entrada: 420Vdc\nRango de Voltaje marca MPP: (120Vdc uno 335Vdc)\nTensión mínima de entrada: 120Vdc\nVoltaje para arranque: 140Vdc\nCorriente de entrada máxima: 13.3A\nSALIDA\nPotencia nominal de salida: 1500W\nVoltaje de SALIDA (Rango): 180Vac a 270Vac\nFrecuencia de SALIDA: 60Hz\nCorriente máxima de salida: 7.2A\n OTRAS CARACTERÍSTICAS\nMáxima Eficiencia: 95.9%\nConsumo interno (Noche): <1W\nTemperatura de funcionamiento: -25 °C a +50 °C\nFrecuencia de SALIDA: 60Hz",
+    "justificacion": "Equipo electrónico de potencia necesario para el estudio de operación y manteamiento de microinversores conectados a red.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 3250000,
+    "vr_total": 13000000
+   },
+   {
+    "equipo": "Inversor hibrido 1.5kWp",
+    "especificaciones": "SUMINISTRO CONSTANTE DE ENERGÍA\nTRANSFERENCIA AUTOMATICA MODO UPS\nONDA SINUSOIDAL PURA Y SISTEMA MPPT\nMÚLTIPLES MODOS DE OPERACIÓN:\nPRIORIDAD SOLAR\nPRIORIDAD RED / GENERADOR\nSOLAR CON BACKUP (MODO BATERIAS)\nPOTENCIA PERMITIDA EN PANELES 500Wp\nCORRIENTE Y VOLTAJE DE CARGA AJUSTABLE\nPRIORIDAD AJUSTABLE (BATERÍA, SOLAR O RED)\nPOTENCIA 1.5KVA (1500W) FP=1\nSALIDA NOMINAL 120 VAC\nFRECUENCIA 60 Hz\nCONEXIÓN A BATERIAS 12 VDC\nMODULO DE COMUNICACIÓN USB\nSOFTWARE DE MONITOREO GRATUITO\nPANTALLA LCD CON MENÚ PROGRAMABLE\nTEMPERATURA DE TRABAJO 0 A 55° C\nALARMAS Y PROTECCIONES INCORPORADAS\nCABLES DE CONEXIÓN MODULO DE COMUNICACIÓN USB",
+    "justificacion": "Equipo electrónico de potencia necesario para el estudio de operación y manteamiento de inversores híbridos en modo Off y On grid",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "Controladores MPPT 60A",
+    "especificaciones": "MPPT Eficiencia 98%\nEntrada max solar : 145 V (Puede colocar hasta 3 paneles serie)\n12/24/36/48V identificación automática.\nHasta 3760W en paneles a 48V DC\nPantalla LCD (% carga batería, Voltaje, Corriente, Estado del sistema, Temperatura, Capacidad)\nConfiguración del tipo de carga, tipo de batería.\nPuerto RS485 para comunicación MODBUS y USB para conexión a PC.\nAvanzado sistema de carga de 3 etapas.\nProtección contra sobrecarga, sobre descarga y corto-circuito.\nEcualización de baterías automática.\nCompatible con baterías de Litio.",
+    "justificacion": "Equipos necesarios para el estudio de control y regulación de carga en baterías de litio.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 3250000,
+    "vr_total": 6500000
+   },
+   {
+    "equipo": "Banco de baterías de litio",
+    "especificaciones": "Tensión de trabajo nominal (V): 24V\nCapacidad útil: 2550Wh\nDimensiones físicas (en mm): 442 x 420 x 120\nPeso: 26,5Kg\nInterfaces de comunicaciones: RS485\nCertificaciones: IEC62619, CE, RoHS, UN38.3\nVida útil estimada: más de 10 años (25ºC)\nCiclos de vida: más de 6000 con descargas al 90% DoD",
+    "justificacion": "Equipos necesarios para el estudio de sistemas con banco de baterías de litio, analizar modo carga y descarga, operación y manteamiento de este tipo de bancos de baterías",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 13000000,
+    "vr_total": 26000000
+   },
+   {
+    "equipo": "Protecciones eléctricas sistemas fotovoltaico",
+    "especificaciones": "Descargador de tensiones transitorias\nPararrayos\nDescargador de sobretensiones permanentes\nInterruptores por disparo por baja tensión\nInterruptores magneto-térmicos\nFusibles\nVaristores o descargadores\nInterruptores diferenciales\nToma de tierra.",
+    "justificacion": "Dispositivos de protecciones utilizados en sistemas fotovoltaicos, necesarios para conocer su operación, aplicación y conexión eléctrica.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 9750000,
+    "vr_total": 9750000
+   },
+   {
+    "equipo": "Cableado para sistema fotovoltaico 100mt",
+    "especificaciones": "Cableado para sistema fotovoltaico AWG 12 - 100mt",
+    "justificacion": "Cableado es necesario para la interconexión de los generadores fotovoltaicos con los inversores y otros dispositivos, además de mostrar en forma practica la correcta conexión de sistemas series y paralelos entre los módulos fotovoltaicos.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 5200000
+   },
+   {
+    "equipo": "Conectores MC4",
+    "especificaciones": "Voltaje de funcionamiento: entre 600V a 1000V DC.\nCorriente Nominal: 30A\nResistencia de los contactos: 0.5 miliOhms\nTemperatura límite Superior: +105° (Según la IEC)\nTemperatura límite inferior: -40°\nMaterial de la terminal: Aleación de cobre estañado\nGrado impermeable – Nivel de protección: IP67 para terminales hembras; IP68 para terminales macho.\nMaterial de aislamiento: PPO + PA\nCable Solar conveniente: 2.5mm 2.4mm 2.6mm (AWG14, AWG12, AWG10)",
+    "justificacion": "Dispositivos necesarios para mostrar buenas prácticas de interconexión entre el cableado, equipos de potencia y protecciones",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 5200000
+   },
+   {
+    "equipo": "Medidores de energía bidireccional AC",
+    "especificaciones": "Clase de precisión: 1\nTensión: 120/208V\nCorriente: 5/100A\nMedida bidireccional en kWh & kVAR\nRegistro de máxima demanda para kW & kVAR\nRegistro de energía importada/exportada en 4 cuadrantes.\nPermite comunicación óptica, RS485, PLC, LoRa\nLectura remota a través de módulos GPRS, Wi-fi o Ethernet.",
+    "justificacion": "Equipos necesarios para el estudio y análisis excedentes de energía entregados a la red.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 4550000,
+    "vr_total": 9100000
+   },
+   {
+    "equipo": "Medidores de energía AC",
+    "especificaciones": "montaje sobre riel DIN; con funciones de protección para la carga\nAC 85-300V 50/60HZ\nProtección contra sobrecorriente, protección contra sobretensión, protección contra bajo voltaje puede deshabilitar uno, dos o tres de ellos.\nEl dispositivo tiene protección contra rayos para sí mismo.\n0.5% de precisión de voltaje y corriente\nSu propio consumo de energía <0,5 W\nSe puede volver a conectar manual y automáticamente.\nPuede configurar el tiempo de retardo y de retardo\nSe puede utilizar como un interruptor normal\nSe puede utilizar como interruptor de ciclo.",
+    "justificacion": "Equipos para visualización de características eléctricas de salida de inversores ON, OFF, Micro e Hibridos, necesarios para mostrar los diferentes comportamientos eléctricos que tiene cada uno de estos dispositivos.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1950000,
+    "vr_total": 7800000
+   },
+   {
+    "equipo": "Tablero de conexión de cableado",
+    "especificaciones": "Tablero de conexión de cableado",
+    "justificacion": "Necesarios para estudiar y conocer las diferentes conexiones eléctricas que se pueden dar en generadores fotovoltaicos",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11050000,
+    "vr_total": 22100000
+   },
+   {
+    "equipo": "Generador fotovoltaico 1kWp policristalino",
+    "especificaciones": "4 paneles fotovoltaico de 400kWp de tecnologia policristalino",
+    "justificacion": "Planta de generación fotovoltaica necesaria para el análisis y comportamiento de las características eléctricas en condiciones reales, con el fin de demostrar y comparar diferentes tecnologías en sistemas fotovoltaico, para dar a conocer las ventajas y desventajas que tiene cada tecnología comercial.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 9100000,
+    "vr_total": 9100000
+   },
+   {
+    "equipo": "Generador fotovoltaico 1kWp monocristalino",
+    "especificaciones": "4 paneles fotovoltaico de 400kWp de tecnologia monocristalino",
+    "justificacion": "Planta de generación fotovoltaica necesaria para el análisis y comportamiento de las características eléctricas en condiciones reales, con el fin de demostrar y comparar diferentes tecnologías en sistemas fotovoltaico, para dar a conocer las ventajas y desventajas que tiene cada tecnología comercial.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 9750000,
+    "vr_total": 9750000
+   },
+   {
+    "equipo": "Generador fotovoltaico 1kWp Mono PERC",
+    "especificaciones": "4 paneles fotovoltaico de 400kWp de tecnologia Mono PERC",
+    "justificacion": "Planta de generación fotovoltaica necesaria para el análisis y comportamiento de las características eléctricas en condiciones reales, con el fin de demostrar y comparar diferentes tecnologías en sistemas fotovoltaico, para dar a conocer las ventajas y desventajas que tiene cada tecnología comercial.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 9100000,
+    "vr_total": 9100000
+   },
+   {
+    "equipo": "Generador fotovoltaico 1kWp Mono Bifacial",
+    "especificaciones": "4 paneles fotovoltaico de 400kWp de tecnologia Mono Bifacial",
+    "justificacion": "Planta de generación fotovoltaica necesaria para el análisis y comportamiento de las características eléctricas en condiciones reales, con el fin de demostrar y comparar diferentes tecnologías en sistemas fotovoltaico, para dar a conocer las ventajas y desventajas que tiene cada tecnología comercial.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11050000,
+    "vr_total": 11050000
+   },
+   {
+    "equipo": "Generador fotovoltaico 1kWp Bifacial tipo N",
+    "especificaciones": "4 paneles fotovoltaico de 400kWp de tecnologia Bifacial tipo N",
+    "justificacion": "Planta de generación fotovoltaica necesaria para el análisis y comportamiento de las características eléctricas en condiciones reales, con el fin de demostrar y comparar diferentes tecnologías en sistemas fotovoltaico, para dar a conocer las ventajas y desventajas que tiene cada tecnología comercial.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11700000,
+    "vr_total": 11700000
+   },
+   {
+    "equipo": "Generador fotovoltaico 1kWp thinfilm",
+    "especificaciones": "6 paneles fotovoltaico de 200kWp de tecnologia thinfilm",
+    "justificacion": "Planta de generación fotovoltaica necesaria para el análisis y comportamiento de las características eléctricas en condiciones reales, con el fin de demostrar y comparar diferentes tecnologías en sistemas fotovoltaico, para dar a conocer las ventajas y desventajas que tiene cada tecnología comercial.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 12350000,
+    "vr_total": 12350000
+   },
+   {
+    "equipo": "kits de herramientas para sistemas fotovoltaico",
+    "especificaciones": "destornilladores de paleta y cruz, pinzas, alicates, martillos, Crimpadora MC4 - MC3, engarzador de cable, llaves rectas de conector solar.",
+    "justificacion": "Herramientas necesarias para trabajar ensamblaje y desarme de estructuras y equipos de sistemas fotovoltaicos",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 4550000,
+    "vr_total": 9100000
+   },
+   {
+    "equipo": "pinza amperimétrica de verdadero valor eficaz",
+    "especificaciones": "Medida de corriente CA y CC de 400 A\nMedida de tensión de CA y CC de 600 V\nVoltaje y corriente de CA con verdadero valor eficaz para obtener mediciones exactas en señales no lineales\nMedida de resistencia de hasta 40 kOhm con detección de continuidad\nMediciones de temperatura y capacitancia\nMedición de frecuencia 5,0 Hz a 500,0 Hz",
+    "justificacion": "Equipo necesario para medir características de corriente en sistemas fotovoltaicos,",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "multímetro digital de verdadero valor eficaz",
+    "especificaciones": "Voltaje y corriente de CA con valor eficaz verdadero para obtener mediciones exactas en señales no lineales\nMediciones de hasta 1000 V CA y CC\nMedida de hasta 10 A (20 A por un máximo de 30 segundos)\nRango de capacidad de 10 000 F\nFrecuencia hasta 50 kHz.\nEl termómetro incorporado le permite tomar lecturas de temperatura sin la necesidad de llevar un instrumento separado.\nPrueba de resistencia, continuidad y diodos\nLa tecnología inalámbrica de baja potencia permite situar la pantalla hasta a 10 metros (33 pies) de distancia del punto de medida a fin de permitir una mayor flexibilidad. No se produce interferencia en las mediciones\nLa pantalla magnética extraíble puede situarse cómodamente donde usted pueda verla.\nTome medidas sin tener que sujetar el multímetro; así podrá concentrarse en las sondas y aumentar la seguridad durante las medidas eléctricas\nCuando la pantalla está montada, se usa como un multímetro convencional.\nEl transmisor de radio se desactiva automáticamente cuando la pantalla se encuentra montada en el multímetro\nApagado automático para alargar la duración de las baterías.\nRegistro de valores mínimo, máximo y promedio para capturar las variaciones automáticamente.\nComprobación de continuidad y diodos.\nPantalla de fácil lectura con números grandes y retroiluminación brillante.\nDuración de la batería de aproximadamente 400 horas",
+    "justificacion": "Equipo necesario para medir características de voltaje en sistemas fotovoltaicos",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "medidor de irradiancia solar",
+    "especificaciones": "Irradiancia: Rango de medición 0 a 1400 W/m², Resolución 1 W/m², Exactitud de medición ± (5% + 5 dígitos).\nMedición de temperatura: Intervalo de medición (°C) -30 °C a 100 °C (-22 °F a 212 °F), Resolución 0,1 °C (0,2 °F) / 1 °F a >100 °F, Exactitud de medición ±1 °C (±2 °F) a entre -10 °C y 75 °C (14 °F y 167 °F), ±2 °C (±4 °F) a entre -30 °C y -10 °C (-22 °F y 14 °F) y entre 75 °C y 100 °C (167 °F y 212 °F).\nÁngulo de inclinación: Rango de medición -90° a +90°, Resolución  0,1°, Exactitud de medición ±1,5° a entre -50° y +50°, ±2,5° a entre -85° y -50° y entre +50° y +85°, ±3,5° a entre -90° y -85° y entre +85° y +90°.\nTemperatura: -20 °C a 50 °C (humedad <80%), sin condensación\nTemperatura de funcionamiento del 80PR-IRR -30 °C a +100 °C\nTemperatura de almacenamiento  -30 °C a 60 °C (humedad <80%)\nAltitud 0 m a 2000 m máx.",
+    "justificacion": "Equipo necesario para medir y analizar la irradiancia incidente sobre el módulo fotovoltaico y poder determinar su eficiencia energética.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 20800000
+   },
+   {
+    "equipo": "Tablero de conexión con cargas de iluminación, resistivas e inductivas",
+    "especificaciones": "Cargas de iluminación\nPlancha metálica\nEstructura metálica\nSoporte o mesa\nBornera Aisladas 4mm\nVariac trifásico de 3KVA. 0-230V.\nBreaker trifásico 3P-10A. para riel Din (Schneider)\nluz piloto 120V. color rojo (Camsco)\nTransformadores 250VA. 120V.-12V. (Schneider)\nRectificador AC/DC 25A. tipo puente\nParta fusibles 23A. para riel Din. (Camsco)\nSelectores (2 posición on-off). (Camsco)\nMedidor de fuente DC. digital\nAnalizador de red trifásica (PM700) (Schneider)\nInductores (0.1A,0.2A, 0.5A,0.75A).\nOsciloscopio de 2 canales (National Instruments)\nResistencias 50W en la gama 500kΩ, 750Ω, 1kΩ, 1.5KΩ\nMotor 1φ 3/4HP. (Siemens)\nCapacitores 370VAC. de: 2uf, 4uf, 7.5uf, 10uf",
+    "justificacion": "Necesaria para conectar a los sistemas de generación fotovoltaica, para analizar curvas de cargas y comportamiento de los inversores con diferentes cargas eléctricas de consumo de energía.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 12350000,
+    "vr_total": 12350000
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesario para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesario para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de energía eólica",
+  "equipos": [
+   {
+    "equipo": "Estación meteorológica: radiación, velocidad y dirección de viento, precipitación, rayos UV, temperatura Humedad, transmisión de datos inalámbricos.",
+    "especificaciones": "Variables meteorológicas:\nVelocidad y dirección del viento.\nTemperatura y humedad interior y exterior.\nTemperatura de sensación y punto de rocío.\nLluvia actual y acumulada diaria, mensual y anual.\nIntensidad de lluvia.\nPresión atmosférica actual y tendencia.\nPronóstico meteorológico.\nFase lunar y hora de puesta y salida del sol.",
+    "justificacion": "Necesario para la adquisición de variables meteorológicas, para el análisis estadístico y aprendizaje de los modelos predictivos de comportamiento de viento.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 72150000,
+    "vr_total": 72150000
+   },
+   {
+    "equipo": "Entrenador de energía eólica con generador síncrono de imanes permanentes",
+    "especificaciones": "Módulo rectificador puente trifásico.\nMódulo de carga CC. Incluye una lámpara dricroica de 20W y una lámpara LED de 3W con interruptores independientes.\nMódulo de gestión de carga con tres salidas monofásicas independientes para el estudio dinámico de los diferentes tipos de cargas.\nMódulo de gestión de carga con tres salidas monofásicas independientes para el estudio dinámico de los diferentes tipos de cargas.\nMódulo disyuntor.\nFuente de alimentación monofásica fija reglada a la tensión de red con salida de tensión auxiliar fija reglada de 12 Vcc para alimentar módulos de medición.\nBatería 100Ah con módulo de protección de la batería.\nGrupo motor/generador para la simulación de una turbina eólica. Incluye un generador de imán permanente trifásico de aprox. 400w.\nInversor trifásico para accionamiento del motor asíncrono y control de la velocidad. Potencia nominal: 1.5 kW.\nMódulo inversor off-grid, con salida de onda sinusoidal pura a la tensión de red.\nControlador de carga de la turbina eólica con sistema de frenos.\nCarga activa CC usada en los laboratorios de energías renovables configurable como resistencia constante o como corriente\nconstante.\nMódulo de medición multifunción para aplicaciones eólicas: incluye cuatro instrumentos separados para medir todos los parámetros fundamentales para el estudio de\nun sistema eólico.\nInversor grid-tie, con salida a la tensión de red.\nBastidor de tres niveles.",
+    "justificacion": "Necesario para investigar experimentalmente sobre la conversión de la energía eólica en electricidad mediante un generador de energía eólica. El equipo está configurado para trabajar en modo aislado y está fabricado utilizando componentes reales disponibles en el mercado.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 520000000,
+    "vr_total": 520000000
+   },
+   {
+    "equipo": "Aerogenerador 1.5kWp de eje horizontal",
+    "especificaciones": "Diámetro del rotor: 2100 cm\nVelocidad viento de inicio 2 m/s\nVelocidad de viento nominal 12.5 m/s\nSoporte máximo 60 m/s\nVoltaje 24 v/ac\nPotencia nominal 1500 w\nPotencia máxima 1600 w",
+    "justificacion": "Generador eólico necesario para estudio en situ de características eléctricas de potencia en relación a velocidades en viento en tiempo real con apoyo de la estación meteorológica.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 22750000,
+    "vr_total": 22750000
+   },
+   {
+    "equipo": "Aerogenerador 400Wp de eje horizontal",
+    "especificaciones": "Potencia Nominal: 400W\nPotencia Máxima: 430w\nVoltaje:  24v\nVelocidad de Viento para funcionamiento : 2.5m/s\nPeso Total: 13 kg\nDiámetro: 1.7m\nNumero de hojas: 3/5",
+    "justificacion": "Generador eólico necesario para estudio en situ de características eléctricas de potencia en relación a velocidades en viento en tiempo real con apoyo de la estación meteorológica.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 8450000,
+    "vr_total": 8450000
+   },
+   {
+    "equipo": "Aerogenerador 400Wp de eje vertical",
+    "especificaciones": "Potencia Nominal: 400W\nPotencia Máxima: 430w\nVoltaje:  24v\nVelocidad de Viento para funcionamiento : 2.5m/s\nPeso Total: 13 kg\nDiámetro: 1.7m\nNumero de hojas: 3/5",
+    "justificacion": "Generador eólico necesario para estudio en situ de características eléctricas de potencia en relación a velocidades en viento en tiempo real con apoyo de la estación meteorológica.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 8450000,
+    "vr_total": 8450000
+   },
+   {
+    "equipo": "Inversor Offgrid 1.5kWp",
+    "especificaciones": "SUMINISTRO CONSTANTE DE ENERGÍA\nTRANSFERENCIA AUTOMATICA MODO UPS\nONDA SINUSOIDAL PURA Y SISTEMA MPPT\nMÚLTIPLES MODOS DE OPERACIÓN:\nPRIORIDAD SOLAR\nPRIORIDAD RED / GENERADOR\nSOLAR CON BACKUP (MODO BATERIAS)\nPOTENCIA PERMITIDA EN PANELES 500Wp\nCORRIENTE Y VOLTAJE DE CARGA AJUSTABLE\nPRIORIDAD AJUSTABLE (BATERÍA, SOLAR O RED)\nPOTENCIA 1.5KVA (1500W) FP=1\nSALIDA NOMINAL 120 VAC\nFRECUENCIA 60 Hz\nCONEXIÓN A BATERIAS 12 VDC\nMODULO DE COMUNICACIÓN USB\nSOFTWARE DE MONITOREO GRATUITO\nPANTALLA LCD CON MENÚ PROGRAMABLE\nTEMPERATURA DE TRABAJO 0 A 55° C\nALARMAS Y PROTECCIONES INCORPORADAS\nCABLES DE CONEXIÓN MODULO DE COMUNICACIÓN USB",
+    "justificacion": "Equipo electrónico de potencia necesario para estudio de operación y manteamiento de inversores en sistemas de generación eólica, así como prácticas en diferentes configuraciones Offgrid",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5850000,
+    "vr_total": 5850000
+   },
+   {
+    "equipo": "Inversor Ongrid 1.5kWp",
+    "especificaciones": "ENTRADA\nPotencia máxima de entrada: 1600W\nTensión máxima de entrada: 420Vdc\nRango de Voltaje marca MPP: (120Vdc uno 335Vdc)\nTensión mínima de entrada: 120Vdc\nVoltaje para arranque: 140Vdc\nCorriente de entrada máxima: 13.3A\nSALIDA\nPotencia nominal de salida: 1500W\nVoltaje de SALIDA (Rango): 180Vac a 270Vac\nFrecuencia de SALIDA: 60Hz\nCorriente máxima de salida: 7.2A\n OTRAS CARACTERÍSTICAS\nMáxima Eficiencia: 95.9%\nConsumo interno (Noche): <1W\nTemperatura de funcionamiento: -25 °C a +50 °C\nFrecuencia de SALIDA: 60Hz",
+    "justificacion": "Equipo electrónico de potencia necesario para estudio de operación y manteamiento de inversores en sistemas de generación eólica, así como prácticas en diferentes configuraciones Ongrid",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5850000,
+    "vr_total": 5850000
+   },
+   {
+    "equipo": "Controladores MPPT para generadores eólicos con carga fantasma.",
+    "especificaciones": "1400 W Off Grid con descargador Hybrid Wind Solar Controller Auto 12/24 V Batería MPPT Boost Flotador de máximo 800 W Generador de turbina eólica 600 W Panel",
+    "justificacion": "Equipos necesario para estudio de control y regulación de carga en baterías de litio.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11050000,
+    "vr_total": 11050000
+   },
+   {
+    "equipo": "Protecciones eléctricas sistemas con generador eólico",
+    "especificaciones": "Descargador de tensiones transitorias\nPararrayos\nDescargador de sobretensiones permanentes\nInterruptores por disparo por baja tensión\nInterruptores magneto-térmicos\nFusibles\nVaristores o descargadores\nInterruptores diferenciales\nToma de tierra.",
+    "justificacion": "Dispositivos de protecciones utilizados en sistemas con generador eólico, necesarios para conocer su operación, aplicación y conexión eléctrica.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 9750000,
+    "vr_total": 9750000
+   },
+   {
+    "equipo": "Cableado para sistema con generador eólico",
+    "especificaciones": "Cableado DC AWG 12 - 100mt\nCableado AC AWG 12 - 100mt",
+    "justificacion": "Cableado es necesario para la interconexión de los generadores eólicos con los inversores y otros dispositivos, además de mostrar en forma practica la correcta conexión estos sistemas.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 5200000
+   },
+   {
+    "equipo": "Conectores MC4",
+    "especificaciones": "Voltaje de funcionamiento: entre 600V a 1000V DC.\nCorriente Nominal: 30A\nResistencia de los contactos: 0.5 miliOhms\nTemperatura límite Superior: +105° (Según la IEC)\nTemperatura límite inferior: -40°\nMaterial de la terminal: Aleación de cobre estañado\nGrado impermeable – Nivel de protección: IP67 para terminales hembras; IP68 para terminales macho.\nMaterial de aislamiento: PPO + PA\nCable Solar conveniente: 2.5mm 2.4mm 2.6mm (AWG14, AWG12, AWG10)",
+    "justificacion": "Dispositivos necesarios para mostrar buenas prácticas de interconexión entre el cableado, equipos de potencia y protecciones",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 5200000
+   },
+   {
+    "equipo": "Medidores de energía AC",
+    "especificaciones": "montaje sobre riel DIN; con funciones de protección para la carga\nAC 85-300V 50/60HZ\nProtección contra sobrecorriente, protección contra sobretensión, protección contra bajo voltaje puede deshabilitar uno, dos o tres de ellos.\nEl dispositivo tiene protección contra rayos para sí mismo.\n0.5% de precisión de voltaje y corriente\nSu propio consumo de energía <0,5 W\nSe puede volver a conectar manual y automáticamente.\nPuede configurar el tiempo de retardo y de retardo\nSe puede utilizar como un interruptor normal\nSe puede utilizar como interruptor de ciclo.",
+    "justificacion": "Equipos necesarios para la visualización de características eléctricas de salida de inversores Ongrid, Offgrid, con el objetivo de mostrar los diferentes comportamientos eléctricos que tiene cada uno de estos dispositivos.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 4550000,
+    "vr_total": 9100000
+   },
+   {
+    "equipo": "Tablero de conexión de cableado",
+    "especificaciones": "Tablero de conexión de cableado",
+    "justificacion": "Necesarias para estudiar y conocer las diferentes conexiones eléctricas que se pueden dar en los generadores eólicos",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11050000,
+    "vr_total": 11050000
+   },
+   {
+    "equipo": "Kits de herramientas para sistemas eólicos",
+    "especificaciones": "(destornilladores, pinzas, alicates, martillos, Crimpadora MC4 - MC3, engarzador de cable)",
+    "justificacion": "Herramientas necesarias para trabajar ensamblaje y desarme de estructuras y equipos de sistemas eolicos",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5200000,
+    "vr_total": 5200000
+   },
+   {
+    "equipo": "Pinza amperimétrica de verdadero valor eficaz",
+    "especificaciones": "Medida de corriente CA y CC de 400 A\nMedida de tensión de CA y CC de 600 V\nVoltaje y corriente de CA con verdadero valor eficaz para obtener mediciones exactas en señales no lineales\nMedida de resistencia de hasta 40 kOhm con detección de continuidad\nMediciones de temperatura y capacitancia\nMedición de frecuencia 5,0 Hz a 500,0 Hz",
+    "justificacion": "Necesarias para medir características de corriente en sistemas con generador eólico",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "Multímetro digital de verdadero valor eficaz",
+    "especificaciones": "Voltaje y corriente de CA con valor eficaz verdadero para obtener mediciones exactas en señales no lineales\nMediciones de hasta 1000 V CA y CC\nMedida de hasta 10 A (20 A por un máximo de 30 segundos)\nRango de capacidad de 10 000 F\nFrecuencia hasta 50 kHz.\nEl termómetro incorporado le permite tomar lecturas de temperatura sin la necesidad de llevar un instrumento separado.\nPrueba de resistencia, continuidad y diodos\nLa tecnología inalámbrica de baja potencia permite situar la pantalla hasta a 10 metros (33 pies) de distancia del punto de medida a fin de permitir una mayor flexibilidad. No se produce interferencia en las mediciones\nLa pantalla magnética extraíble puede situarse cómodamente donde usted pueda verla.\nTome medidas sin tener que sujetar el multímetro; así podrá concentrarse en las sondas y aumentar la seguridad durante las medidas eléctricas\nCuando la pantalla está montada, se usa como un multímetro convencional.\nEl transmisor de radio se desactiva automáticamente cuando la pantalla se encuentra montada en el multímetro\nApagado automático para alargar la duración de las baterías.\nRegistro de valores mínimo, máximo y promedio para capturar las variaciones automáticamente.\nComprobación de continuidad y diodos.\nPantalla de fácil lectura con números grandes y retroiluminación brillante.\nDuración de la batería de aproximadamente 400 horas",
+    "justificacion": "Necesarias para medir características de voltaje en sistemas con generador eólico",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 10400000
+   },
+   {
+    "equipo": "Tablero de conexión con cargas de iluminación, resistivas e inductivas",
+    "especificaciones": "Cargas de iluminación\nPlancha metálica\nEstructura metálica\nSoporte o mesa\nBornera Aisladas 4mm\nVariac trifásico de 3KVA. 0-230V.\nBreaker trifásico 3P-10A. para riel Din (Schneider)\nluz piloto 120V. color rojo (Camsco)\nTransformadores 250VA. 120V.-12V. (Schneider)\nRectificador AC/DC 25A. tipo puente\nParta fusibles 23A. para riel Din. (Camsco)\nSelectores (2 posición on-off). (Camsco)\nMedidor de fuente DC. digital\nAnalizador de red trifásica (PM700) (Schneider)\nInductores (0.1A,0.2A, 0.5A,0.75A).\nOsciloscopio de 2 canales (National Instruments)\nResistencias 50W en la gama 500kΩ, 750Ω, 1kΩ, 1.5KΩ\nMotor 1φ 3/4HP. (Siemens)\nCapacitores 370VAC. de: 2uf, 4uf, 7.5uf, 10uf",
+    "justificacion": "Necesaria para conectar a los sistemas con generador eólico, para analizar curvas de cargas y comportamiento de los inversores con diferentes cargas eléctricas de consumo de energía.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 12350000,
+    "vr_total": 12350000
+   },
+   {
+    "equipo": "Anemómetro digital portable",
+    "especificaciones": "Rango velocidad viento  0 a 67 m/s\nRango de dirección del viento   360 grados, Sin banda muerta\nMemoria   1 MB o 100.000 registros aprox\nTiempo de muestreo  1 a 60 minutos\n Interfaz de comunicación a pc por usb (Cable y software incluidos)\n Unidades de medida mph, kph, knots, m/s",
+    "justificacion": "Necesaria para la medición de viento en situ, para estudio de características de viento.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11050000,
+    "vr_total": 11050000
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Necesaria para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Taller de estructura de sistemas fotovoltaicos y eólicos",
+  "equipos": [
+   {
+    "equipo": "Taladro Industrial de árbol 2HP",
+    "especificaciones": "Potencia Motor: 500W\nCapacidad Mandril (mm/in) 16 - 5/8\"\nDesplazamiento Vertical (mm): 50\nCono de Mandril: MT2\nNo de Velocidades: 5\nRPM: 500-2500\nSwing (mm): 160\nTamaño Mesa (mm): 2160 x 160\nBase (mm): 340 x 210 Mesa cuadrada 16*16\nAltura Total: 60 cm\nUso profesional",
+    "justificacion": "Necesario para tareas de perforación en serie o de mayor precisión",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 3250000,
+    "vr_total": 6500000
+   },
+   {
+    "equipo": "Taladro Industrial inalámbrico 24V",
+    "especificaciones": "Taladro 24v\nAtornillador\nPercutor\n2 Baterías De Litio\nReversible\n2 Velocidades\n2 Baterías De Litio De 24v\nCargador Carga Rápida\nProtección Contra Sobrecarga\nLuz Led\nVelocidad Variable Con El Switch",
+    "justificacion": "Necesario para el taladrado / martilleo en superficies diferentes como la madera y la mampostería, como para apretar o aflojar tornillos o tuercas de todo tipo",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1950000,
+    "vr_total": 3900000
+   },
+   {
+    "equipo": "Juego de brocas para estructuras metálicas",
+    "especificaciones": "Kit de brocas para Metal forjadas de alta acero de alta velocidad, asegurando alta calidad y durabilidad. Incluye estuche bi-material inyectado para la organización y el almacenamiento de herramientas. Contiene 29 piezas con las siguientes medidas: 1/16 , 5/64 , 3/32 , 7/64 , 1/8 , 9/64 , 5/32 , 11/64 , 3/16 , 13/64 , 7/32 , 15/64 , 1/4 , 17/64 , 9/32 , 19/64 , 5/16 , 21/64 , 11/32 , 23/64 , 3/8 , 25/64 , 13/32 , 27/64 , 7/16 , 29/64 , 15/32 , 31/64 y 1/2\"",
+    "justificacion": "Necesario para las tareas de perforación en diferentes tipos de superficies",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 975000,
+    "vr_total": 1950000
+   },
+   {
+    "equipo": "Dobladora de tubos hidráulica hasta 5”",
+    "especificaciones": "Eléctrico dobladora de tubos hidráulica\nMax presión: 21 Ton; Max del trazo: 14 – 9/16\" (370 mm)\nRango de trabajo: ф0.84 \" – ф4.25\" (ф21.5 – ф108 mm); Grosor de la pared: Tubo 0.10\" -0.23\" (2.75 – 6 mm)\nPlantillas de flexión: 1/2,\" 3/4,\" 1,\" 1 – 1/4,\" 1 – 1/2,\" 2,\" 2 – 1/2,\" 3,\" 4\"; Motor: 110 V @ 60 Hz; 750 Watt @ 12,0 a; 1720 rpm\nCantidad: 1; Peso aprox/n.w.: 330 libras/297 libra",
+    "justificacion": "Necesaria para para realizar moldeos y curvaturas en tubos metálicos",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 58500000,
+    "vr_total": 58500000
+   },
+   {
+    "equipo": "Tronzadora industrial de corte rápido 14”",
+    "especificaciones": "Potencia 2.500 W\nVelocidad 4.000 RPM\nPeso 20 Kg\nCapacidades de corte 45° 90°\nAcero inoxidable 125 mm\nPerfil de acero 107 mm 119 mm\nPerfil rectangular de acero 115 mm x 130 mm\nAcero en “L”      100mm  137mm",
+    "justificacion": "Necesaria para cortar metales ferrosos como el hierro y el acero, a través de la abrasión realiza cortes transversales y longitudinales sobre tubos o varillas",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 6500000,
+    "vr_total": 13000000
+   },
+   {
+    "equipo": "Cortadora de Plasma 50amp.",
+    "especificaciones": "Cortador de plasma de 60 amperios, Enchufe 220 V Amperaje de entrada y ajuste de presión de aire\nLa salida de 60 amperios corta hasta una entrada de 220V de 7-8 \".\nCortes rápidos a través de acero dulce, acero inoxidable o aluminio.\nEsta potente unidad puede cortar cuidadosamente materiales tan delgados como de calibre 24 o tan gruesos como 7-8 de pulgada.\nCable de antorcha de 20 '; Cable de tierra de 10 'con abrazadera; Requisitos del compresor de aire: 5-7 Cfm 60 Psi.\nEnchufe del receptáculo del cable de alimentación Nema 6-50R.",
+    "justificacion": "Necesaria para el corte de cualquier material metálico conductor, especialmente en acero estructural, inoxidable y metales no férricos.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 26000000,
+    "vr_total": 52000000
+   },
+   {
+    "equipo": "Máquina de Soldadura de arco 110/220V",
+    "especificaciones": "Soldador inversor industrial, especializado en MIG en Aluminio de 500 amperios con conexión a 380V/440V Trifásico. Con potencia para soldar electrodos 6011, 6013, 7018 , e inoxidable  con capacidad de soldar hasta 1/4\" (6.0mm) de espesor de acero. Tiene la capacidad de soldar MIG en Aluminio en dimensiones desde 0,070 (0,8mm) hasta 0,045 (1,2mm).",
+    "justificacion": "Necesaria para para la unión de metales. Mediante la aplicación de calor intenso, el metal en la unión entre las dos partes se funde y causa que se entremezclen directamente, o más comúnmente con el metal de relleno fundido intermedio.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Pulidora amoladora inalámbrica 24V",
+    "especificaciones": "Velocidad máxima: 8500 rpm\nVelocidad mínima: 8500 rpm\nPotencia: 8500 W\nPeso de la pulidora: 2.4 kg",
+    "justificacion": "Necesario para cortar metal / madera, pulido, punta de tuck o eliminación de óxido",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2600000,
+    "vr_total": 5200000
+   },
+   {
+    "equipo": "Prensa Hidráulica industrial 50 toneladas.",
+    "especificaciones": "Diferentes opciones de bombas: una o dos velocidades, manual-neumáticas o eléctricas en función de la velocidad de trabajo requerida.\nCabrestante para una manipulación fácil y rápida de la mesa de trabajo.\nMesa de trabajo ajustable en distintas alturas. Pistón con retorno automático.\nIncluyen 2 apoyos en V y pies con orificios de sujeción al suelo.\nManómetro con amortiguación para prolongar su vida útil. Posicionamiento del manómetro a la altura de los ojos para facilitar su lectura.\nSeguridad\nVálvula de seguridad contra sobrecargas\nLimitador hidráulico de recorrido\nIncluye 2 apoyos en V con guía de sujeción y orificio de extracción. Tapas guardapolvo.\nManómetro integrado. Bulones con pomo. Bandeja inferior. Calzos reversibles.\nCabestrante para elevación mesa de trabajo. Cilindro deslizable.\nLa bandeja inferior puede colocarse dentro de la mesa de trabajo.\nVálvula de seguridad contra sobrecargas. Limitador hidráulico de recorrido.\nCaracterísticas técnicas:\nFuerza máxima toneladas: 50\nAltura total: 1500 mm.\nEspacio entre columnas. 720 mm.\nEspacio pistón-mesa mínimo-máximo: 81-770 mm",
+    "justificacion": "Necesaria para multiplicar fuerzas. Nos permite que al aplicar fuerzas pequeñas, obtengamos fuerzas grandes. Se utiliza tanto para prensar como para levantar objetos pesados.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 15600000,
+    "vr_total": 15600000
+   },
+   {
+    "equipo": "Insumos metalmecanicos",
+    "especificaciones": "Tubos metalicos, barras de aluminio, tornillos, chasos de anclaje,",
+    "justificacion": "Necesarios para llevar a cabo los diferentes procesos de modelado y fabricación que se  llevarán a cabo con los equipos del taller",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 65000000,
+    "vr_total": 65000000
+   },
+   {
+    "equipo": "Kits de herramientas de protección de soldadura",
+    "especificaciones": "Cascos de soldadura, guantes aislantes, gafas protectoras frente a impactos a alta velocidad; pantalla facial para protección frente a impactos a velocidad media y protección frente a radiaciones térmicas. Filtros de boquilla, mascarilla o máscaras dependiendo del tipo de contaminantes a los que se esté expuesto,Orejeras protectoras del ruido o tapones",
+    "justificacion": "Necesarios para la debida protección del personal que utilice los diferentes equipos y procesos a llevar a cabo en el taller",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 19500000,
+    "vr_total": 19500000
+   },
+   {
+    "equipo": "Juego de Alicates para Soldar.",
+    "especificaciones": "Abrazadera en C Mordaza de Sujeción con Bloqueo Punta Regular Pinzas Múltiples Pinzas Pinzas - 9 pulgadas",
+    "justificacion": "Necesarios para manipular pequeñas piezas o para mantenerlas inmóviles mientras se realizan soldaduras",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1650000,
+    "vr_total": 6600000
+   },
+   {
+    "equipo": "Kits de herramientas para estructuras metalicas",
+    "especificaciones": "destornilladores, pinzas, alicates, martillos, cinta metricas, nivel de gota con base magnética, inclinómetro digital, grata de alambre para taladro",
+    "justificacion": "Necesarios para llevar a cabo los diferentes procesos de modelado y fabricación que se  llevarán a cabo con los equipos del taller",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 28600000
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de geodata",
+  "equipos": [
+   {
+    "equipo": "PVsyst",
+    "especificaciones": "PVsyst está diseñado para ser utilizado por arquitectos, ingenieros e investigadores. También es una herramienta educativa muy útil. En sus características incluye Diseño del sistema; Dimensionamiento del sistema: herramienta visual; Escena de sombreado 3D; Simulación e informe de resultados; Almacenamiento en un sistema de red; Búsqueda directa de una ubicación usando OpenLayers y GeoNames, Programa completo de interpolación Meteonorm v8.0 para cualquier ubicación en la tierra; Módulos fotovoltaicos y Model Management, Inversores; Modelo bifacial para seguimiento de sistemas de 1 eje; Evaluación de costos del sistema: CAPEX (costo de instalación), OPEX (costos operativos), Capacidad para definir costos personalizados de acuerdo con el propio sistema.",
+    "justificacion": "Software necesario para diseño de sistemas fotovoltaico, necesarios para la capacitación y prestación de servicios en propuestas de diseño de sistemas fotovoltaicos conectados a red y modo aislado.",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5950000,
+    "vr_total": 59500000
+   },
+   {
+    "equipo": "PVSOL premium",
+    "especificaciones": "Análisis detallado del sombreado en 3D. Realiza la optimización de tu proyecto con animaciones continuas del sombreado a lo largo de un año de observación.\nExtrusión de edificios desde imágenes satelitales. Emplea imágenes satelitales para el dibujo de geometrías y emular las edificaciones en donde disponer la superficie fotovoltaica. Extrusión de construcciones desde imágenes del satélite. Datos climáticos globales disponibles. Cuenta con Meteonorm como base de datos de variables climáticas como irradiancia y temperatura de más de 8000 locaciones en todo el mundo. Permite que dibujos CAD de diversos tipos de archivos sean importados y usados como superficie fotovoltaica. Asignación de módulos en vista 3D El motor gráfico de la interfaz 3D permite la visualización de los módulos colocados sobre la superficie a trabajar. Asignación de módulos 3D para software de planificación Interconexión polimórfica. Optimización de la conexión de los módulos. Reporte detallado del proyecto de diseño de energía solar. Sistemas conectados a la red con sistemas de baterías, Vehículos eléctricos. Diagramas de circuitos electrónicos. Análisis económico. Verifica la viabilidad del proyecto con un análisis de flujo de caja anual en función de tarifas de inyección (sistemas conectados a la red) o costos iniciales. Realiza la simulación de granjas solares y proyectos de mayor envergadura en la interfaz 3D hasta una potencia de 4 MW.",
+    "justificacion": "Necesarios necesarios para la simulacion en 3D de sistemas fotovoltaicos de igual forma capacitación y prestación de servicios en propuestas de diseño.",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11900000,
+    "vr_total": 119000000
+   },
+   {
+    "equipo": "Meteonorm",
+    "especificaciones": "METEONORM proporciona valores históricos globales horarios de irradiación, temperatura, humedad, viento y precipitación desde 2010 hasta el presente, constantemente actualizados. Basado en datos de mas de 8.000 estaciones meteorológicas, cinco satélites geoestacionarios y 30 años de experiencia, METEONORM ofrece modelos de interpolación de última generación, proporcionando datos meteorológicos globales con la máxima precisión. Recupere sus datos meteorológicos en más de 35 formatos. Utilice el formato Excel para el análisis manual o elija entre la mayoría de los formatos estándar utilizados en el software de simulación fotovoltaica, solar térmica o de construcción / energía.",
+    "justificacion": "Programa neceario para establecer las variables de clima en cualquier lugar del mundo y con su generador de tiempo simula un año típico. El archivo de datos de clima, incluye datos horarios para diferentes parámetros tales como la temperatura, humedad relativa, radiación solar, velocidad y dirección del viento, nubosidad, precipitaciones, etc. y se utiliza como base para el resto del software de simulación energética.",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 8500000,
+    "vr_total": 85000000
+   },
+   {
+    "equipo": "Homerpro",
+    "especificaciones": "HOMER Pro es uno de los mejores softwares especializados para el diseño de redes eléctricas de microrredes, diseñado por HOMER Energy. sus características:  Modelado de diversas fuentes de energía y componentes involucrados en los sistemas HRES. Posibilidad de simulación integral del sistema. Capacidad para cambiar los valores de diferentes variables y comparar los resultados entre sí Capacidad para estimar los costos finales y la eficiencia del sistema",
+    "justificacion": "Software necesario para llevar a cabo el análisis de fuentes de producción de energía mediante el modelado de fuentes de energía como la energía solar, la energía eólica, la energía de las olas, los dispositivos de almacenamiento de energía como baterías, reformadores, volantes y tanques de hidrógeno, y otros sistemas de control y consumo involucrados en el suministro de energía. proceso. Necesarios para estudio y capacitación de microredes electricas con sistemas renovables de energia",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 8500000,
+    "vr_total": 85000000
+   },
+   {
+    "equipo": "DesingBuilder",
+    "especificaciones": "Entre las características más importantes del Modelador 3D de DesignBuilder se encuentran las siguientes: El motor de modelado se basa en el sistema gráfico OpenGL. Los modelos geométricos se crean en un ambiente tridimensional, mediante el ensamblado de bloques. Además de los bloques de edificio, que permiten modelar zonas térmicas, se dispone de bloques de componente para modelar elementos accesorios como balcones, árboles o edificios vecinos. Los bloques se pueden editar para generar prácticamente cualquier forma. Por ejemplo, se pueden mover, copiar, rotar, reflejar, cortar, estrechar y alargar. También se cuenta con herramientas más avanzadas, como añadir superficies y la implementación de operaciones booleanas (unión, sustracción e intersección), para para facilitar el modelado de edificios con geometría compleja. Diversos auxiliares para facilitar el proceso de modelado, como referencias de punto y dirección, guías de dibujo, líneas auxiliares, transportador, herramienta de medir y cuadrícula de dibujo. Los bloques se pueden dividir en diferentes zonas térmicas mediante el dibujo de particiones, que pueden representar divisiones reales o virtuales. Para facilitar el modelado de edificios complejos, es posible seleccionar y ocultar los bloques que se desee. Estando en los niveles Bloque o Zona es posible ver el delineado de las demás partes del edificio, lo cual ayuda a situarse durante el proceso de modelado. Es posible definir de manera detallada el espesor de los diferentes cerramientos del modelo, lo cual ofrece mayor precisión para dimensionar las superficies y los volúmenes internos. Una vez definida la geometría base, es posible dibujar aberturas personalizadas (ventanas, puertas, rejillas, huecos) con cualquier forma. También es posible crear las ventanas del edificio de manera automática, mediante plantillas de distribución. Esto permite definir la configuración de las fachadas con gran rapidez. Es posible modelar puentes térmicos en las uniones de los cerramientos y entre estos y el acristalamiento. Es posible usar dibujos con el formato CAD DXF, tanto en planta como en alzado, para facilitar la creación de los modelos 3D. Mediante el esquema gbXML, DesignBuilder ofrece gran interoperabilidad BIM. Es posible importar modelos 3D desde Revit, Microstation, ArchiCAD, SketchUp y otros programas similares. Igualmente, es posible exportar los modelos de DesignBuilder a esos programas.",
+    "justificacion": "Software análisis energético y medioambiental de edificios, necesario para  el estudio, capacitacion y evaluación de la eficiencia energética, medioambiental y económica de los edificios durante todo el proceso de diseño, desde el concepto hasta el proyecto ejecutivo.",
+    "cantidad": 6,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 42500000,
+    "vr_total": 255000000
+   },
+   {
+    "equipo": "Matlab",
+    "especificaciones": "MATLAB proporciona métodos de cálculo numérico para análisis de datos, desarrollo de algoritmos y creación de modelos. Para ello se incluyen funciones matemáticas que utilizan librerías optimizadas por procesador para conseguir una ejecución rápida de los cálculos de vectores y matrices. Entre los métodos disponibles se encuentran: Interpolación y regresión. Diferenciación e integración. Sistemas lineales de ecuaciones. Análisis de Fourier. Valores propios y valores singulares. Ecuaciones diferenciales ordinarias (EDO). Matrices dispersas. Además existen productos complementarios que proporcionan funciones para áreas especializadas tales como estadística, optimización, análisis de señales y aprendizaje automático.",
+    "justificacion": "Software modelación e investigacion, necesario para investigacion y capacitacion en modelos matematicos, mecanicos, electricos y electronicos asociados a los sistemas de energia renovables.",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 21250000,
+    "vr_total": 212500000
+   },
+   {
+    "equipo": "Autocad",
+    "especificaciones": "Tipo de programa: Diseño asistido por computadora Programado en: Autolisp; Visual Basic; C++ Última versión estable: 2022 24 de marzo de 2021 Desarrollador: Autodesk. AutoCAD es un software de diseño asistido por computadora utilizado para dibujo 2D y modelado 3D. Actualmente es desarrollado y comercializado por la empresa Autodesk. Es uno de los programas más utilizados para diseñar y dibujar por ordenador. Dicho así es simplificar mucho para qué sirve AutoCAD. Son muchas las profesiones que hacen uso de autoCAd desde sus inicios y hasta el autoCAD 3D para llevar a cabo trabajos y proyectos.",
+    "justificacion": "Software modelación y diseño de estructuras y diseño de planos, necesario para investigacion y capacitacion en estructuras metalmecanicas de sistemas fotovoltaicos y eólicos, asi como para diseño y prestacion de servicios en contruccion de planos electricos",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 32300000,
+    "vr_total": 323000000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Software para implementacion ofimaticas, necesario para contructuccion de informes, presentaciones, manejo de herramientas ofimaticas etc.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 136000000,
+    "vr_total": 136000000
+   },
+   {
+    "equipo": "ETAP",
+    "especificaciones": "Software para soluciones de ingeniería analítica especializada en simulación, diseño, monitoreo, control, capacitación de operadores, optimización y automatización de sistemas de energía.",
+    "justificacion": "Software necesario para la simulacion de sistemas de flujo de potencia en sistemas renovables fotovoltaicos y eolicos, para Modelar, Analizar y Estudiar el Impacto de los sistemas renovables en la red electrica, de igual forma para analizar el corportamiento de un Aerogenerador en Tierra y Costa Fuera en la Red Eléctrica etc.",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7650000,
+    "vr_total": 76500000
+   },
+   {
+    "equipo": "WindPRO",
+    "especificaciones": "Análisis de datos de viento - Pantalla, limpieza y reparación de datos de viento Modelado de viento: encontrar la configuración de turbina adecuada Posterior a la construcción: análisis de datos operativos Fotomontaje: cree representaciones realistas de turbinas en cualquier imagen Evaluación de ruido simple y sofisticada Parpadeo de sombras: calendarios y mapas de sombras detallados ZVI - Zona de Influencia Visual Cumplimiento del sitio: herramienta de idoneidad certificada del sitio Respuesta de carga: evalúe las cargas de diseño y la vida útil esperada",
+    "justificacion": "Software necesario para realizar el analisis y simulacion de sistemas eolicos, Es  un  software  basado  en  módulos  adecuados  para el  diseño  del  proyecto  y  la  planificación  tanto  de aerogeneradores  individuales  y  de  grandes  parques eólicos",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 20400000,
+    "vr_total": 204000000
+   },
+   {
+    "equipo": "WAsP",
+    "especificaciones": "El paquete de software WAsP se utiliza para sitios ubicados en todo tipo de terrenos en todo el mundo. Aplicaciones típicas de la suite WAsP: Cálculo del rendimiento energético para turbinas eólicas individuales y parques eólicos. Cálculo de la eficiencia de un parque eólico. Mapeo de recursos eólicos y turbulencias. Sitios de terreno complejo. Parques eólicos marinos. Cálculo de las condiciones del viento para la evaluación del sitio IEC para turbinas eólicas individuales en un parque eólico, por ejemplo, velocidad media del viento, cizalladura del viento, turbulencia ambiental, viento extremo e inclinación del flujo del viento.",
+    "justificacion": "Software necesario para la evaluación de la idoneidad del  sitio  de  las turbinas eólicas y  parques eólicos. WAT utiliza  principalmente  los  resultados  de  WAsP  y  WEng para  calcular  y  evaluar  las  propiedades  de  acuerdo con la metodología de los estándares internacionales",
+    "cantidad": 10,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 13600000,
+    "vr_total": 136000000
+   },
+   {
+    "equipo": "SOLID WORK",
+    "especificaciones": "Creación de diseños de piezas y ensambles sofisticados cuenta con Solidwork para uso de herramientas con CAD en 3D de SOLIDWORKS, modelado de piezas y ensamblajes, dibujos 2D, diseño de estructuras soldadas, módulo de chapa metálica, reutilización y automatización del diseño, colaboración y uso compartido de datos CAD, utilities, herramientas de análisis preliminar, animaciones, diseño para la fabricación, programación de CAM, exportador Xtended Reality (XR), importación y exportación avanzadas de archivos de CAD y 3D Interconnect, defeature, bibliotecas CAD, gestión de archivos de SOLIDWORKS, renderizado fotorrealista avanzado, análisis cinemático y dinámico de mecanismos, análisis estático lineal para piezas y ensamblajes, ruteado 3D de cables eléctricos, piping y ruteado HVAC, aplanado avanzado de superficies, SOLIDWORKS Sustainability y costing de conjuntos.",
+    "justificacion": "Software de diseño CAD 3D necesario para modelar piezas y ensamblajes en 3D y planos en 2D. Ofrece un amplio abanico de soluciones para cubrir los aspectos implicados en el proceso de desarrollo del producto, permitiendo crear, diseñar, simular, fabricar, publicar y gestionar los datos del proceso de diseño.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1965394.6742857143,
+    "vr_total": 7861579
+   },
+   {
+    "equipo": "SUITE ADOBE",
+    "especificaciones": "software cuenta con más de 20 aplicaciones creativas móviles y de escritorio, entre ellas: Lightroom, photoshop, illustrator, Adobe XD, adicional cuenta con más de 20 GB de almacenamiento en la nube Adobe Portfolio, Adobe Fonts y Adobe Spark.",
+    "justificacion": "Software necesario para visualizar, crear y modificar archivos con el formato PDF (Portable Document Format). El uso del formato PDF es muy común para mostrar texto con un diseño visual ordenado. Adobe Acrobat es una familia de aplicaciones informáticas desarrollados por la corporación Adobe.",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5794360.6402752,
+    "vr_total": 23177443
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas, así como poner en funcionamiento los softwares especializados en sistemas de modelamiento, diseño y cálculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de Negocios Digitales",
+  "equipos": [
+   {
+    "equipo": "Computadores desktop",
+    "especificaciones": "GPU:Tarjeta de video HD Graphics\nProfessional Operating System\nTipo de almacenamiento: HDD \nGraphics Processing Type: Integrated/On-Board Graphics\nRAM Size: 16 GB\nConectividad: DisplayPort, HDMI, USB 3.0\nFactor de forma: Desktop\nTipo: Desktop Most Suitable \nProcessor Speed: 5.0 GHz\nProcessor: 5,3 GHz, 8 núcleos / 16 subprocesos.\nCaracterísticas: Built-in Bluetooth Adapter, Built-in Wi-Fi Adapter, Optical Drive Línea de productos capacidad de disco duro: 1 TB",
+    "justificacion": "Equipos de cómputo necesarios para la realización de diseños y modelado digital, de los prototipos de igual manera son equipos de programación.",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 14180970,
+    "vr_total": 113447760
+   },
+   {
+    "equipo": "Monitor profesional",
+    "especificaciones": "Monitor ergonómico IPS 4K de 27 pulgadas con biseles ultrafinos, precisión de color, HDMI, DisplayPort y USB tipo C para el hogar y la oficina profesionales",
+    "justificacion": "Necesario como dispositivo de salida con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 4800000,
+    "vr_total": 38400000
+   },
+   {
+    "equipo": "Mouse",
+    "especificaciones": "MOUSE M720 TRIATHLON Logitech Bluetooth/Wireless Receptor Compatible Win-Mac-Unifying MultiDispositivo FLOW NEGRO",
+    "justificacion": "Necesario como dispositivo de entrada con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 360000,
+    "vr_total": 2880000
+   },
+   {
+    "equipo": "Webcam",
+    "especificaciones": "CAMARA WEB C930e BUSINESS Logitech Corporativo USB Full HD 1080 Zoom 4X Compatible Win-Mac Micrófono Autoenfoque Tecnología RightLight Garantía 3Años-NEGRO",
+    "justificacion": "Necesario como dispositivo de entrada con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 498762,
+    "vr_total": 3990096
+   },
+   {
+    "equipo": "Tabletas digitalizadoras",
+    "especificaciones": "Área Activa de la Tabla\n29.4 Centímetros\nOpciones de Conectividad\nConexión Con Cable\nSistema Operativo Compatible\nCompatible con Cualquier Sistema Operativo\nAncho o Frente de la Tabla\n35.8 Centímetros\nAlto de la Tabla\n22.6 Centímetros",
+    "justificacion": "Necesario como dispositivo de entrada con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5119800,
+    "vr_total": 40958400
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas, así como poner en funcionamiento los softwares especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 7150000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 1050000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 780000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio Prototipado para unión y corte",
+  "equipos": [
+   {
+    "equipo": "Estación de trabajo Dremel",
+    "especificaciones": "Estación de trabajo con soporte del eje flexible es telescópico y se puede colocar entre 16 y 29 pulgadas, el soporte de fresador y/o motortool",
+    "justificacion": "Equipo base necesario para integrar Motor tool o Fresadora.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1283700,
+    "vr_total": 2567400
+   },
+   {
+    "equipo": "Ingleteadora 10 Pulgadas",
+    "especificaciones": "Ingleteadora o Acolilladora con Motor de 15 Amperios y Potencia de 1.600W; Velocidad 4.000 RPM. Diámetro del disco 12 Pulgadas. Capacidad horizontal 8 Pulgadas. Inglete 48o izquierda. Diámetro del eje de 5/8. Capacidad vertical 6-1/2. Biselado de 0 a 48° grados para mayor capacidad de corte. Guía deslizante que soporta molduras de corona hasta 5-1/4 y molduras de base hasta 6-1/2 Base de acolillado en acero inoxidable con 11 paradas positivas prefijadas que permite ajustes rápidos y cortes precisos.",
+    "justificacion": "Ingletadora es una herramienta utilizada principalmente en carpintería, necesaria para cortar madera, PVC, aluminio u otros materiales en ángulos concretos. Estos cortes sirven para hacer, por ejemplo, marcos de puertas, ventanas, etc.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5058000,
+    "vr_total": 10116000
+   },
+   {
+    "equipo": "Taladro de arbol",
+    "especificaciones": "Potencia Motor 1.500W\nCapacidad Mandril (mm – in) 20 – 3/4”\nDesplazamiento Vertical (mm) 120\nCono de Mandril MT4\nNúmeros de Velocidades 12\nRPM 180 – 2.940\nCorriente de Entrada 110V – 60HzManijas reforzadas.\nMotor en cobre de alto rendimiento.\nFácil cambio de velocidades.\nMandril de trabajo pesado.",
+    "justificacion": "Equipo de uso industrial necesario como switch de seguridad.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7799998,
+    "vr_total": 7799998
+   },
+   {
+    "equipo": "Esmeril De Banco 8 pulgadas",
+    "especificaciones": "Potencia:  3/4 HP\nVelocidad:  3600 RPM\nDiámetro máximo del disco:  8pulg - 203 mm\nEje: 5/8 pulg Base y motor de hierro fundido proveen mayor durabilidad. Soportes de aluminio maquinados a precisión permiten al usuario posicionar el trabajo de manera estable.",
+    "justificacion": "Neceario para que el escape trasero de las chispas de una mejor visibilidad al operador",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2681280,
+    "vr_total": 2681280
+   },
+   {
+    "equipo": "Sierra Mesa de 10 pulgadas",
+    "especificaciones": "Potencia: 1800 W\n- Velocidad sin carga: 5000 RPM\n- Profundidad de corte a 90°: 3 pulg - 76 mm\n- Profundidad de corte a 45°: 2 1/2 pulg - 63 mm\n- Diámetro máximo del disco: 10pulg\n Peso: 21 kg",
+    "justificacion": "Necesario para cortar diferentes materiales como: madera, metal, plástico, entre otras categorías y esta puede ser manual o eléctrica. De acuerdo a la forma y ubicación de los dientes, la sierra cortará uno u otro tipo de material.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5197800,
+    "vr_total": 5197800
+   },
+   {
+    "equipo": "Sierra Sin Fin De Mesa",
+    "especificaciones": "SIERRA SINFIN 305MM (12 PULG) SOPORTE CON RUEDAS\n\nCARACTERÍSTICAS GENERALES\nGran eficiencia.\nLuz de trabajo para lugares obscuros.\nBanda de sierra fácil de reemplazar por un toque en la palanca.\nCaja para polvo es provista. Herramienta requerida para uso de Diseño: CARACTERÍSTICAS GENERALES\nGran eficiencia.\nLuz de trabajo para lugares obscuros.\nBanda de sierra fácil de reemplazar por un toque en la palanca.\nCaja para polvo es provista.\nFácil de mover gracias a sus ruedas.\nFácil de mover gracias a sus ruedas.\n\nESPECIFICACIONES TECNICAS\nPotencia de entrada:  900W\nCapacidad:  Profundidad de corte : 165mm (6-1/2 pulg) Entrada : 305mm (12 pulg),\nVelocidad de cinta:  Alta:  (60Hz)1.000m,  (60Hz) 3.280ft) / min, Baja : (60Hz)500m, (60Hz) 1.640ft) / min\n2 Velocidades Mecánicas",
+    "justificacion": "Neceario para cortar con seguridad diferetnes tipos de materiales industriales",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7239800,
+    "vr_total": 7239800
+   },
+   {
+    "equipo": "Mesa para fresar Mototool",
+    "especificaciones": "Soporte mototool, convierte la herramienta rotatoria en una rebajadora de superficie para burilar circulos, paralelamente un borde, letreros y trabajos de incrustación, bordes decorativos, con seguro del encaje en la manija, base transparente, 2 topes de profundidad para permitir un ajuste rápido y uniforme de la profundidad, almacenaje en la herramienta para brocas y llaves",
+    "justificacion": "Necesario para el seguro y adecuado uso de herramientas como los taladros",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 350600,
+    "vr_total": 350600
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipo necesario e importante para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 7150000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 1050000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 780000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de Creatividad",
+  "equipos": [
+   {
+    "equipo": "Computadores desktop",
+    "especificaciones": "GPU:Tarjeta de video HD Graphics\nProfessional Operating System\nTipo de almacenamiento: HDD \nGraphics Processing Type: Integrated/On-Board Graphics\nRAM Size: 16 GB\nConectividad: DisplayPort, HDMI, USB 3.0\nFactor de forma: Desktop\nTipo: Desktop Most Suitable \nProcessor Speed: 5.0 GHz\nProcessor: 4,8 GHz, 4 núcleos / 8 subprocesos o similar\nCaracterísticas: Built-in Bluetooth Adapter, Built-in Wi-Fi Adapter, Optical Drive Línea de productos capacidad de disco duro: 1 TB",
+    "justificacion": "Equipos de cómputo necesarios para la realización de diseños y modelado digital, de los prototipos de igual manera son equipos de programación.",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 14180970,
+    "vr_total": 113447760
+   },
+   {
+    "equipo": "Monitor profesional",
+    "especificaciones": "Monitor ergonómico IPS 4K de 27 pulgadas con biseles ultrafinos, precisión de color, HDMI, DisplayPort y USB tipo C para el hogar y la oficina profesionales",
+    "justificacion": "Necesario como dispositivo de salida con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 4800000,
+    "vr_total": 38400000
+   },
+   {
+    "equipo": "Mouse",
+    "especificaciones": "MOUSE M720 TRIATHLON Logitech Bluetooth/Wireless Receptor Compatible Win-Mac-Unifying MultiDispositivo FLOW NEGRO",
+    "justificacion": "Necesario como dispositivo de entrada con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 360000,
+    "vr_total": 2880000
+   },
+   {
+    "equipo": "Webcam",
+    "especificaciones": "CAMARA WEB C930e BUSINESS Logitech Corporativo USB Full HD 1080 Zoom 4X Compatible Win-Mac Micrófono Autoenfoque Tecnología RightLight Garantía 3Años-NEGRO",
+    "justificacion": "Necesario como dispositivo de entrada con alta resolución y capacidad, para el manejo adecuado y ergonómico de la información y el desarrollo dinámico de los procesos",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 498762,
+    "vr_total": 3990096
+   },
+   {
+    "equipo": "Video Beam de Tiro Ultra Corto",
+    "especificaciones": "Proyector de tiro ultracorto o corto, con luz lasser de 5.000 lumenes\nVoltaje: 110 o 220 o 240V\nConectividad estandar: RJ45\nDisponible con uso de lapiz interactivo o touch\nRelación de aspecto: 16:10 o 16:9\nCompatibilidad: Sistma operativo Windows, Mac y/o Linux",
+    "justificacion": "Proyector necesario para la sala de capacitación con video de alta luminosidad, de preferencia con fuente luminosa láser ya que se evitan problemas de mantenimiento y se elimina el gasto por sustitución de lámparas.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 48600000,
+    "vr_total": 48600000
+   },
+   {
+    "equipo": "Telon Retractil",
+    "especificaciones": "Telón eléctrico de pared, 150\", 4:3, con control remoto IR y switch",
+    "justificacion": "Necesario para las proyecciones a realizar con el Video Beam de Tiro Ultracorto",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5400000,
+    "vr_total": 5400000
+   },
+   {
+    "equipo": "Cortadora Laser gran formato",
+    "especificaciones": "Área de Trabajo:1300 x 900 mm \n\nCaracterísticas mínimas: \n- Laser CO2 Corte hasta 12 mm de grosor (Papel, cartón, tela, maderas, plásticos y/o acrílicos)",
+    "justificacion": "Necesario para la realizaciín de cortes milimétricos con láser. Necesario para restaurar y producir pequeñas cantidad piezas industriales perfectas.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 79637793,
+    "vr_total": 79637793
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas, así como poner en funcionamiento los softwares especializados en sistemas de modelamiento, diseño y cálculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio Prototipado digital",
+  "equipos": [
+   {
+    "equipo": "Impresora 3D FF600 Doppia (46x50x60cm)",
+    "especificaciones": "Impresora 3D Industrial de Gran Formato. Imprime prototipos hasta de 60cm de altura. Podrás hacer todos los prototipos que necesites en cualquiera de los siguientes materiales: PLA, ABS, PETG, ASA, HIPS, FLEX, Nylon, particulados entre otros. *Sistema Plug-Unglug: Facíl cambio de elementos de la boquilla *Cable antifatiga: cable industrial diseñado especialmente para resistir altos ciclados de movimiento Posibilidad de adaptarle la segunda boquilla (costo adicional)",
+    "justificacion": "Máquina necesaria para realizar réplicas de diseños en 3D, creando piezas o maquetas volumétricas a partir de un diseño hecho por ordenador, esta tecnología nos permite la elaboración de cualquier pieza de los prototipos en desarrollo.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 39588000,
+    "vr_total": 39588000
+   },
+   {
+    "equipo": "Impresora 3D FF 300 Doppia (32x30x32cm)",
+    "especificaciones": "Impresora 3D Industrial de Gran Formato. Imprime prototipos hasta de 60cm de altura. Podrás hacer todos los prototipos que necesites en cualquiera de los siguientes materiales: PLA, ABS, PETG, ASA, HIPS, FLEX, Nylon, particulados entre otros. *Sistema Plug-Unglug: Facíl cambio de elementos de la boquilla *Cable antifatiga: cable industrial diseñado especialmente para resistir altos ciclados de movimiento Posibilidad de adaptarle la segunda boquilla (costo adicional)",
+    "justificacion": "Máquina necesaria para realizar réplicas de diseños en 3D, creando piezas o maquetas volumétricas a partir de un diseño hecho por ordenador, esta tecnología nos permite la elaboración de cualquier pieza de los prototipos en desarrollo.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 18972000,
+    "vr_total": 18972000
+   },
+   {
+    "equipo": "Impresora 3d DELTA",
+    "especificaciones": "DIÁMETRO DE BOQUILLA\n0,4 MM [0,015 PULG.]\n\nDIMENSIONES DEL PRODUCTO\n21,8 cm de profundidad x 40,6 cm de altura\n[8,5 D x 15,9 H PULG.]\n\nREQUERIMIENTOS DE ENERGÍA\n100–240VAC; 0,75-0,41A;\n50–60 HZ; 100W\n\nCONECTIVIDAD\nUSB o tarjeta SD",
+    "justificacion": "Máquina necesaria para realizar réplicas de diseños en 3D, creando piezas o maquetas volumétricas a partir de un diseño hecho por ordenador, esta tecnología nos permite la elaboración de cualquier pieza de los prototipos en desarrollo.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 4980000,
+    "vr_total": 4980000
+   },
+   {
+    "equipo": "Scanner 3D Precisión",
+    "especificaciones": "Área de trabajo: 350 × 350 × 350 mm \n\nCaracterísticas mínimas: - 30mm hasta 2000mm Precisión Resolución Velocidad de escaneo Scan dot pitch 0,06-0,47mm",
+    "justificacion": "Necesaria para el desarrollo de los prototipos funcionales, se utiliza un dispositivo que analiza un objeto o una escena para reunir datos de su forma y ocasionalmente su color. La información obtenida se puede usar para construir modelos digitales tridimensionales que se utilizan en una amplia variedad de aplicaciones.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 43160000,
+    "vr_total": 86320000
+   },
+   {
+    "equipo": "Plotter Design JET",
+    "especificaciones": "Dimensiones y peso\nDimensiones mínimas (anch. x prof. x alt.)         1403 x 583 x 1155 mm\nDimensiones del embalaje (An x F x Al)         1578 x 575 x 646 mm\nPeso         48 kg\nPeso del embalaje         70 kg",
+    "justificacion": "Herramienta necesaria  para uso en proyectos de prototipado según se requiera.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 33398000,
+    "vr_total": 66796000
+   },
+   {
+    "equipo": "Máquina de sublimación digital",
+    "especificaciones": "Avanzado Cabezal de impresión TFP PrecisionCore\n    Cabezal de chorro de tinta de 8 canales, bajo demanda\n    Sistema de suministro continuo de tinta, tanques de alta capacidad de 1.5L\n\nResolución Máxima de Impresión:\n1440 x 720 dpi; 720 x 720 dpi; 720 x 360 dpi\nVelocidad de Impresión:\n\n    Velocidad (720 x 360 dpi); 680 SFPH1\n    Producción (720 x 720 dpi); 325 SFPH1\n    Alta Calidad (1440 x 720 dpi); 119 SFPH1\n\nConfiguración del Cabezal:\n720 boquillas por color con tamaño de gota variable",
+    "justificacion": "necesaria para agilizar el flujo de trabajo y la maximización de la productividad con la impresora de alto rendimiento SureColor F6370. Con velocidades de impresión de hasta 680 pies cuadrados por hora1, esta impresora de sublimación de tinta de 44\" produce rápida y eficientemente imágenes de alta calidad para productos promocionales, telas para cortar y coser y más.Tecnología de Impresión:.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 70378000,
+    "vr_total": 70378000
+   },
+   {
+    "equipo": "Cortadora Laser pequeño formato",
+    "especificaciones": "Área de Trabajo (mm): 400 x 600\nPotencia Láser: 80W/100W\nDimensiones Externas (m): 1.53 x 0.86 x 1.02\nAplicaciones Principales: madera, acrílico, papel, cartón y textil",
+    "justificacion": "Necesaria para asegurar la calidad de las piezas que se fabrican, es un equipo que asegura un trabajo milimétrico gracias a que los cortes son producidos por un láser. Esta máquina cumple con el fin de restaurar y de producir en pequeñas cantidad piezas en pequeños formatos",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 33392700,
+    "vr_total": 33392700
+   },
+   {
+    "equipo": "Cortadora Laser gran formato",
+    "especificaciones": "Largo del área de trabajo: 100 cm x Ancho del área de trabajo: 220 cm",
+    "justificacion": "Necesaria para trabajar materiales de gran formato. Necesaria para grabar o cortar los siguientes materiales: acrílico, vidrio (grabado), madera, plástico, cuero, papel, piedra (grabado), textiles y muchos más. Ventajas de la cortadora láser de gran formato: Se protege los componentes láser para tener resultados de corte de alta calidad; Se puede acceder a la área de trabajo desde todos los lados, así hay una amplia gama de tablas de procesamiento y accesorios",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 96850000,
+    "vr_total": 96850000
+   },
+   {
+    "equipo": "Router CNC 80*110",
+    "especificaciones": "Área de trabajo: 900 x 600 mm\n\nCaracterísticas mínimas:\n- CNC con 3 ejes\n- Precisión de desplazamiento ejes X, Y, Z 0,025m precisión de posicionamiento ejes X, Y ,Z 0,025m",
+    "justificacion": "Necesaria para el enrutamiento en diversos materiales como plástico, madera, granito, acrílico y metales no ferrosos. Esta máquina realiza las actividades de grabado, tallado y la perforación para la construcción de diferentes piezas necesarias en los prototipos, este equipo es pequeño y sus medidas hacen que se pueda ubicar en un mesón o escritorio del espacio de co-creación, es útil para procesos pequeños dentro de las actividades de prototipado.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 68590000,
+    "vr_total": 137180000
+   },
+   {
+    "equipo": "Gabinete para Router CNC 80*111",
+    "especificaciones": "Gabinete con aberturas forntales y laterales, con desfoque de gases y sellado para la no aspersión de residuos",
+    "justificacion": "Necesaria para albergar el CNC router escritorio y obrar en el sentido de protegerlo y evitar la aspersión de partículas.",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 12800000,
+    "vr_total": 25600000
+   },
+   {
+    "equipo": "Sistema Colector de polvo  bolsas dobles para CNC",
+    "especificaciones": "Motor extractor con potencia de 1.5kw, tuberias flexibles para conducir el material hasta el deposito que es de doble bolsa, garantizando que no salga el polvo o material mas fino.",
+    "justificacion": "Necesario para evitar que el material particulado se disperse y garantizar un area de trabajo mas limpia y ordenada",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5712000,
+    "vr_total": 11424000
+   },
+   {
+    "equipo": "Plotter de corte de 72 cm",
+    "especificaciones": "Área de trabajo:1530 x 265 x 270 mm. \nCaracterísticas mínimas: - Ancho máximo de corte: 1.200mm (48.4 pulgadas) Plotter máquina de corte de presión: 10-500g. Velocidad de corte: 10-800 mm",
+    "justificacion": "Necesario para cortar diseños en lugar de imprimir. Es la herramienta principal que se utiliza para estampar con vinilo textil camisetas, ropa laboral, en este caso es usado para marcar partes de los prototipos.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 13960000,
+    "vr_total": 13960000
+   },
+   {
+    "equipo": "Fresadora de fabricación de circuitos",
+    "especificaciones": "El grabador de PCB viene de serie con:\n\n• Potente software operativo que es fácil de usar y permite realizar múltiples diseños a la vez.\n• Motor de eje  de alta velocidad y tecnología de cabezal flotante.\n• Herramientas básicas y dispositivo de ajuste de profundidad.\n• Salida para extracción de polvo.\n• Mesa de sacrificio.",
+    "justificacion": "Herramienta necesaria para uso en proyectos de prototipado según se requiera.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 71832362,
+    "vr_total": 71832362
+   },
+   {
+    "equipo": "Generador de Funciones",
+    "especificaciones": "Pantalla de 4.3 pulgadas TFT LCD,\nWVGA de 480 × 272\n- Canales 2\n- Max. Frecuencia salida 25MHz",
+    "justificacion": "El generador de funciones es necesario para generar señales variables en el dominio del tiempo para ser aplicadas posteriormente sobre el circuito bajo prueba.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5710000,
+    "vr_total": 5710000
+   },
+   {
+    "equipo": "Fuente Regulada de Voltaje x 3",
+    "especificaciones": "Entrada Normal de Voltaje 115 VAC – 230 VAC\nFrecuencia 47 Hz – 63 Hz\nEntrada de voltaje Minima y Máxima 88 – 144 VAC\nRango 128 – 276 VAC",
+    "justificacion": "Neceario para grantizar el correcto funcionamiento de los equipos, evitando daños y picos de voltaje",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 240000,
+    "vr_total": 480000
+   },
+   {
+    "equipo": "Máquina tampográfica",
+    "especificaciones": "Tamaños de tampos: 3.5 x 2 cm 5  x 2 cm  3.5  diámetro \n1 TINTA\n* tintero abierto\n* viene con 4 unidades de tampo\n* área máxima en plano es de 4.5 cm de diámetro\n* área en curva como para lapicero seria 4.5 cm x 0.7 cm\n* trabaja 110v es portatil, eléctrica (no requiere compresor\n* Trabaja con placa en FOTOPOLIMERO revelado en agua (igual al área del portaplaca o plancha)\n* Eléctrica con presión estándar",
+    "justificacion": "Necesaria para la realización de impresiones offset indirectas (huecograbado), es útil para aplicar diseños en superficies irregulares, con sustratos de plástico, vidrio, metal y cerámica",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2840174,
+    "vr_total": 2840174
+   },
+   {
+    "equipo": "MOTOR TOOL",
+    "especificaciones": "Velocidad de giro en vacío 33000 rpm, Portaherramientas Pinza de sujeción de hasta 8 mm , Potencia absorbida 500 W, Peso 1.4 kg\nDimensiones de herramienta (longitud) 360 mm, Dimensiones de herramienta (altura) 80 mm",
+    "justificacion": "Necesria para realizar acabados de los trabajos",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1468623,
+    "vr_total": 2937246
+   },
+   {
+    "equipo": "Mesa de Trabajo ecualizable",
+    "especificaciones": "Ancho 21.3 cm. Frente 60.5 cm. Alto 80.6 cm incluidos los topes - o similares",
+    "justificacion": "Necesaria para la manipulación adecuada y segura de los materiales a trabajar en el laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1890000,
+    "vr_total": 1890000
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos necesarios e importantes para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Laboratorio de Productividad",
+  "equipos": [
+   {
+    "equipo": "Equipos portátiles",
+    "especificaciones": "Portatil FHD, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar, pantalla de  15,6\" , 8GB RAM, 1TB Disco duro +256SSD  Tarjeta Grafica Nvidia gforce RTX 3060 6GB GDDR6  S.O sistema operativo",
+    "justificacion": "Equipos soporte necesaros para diseño y programación, de igual manera actividades de investigación, documentación, procesos de estructuración y apoyo para los talleres y procesos de formación.",
+    "cantidad": 12,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 11139253,
+    "vr_total": 133671036
+   },
+   {
+    "equipo": "Licencias de Office Profesional",
+    "especificaciones": "• Compra de pago único para 1 PC o Mac • Versiones clásicas de 2021 de sistemas operativos para ordenador• Soporte técnico incluido durante los primeros 60 días sin coste adicional • Compatible con otrros sistemas operativos*",
+    "justificacion": "Necesarias para la adminstración y manejo de información. Las herramientas esenciales para hacer todo el trabajo.",
+    "cantidad": 12,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2799998,
+    "vr_total": 33599976
+   },
+   {
+    "equipo": "Antivirus",
+    "especificaciones": "Antivirus en tiempo realAnaliza continuamente tus dispositivos para hallar virus, gusanos, troyanos, criptolockers, rootkits y spyware: te protege tanto de amenazas en línea establecidas como nuevas.\nPrevención automática de exploits (solo para Windows)Identifica vulnerabilidades de red complejas en tu PC. Esto incluye la detección de las vulnerabilidades EternalBlue y SMBloris, las cuales pueden bloquear sistemas operativos y hacer que las computadoras sean inservibles.\nRemovedor de troyanosDetecta y elimina virus troyanos y gusanos de Internet que ralentizan sus computadoras Windows y dispositivos Android. Esto se realiza automáticamente, por lo que no es necesario editar manualmente los archivos del sistema.\nDetección instantánea de amenazasProporciona un análisis ininterrumpido de archivos, aplicaciones y sitios web en tiempo real en tus computadoras y dispositivos Android. Esto te protege a ti y a tus datos mediante una detección de amenazas rápida.",
+    "justificacion": "Necesario para proteger de amenazas comunes como gusanos y pharming, además de otras complejas, como botnets, rootkits y aplicaciones maliciosas.",
+    "cantidad": 12,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 541800,
+    "vr_total": 6501600
+   },
+   {
+    "equipo": "EQUIPO DE Altavoces adicional para portatiles",
+    "especificaciones": "Parlantes  SPEAKER USB 6 W",
+    "justificacion": "Necesario para potencializar el audio del portatil y que se escuche con mejor calidad",
+    "cantidad": 12,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 60000,
+    "vr_total": 720000
+   },
+   {
+    "equipo": "COMPUTADOR DE DISEÑO Mac De Apple - 27 - 3.0ghz",
+    "especificaciones": "•Pantalla Retina 5K P3 de 27 pulgadas\n•Resolución;5120 x 2880\n•Processor: de 8 núcleos y 3,8 GHz de décima generación (Turbo Boost de hasta 5,0 GHz)\n•SSD de 512 GB\n•8 GB de memoria DDR4 de 2666 MHz \nNota: o su referencia homologada del año de la versión 3.8 GHz",
+    "justificacion": "Computador de mesa con sistema operativo MacOS de 27\" prototipado, necesario para adelantar los procesos de prototipado inherentes a los procesos de innovación",
+    "cantidad": 12,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 38574000,
+    "vr_total": 462888000
+   },
+   {
+    "equipo": "Hub USB-C de 4 Puertos",
+    "especificaciones": "USB 3. 1 tipo C y USB 3.0 Versión de hub : la combinación de USB-A y USB-C está diseñada para permitir que un dispositivo sea compatible con la variedad de Apple MacBook Pro, Mac Air, iMac, PS4 Pro, Surface Pro, ordenador, portátiles y otros dispositivos simultáneamente. Ahorra tiempo y costes de equipo.",
+    "justificacion": "Puertos USB disponibles, necearios para uso de diferentes conexiones",
+    "cantidad": 6,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 200000,
+    "vr_total": 1200000
+   },
+   {
+    "equipo": "UPS  1200W (10A Max)",
+    "especificaciones": "\" ONLINE Equipado con Boost AVR y Buck para estabilizar el voltaje de entrada\n- Reinicio automática después de falla en la red\nCapacidad 1000VA/500W\n-Corriente Max. Entrada (Bypass) 1200W (10A Max) -Dimensiones 300x95x140mm-\"",
+    "justificacion": "Necesario para la protección completa de equipos de cómputo, routers y módems. Los ups son diseñados por funcionamiento y confiabilidad incomparables para la protección de estaciones de trabajo. Cuando la condición de flujo electrónico es normal, el UPS le protege contra la sobretensión mientras utiliza la energía para cargar la batería interna. Cuenta con controles potentes basados en microprocesadores para una mayor confiabilidad con regulación automática de la tensión.",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 10855213,
+    "vr_total": 32565639
+   },
+   {
+    "equipo": "SUITE ADOBE",
+    "especificaciones": "software cuenta con más de 20 aplicaciones creativas móviles y de escritorio, entre ellas: Lightroom, photoshop, illustrator, Adobe XD, adicional cuenta con más de 20 GB de almacenamiento en la nube Adobe Portfolio, Adobe Fonts y Adobe Spark. LICENCIA EDUCATIVA SOLO SI EL EJECUTOR ESTA AVALADO POR EL MINISTERIO DE EDUCACIÓN",
+    "justificacion": "Necesario para visualizar, crear y modificar archivos con el formato PDF (Portable Document Format). El uso del formato PDF es muy común para mostrar texto con un diseño visual ordenado.",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 6816895,
+    "vr_total": 20450685
+   },
+   {
+    "equipo": "SOLID WORK",
+    "especificaciones": "Creación de diseños de piezas y ensambles sofisticados cuenta con Solidwork para uso de herramientas con CAD en 3D de SOLIDWORKS, modelado de piezas y ensamblajes, dibujos 2D, diseño de estructuras soldadas, módulo de chapa metálica, reutilización y automatización del diseño, colaboración y uso compartido de datos CAD, utilities, herramientas de análisis preliminar, animaciones, diseño para la fabricación, programación de CAM, exportador Xtended Reality (XR), importación y exportación avanzadas de archivos de CAD y 3D Interconnect, defeature, bibliotecas CAD, gestión de archivos de SOLIDWORKS, renderizado fotorrealista avanzado, análisis cinemático y dinámico de mecanismos, análisis estático lineal para piezas y ensamblajes, ruteado 3D de cables eléctricos, piping y ruteado HVAC, aplanado avanzado de superficies, SOLIDWORKS Sustainability y costing de conjuntos. LICENCIA EDUCATIVA SOLO SI EL EJECUTOR ESTA AVALADO POR EL MINISTERIO DE EDUCACIÓN",
+    "justificacion": "Software de diseño CAD 3D necesario para modelar piezas y ensamblajes en 3D y planos en 2D. Ofrece un amplio abanico de soluciones para cubrir los aspectos implicados en el proceso de desarrollo del producto, permitiendo crear, diseñar, simular, fabricar, publicar y gestionar los datos del proceso de diseño.",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2312229,
+    "vr_total": 6936687
+   },
+   {
+    "equipo": "Impresora Multifunción Color LaserJet",
+    "especificaciones": "Multifuncional Color, Duplex, Impresora, copiadora fax y escaner. Velocidad de impresión 34 BN - 30 Color, Velocidad de impresión ISO 20 BN - 20,  Resolución Max Color 4800 x 1200 dpi, reducción y ampliación automáticas (25 % a 400 %), Alimentación papel Bandeja de entrada Standard 330 - Max 580 / Posterior 80 / Salida 150, ADF Duplex de 35 Hojas, Opcional 2 bandejas de 500 hojas, USB/ Ethernet 10/100/1000 Base T/ Wifi/  Wifi Direct, NFC, Ciclo de trabajo mensual 45,000, Volumen recomendado por mes de 250 a 2,500 pag. Suministros  T788XXL120-AL, T788XXL220-AL,T848XXL220-AL, 'T788XXL420-AL, Caja de Mantenimiento T671000 (50.000 paginas) Garaantia Garantia De 0 a 3 meses sin limite de paginas impresas y de 4 a 12 meses o 30.000 paginas impresas (Lo que primero ocurra); o similares",
+    "justificacion": "Necesaria para la impresión de documentos, oficios, informes y diferente tipo de textos relativos al desarrollo de las actividades operativas del laboratorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7805283,
+    "vr_total": 7805283
+   },
+   {
+    "equipo": "Tablero Inteligente + Video Beam",
+    "especificaciones": "• Pantallas interactivas o tamaño de la proyección mínimo de: 60” (pulgadas).\n• Distancia de tiro mínimo 34 cm (para el proyector)\n• 3.200 Lúmenes (para el proyector)\n• Resolución mínima 1200 x 800\n• Relación de aspecto 16:9 o 16:10. \n• Resolución mínima 1080\n• Tipo de función táctil o de lapiz interactivo.",
+    "justificacion": "Herramienta necesaria para que los expositores de forma interactiva agilizar y mejorar el proceso de enseñanza y/o explicaciones, estos tableros inteligentes se componen por sistemas ópticos que convierten la imagen de proyector en un sistema multicontacto, de forma táctil se puede dibujar y escribir haciendo énfasis en las explicaciones y borrar información si se requiere de forma instantánea.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 45470515,
+    "vr_total": 45470515
+   },
+   {
+    "equipo": "Computador",
+    "especificaciones": "14\" Pulgadas 14, 8 GB RAM- Disco duro sólido de 512gb, Processor: 4,8 GHz, 4 núcleos / 8 subprocesoso similar",
+    "justificacion": "Equipos importantes y necesarios para trabajar herramientas ofimáticas así como poner en funcionamiento los software especializados en sistemas de modelamiento, diseño y calculo de sistemas y procesos relativos al laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7150000,
+    "vr_total": 14300000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 2100000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección  por 12 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el uso del equipo en el laboratorio",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 1560000
+   }
+  ]
+ },
+ {
+  "espacio": "Equipos ofimáticos",
+  "equipos": [
+   {
+    "equipo": "Sistema de audio para auditorio",
+    "especificaciones": "Micrófono inalámbrico con 2 canales de UHF, Consola mezcladora de audio de 4 entradas y 6 canales: 2 mono y 2 estéreo, Amplificador de audio 600 600W, Baffle 2 vías, 250 W",
+    "justificacion": "Equipo o dispositivo de entrada necesario para amplificar el sonido en el auditorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 45500000,
+    "vr_total": 45500000
+   },
+   {
+    "equipo": "Micrófono",
+    "especificaciones": "Con clip para micrófono, fuente de alimentación, baterías AA 2, cubierta de contacto de la batería, dos antenas de onda media, 2 cables BNC, bolsa con cremallera, 2 BNC mamparo adaptadores, estante de montaje y guía del usuario",
+    "justificacion": "Necesario para la recepción de voz en el recinto, medio rack receptor inalámbrico digital de QLXD4 encuentra rápidamente frecuencias abiertas y las despliega a los transmisores",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 18400000,
+    "vr_total": 36800000
+   },
+   {
+    "equipo": "Consola",
+    "especificaciones": "* 24 entradas de micrófono con alimentación phantom de 48 v y hpf por canal\n* 32 entradas de línea (24 mono y 4 estéreo)\n* 6 envíos aux 2 envíos fx\n* 4 buses group group st bus\n* 2 salida de matriz - 1 salida mono",
+    "justificacion": "Necesario para la mescla de audio en el recinto, medio rack receptor inalámbrico digital de QLXD4 encuentra rápidamente frecuencias abiertas y las despliega a los transmisores",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 18500000,
+    "vr_total": 18500000
+   },
+   {
+    "equipo": "Gabinete para consola",
+    "especificaciones": "Estructura metálica para hospedar equipos",
+    "justificacion": "Necesario para guardar la consola, las potencias y los micrófonos",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1650000,
+    "vr_total": 1650000
+   },
+   {
+    "equipo": "Amplificador",
+    "especificaciones": "Potencia Cx254 4 Canales Amplificador Cx-254 Profesional o 4500 W",
+    "justificacion": "Necesario para la amplificación de audio en el recinto, medio rack receptor inalámbrico digital de QLXD4 encuentra rápidamente frecuencias abiertas y las despliega a los transmisores",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 16800000,
+    "vr_total": 16800000
+   },
+   {
+    "equipo": "Suministro de multitoma PDU RACKEABLE de 6 salidas con supresor de picos",
+    "especificaciones": "PDU RACKEABLE de 6 salidas con supresor de picos",
+    "justificacion": "Sistema de sonido necesario para el desarrollo optimo de los diferentes eventos masivos dentro del Centro de Innovación, buscando permitir a los participantes una mejor experiencia en la recepción de servicios y/o información que se desee comunicar.",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 390000,
+    "vr_total": 390000
+   },
+   {
+    "equipo": "Video Beam para auditorio",
+    "especificaciones": "Proyector Láser con 6.000 Lúmenes en color y 6.000 Lúmenes en blanco\nResolución WUXGA con tecnología 4K Enhancement\n10 Lentes motorizados disponibles\nFlexibilidad de proyección 360° en horizontal y vertical\nAjuste de Luminosidad  \nAutocalibración de Imagen \nAlta conectividad",
+    "justificacion": "Equipo de Video de alta resolución necesario para la proyección de imágenres en el auditorio",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 88400000,
+    "vr_total": 88400000
+   },
+   {
+    "equipo": "Video Beam con telón autónomo",
+    "especificaciones": "Con 1000 lúmenes de brillo de color (luz de color) y 1000 lúmenes de brillo blanco (salida de luz blanca)",
+    "justificacion": "Equipo necesaro para proyección de presentación ofimaticas en clases magistrales de capacitación,",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 19800000,
+    "vr_total": 19800000
+   },
+   {
+    "equipo": "Pantallas para las aulas de formación y los laboratorios (8 unidades piso 1, 8 unidades piso 2, 11 unidades piso 3, 3 unidades piso 4 y 3 unidades piso 5)",
+    "especificaciones": "Pantalla TV 65\" Pulgadas Smart TV",
+    "justificacion": "Pantalla de apoyo necesaria para actividades que usen videos o medios digitales para apropiación y elaboración de procesos de transferencia de conocimiento.",
+    "cantidad": 33,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 7800000,
+    "vr_total": 257400000
+   },
+   {
+    "equipo": "Fotocopiadora multifuncional (Piso 1, Piso 2 y Piso 5)",
+    "especificaciones": "Velocidad de salida (carta): 45 ppm, Volumen promedio mensual: 3,000 impresiones / mes, Volumen mensual máximo: 10,000 impresiones / mes, Requisitos de energía: 120-127V / 12A, 60Hz, Se envía con tóner inicial que produce 17.400 impresiones en blanco y negro.",
+    "justificacion": "Necesaria para el copiado e impresión de documentos",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 14300000,
+    "vr_total": 42900000
+   },
+   {
+    "equipo": "Red autonoma de Wifi",
+    "especificaciones": "5 Acces Point dual-band 802.11abgn/ac Wireless Access\nPoint, 2x2:2 streams, BeamFlex+, dual ports, 802.3af PoE\nsupport. Does not include power adapter or PoE injector.\nIncludes Limited Lifetime Warranty.\nGigabit-Unit- injector 24 \n2 Accesw point exteriores, omni, outdoor access point, 802.11ac Wave\n2 2x2:2 internal BeamFlex+, dual band concurrent. One\nethernet port, PoE input. Includes mounting bracket and one\nyear warranty. Does not include PoE injector.\nGigabit-Unit- injector 24 W.\n1 Controladora Fisica 100 with 4 GigE ports, 90-day temporary access\nto licenses.\n1 WatchDog Support with 4 GigE ports, 1 Year\nPartner WatchDog Support Per SZ/vSZ AP, 1 YR\n1 Firewall fisico.",
+    "justificacion": "Necesario para homologar el nivel de servicio desplegado tanto para usuarios de las diferentes areas del centro como para visitantes foraneos del acceso a internet inhalambrico",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 167282947,
+    "vr_total": 167282947
+   },
+   {
+    "equipo": "Máquina de café (Piso 1, Piso 2 y Piso 5)",
+    "especificaciones": "Máquina de café automática, sin recámara",
+    "justificacion": "Necesario para la preparación de café para los funcionarios y beneficiarios del CIP (Piso 1, Piso 2 y Piso 5)",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1239900,
+    "vr_total": 3719700
+   },
+   {
+    "equipo": "Purificador de agua (Piso 1, Piso 2 y Piso 5)",
+    "especificaciones": "Purificador con entrada de agua local, y con entrega de agua fría y caliente",
+    "justificacion": "Necesario para el consumo de agua potable de los funcionarios y de los beneficiarios del CIP, fría y caliente.",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 2136900,
+    "vr_total": 6410700
+   },
+   {
+    "equipo": "Horno microondas (cafetería)",
+    "especificaciones": "Inverter entre 900 y 1200 W",
+    "justificacion": "Necesario para que los funcionarios y los beneficiarios calienten sus loncheras",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 555900,
+    "vr_total": 2223600
+   },
+   {
+    "equipo": "Nevera (Piso 1, Piso 2 y Piso 5)",
+    "especificaciones": "No frost de 200 a 260 litros",
+    "justificacion": "Necesario para que los funcionarios y los beneficiarios refrigeren sus bebidas y alimentos (Piso 1, Piso 2 y Piso 5)",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1620900,
+    "vr_total": 4862700
+   },
+   {
+    "equipo": "Computadores para el personal del proyecto",
+    "especificaciones": "14\" Pulgadas 14, 4 GB RAM- Disco duro sólido de 256 gb, Processor: 4,2 GHz, 4 núcleos o similar",
+    "justificacion": "Necesarios para el funcionamiento de las oficinas del Proyecto",
+    "cantidad": 19,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 3000000,
+    "vr_total": 57000000
+   },
+   {
+    "equipo": "Licencia sistema operativo por 12 meses",
+    "especificaciones": "Sistema operativo profesional para la adminsitraciónde los recursos del ordenador, compatible con otros sistemas operativos",
+    "justificacion": "Necesarios para el funcionamiento de las oficinas del Proyecto",
+    "cantidad": 38,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1050000,
+    "vr_total": 39900000
+   },
+   {
+    "equipo": "Licencia antivirus Total protección por 24 meses",
+    "especificaciones": "Profesional (Compatible con Cualquier Sistema Operativo, Aplicación movil, Monitoreo de la Dark Web, Protection Score muestra qué tan seguro está online)",
+    "justificacion": "Necesarios para el funcionamiento de las oficinas del Proyecto",
+    "cantidad": 38,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 780000,
+    "vr_total": 29640000
+   }
+  ]
+ },
+ {
+  "espacio": "Sistema de vigilancia (sistema de seguridad formado por cámaras de vigilancia y un software de grabación que almacena, en tiempo real, las imágenes y vídeos de lo que ocurre en las instalaciones internas y externas del CIP. Es necesario para garantizar la seguridad y prevenir hurtos)",
+  "equipos": [
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HFW2831TN-ZS Tipo: Cámaras IP Bala Metálica, resolución Máxima: 8MP@15FPS\nLente: Lente Motorizado, distancia focal: 2.7~13.5mm, sensor de Imagen : 1/2.7\"\nCompresión: H.265+, IR: IR 60m Protección: IP67, Características: WDR 120dB, \nMicroSD, PoE, NAS, Analíticas: 2 analiticas,",
+    "justificacion": "Necesario para la filmación de los exteriores, y la plaza frente del edificio 60 x 25",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1499850,
+    "vr_total": 4499550
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HFW2831TN-ZS Tipo: Cámaras IP Bala Metálica, resolución Máxima: 8MP@15FPS\nLente: Lente Motorizado, distancia focal: 2.7~13.5mm, sensor de Imagen : 1/2.7\"\nCompresión: H.265+, IR: IR 60m Protección: IP67, Características: WDR 120dB, \nMicroSD, PoE, NAS, Analíticas: 2 analiticas,",
+    "justificacion": "Necesario para la filmación de los Exteriores, Espalda oriental del edficicio 90 mts lineales",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1499850,
+    "vr_total": 5999400
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HFW2831TN-ZS Tipo: Cámaras IP Bala Metálica, resolución Máxima: 8MP@15FPS\nLente: Lente Motorizado, distancia focal: 2.7~13.5mm, sensor de Imagen : 1/2.7\"\nCompresión: H.265+, IR: IR 60m Protección: IP67, Características: WDR 120dB, \nMicroSD, PoE, NAS, Analíticas: 2 analiticas,",
+    "justificacion": "Necesario para la filmación de los Exteriores, Espalda occidental del edficicio 60 Mts lineales",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1499850,
+    "vr_total": 2999700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 1, Laboratorios de 12 x 9",
+    "cantidad": 16,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 10077600
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 1, Laboratorios de 8 x 8",
+    "cantidad": 20,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 12597000
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 1, Coworking 28 x 8",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 2519400
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "PC-HDBW2431RN-ZS-S2 Tipo: Cámaras IP Domo Antivandalico, resolución: 4MP@20FPS, lente Motorizado \n2.7~13.5mm, analíticas: 2 analiticas, Detección de movimiento, características: WDR \n120dB, MicroSD, PoE, NAS, sensor de Imagen : 1/3\", compresión: H.264, H.264+, \nH.265, H.265+, IR: IR 30m Protección: IP67, IK10",
+    "justificacion": "Necesario para la filmación del Piso 1, Recepción 28 x 8",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1259850,
+    "vr_total": 2519700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 1, Auditorio 16 x 16",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 1, Pasilo 37 x 2",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 2, Laboratorio 23 x 9",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 2519400
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 2, Aula de clase 11 x 11",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 2519400
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 2, Pasillo 28 x 2",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 2519400
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 2, Pasillo 22 x 2",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 3, Coworking 15 x 9",
+    "cantidad": 4,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 2519400
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 3, Pasillo 3 x 9",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 3, Pasillo 28 x 2",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 3, Pasillo 28 x 4",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "Cámaras IP",
+    "especificaciones": "IPC-HDBW2431EN-S-0280B-S2 ipo: Cámaras IP Domo Antivandalico Resolución Máxima: 4MP@20FPS\nLente Fijo 2.8mm Sensor de Imagen : 1/3\" , Compresión: H.264, H.264+, H.265, \nH.265+, IR: IR 30m Protección: IP67, IK10, Características: WDR 120dB, MicroSD, Poe, \nNAS",
+    "justificacion": "Necesario para la filmación del Piso 3, Pasillo 28 x 4",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 629850,
+    "vr_total": 1259700
+   },
+   {
+    "equipo": "NVR IP 64CH",
+    "especificaciones": "NVR5864-4KS2 Tipo: NVR IP 64CH, Resolución Máxima: Hasta 12MP, capacidad de decodificación :\n16CH@1080P, (Mbps): Entrada 320Mbps, Analíticas, Compresión: H.265+, MJPEG,\nCapacidad HDD: 8DDX10TB",
+    "justificacion": "Necesario para la filmación del Proceso de almacenamiento de la información",
+    "cantidad": 2,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 6254850,
+    "vr_total": 12509700
+   },
+   {
+    "equipo": "SWITCH",
+    "especificaciones": "SWITCH POE 48 PUERTOS",
+    "justificacion": "Necesario para la operación del panel de control",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5999850,
+    "vr_total": 5999850
+   },
+   {
+    "equipo": "SWITCH",
+    "especificaciones": "SWITCH POE 24 PUERTOS",
+    "justificacion": "Necesario para la operación del panel de control panel de control",
+    "cantidad": 3,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 3299850,
+    "vr_total": 9899550
+   },
+   {
+    "equipo": "PUNTOS DE DATOS",
+    "especificaciones": "PUNTOS DE DATOS",
+    "justificacion": "Necesarios para la conección de cada uno de los puntos de coencción del sistea de videovigilancia en todo el edificio",
+    "cantidad": 85,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 224850,
+    "vr_total": 19112250
+   },
+   {
+    "equipo": "DISCO DURO",
+    "especificaciones": "DISCO DURO PC WD 6TB PURPURA",
+    "justificacion": "Necesario para el almacenamiento de información",
+    "cantidad": 8,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1259850,
+    "vr_total": 10078800
+   },
+   {
+    "equipo": "Caja de instalación",
+    "especificaciones": "CAJAS DE 10X10",
+    "justificacion": "Necesario para la colocación de las cámaras",
+    "cantidad": 79,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 14850,
+    "vr_total": 1173150
+   },
+   {
+    "equipo": "Injector",
+    "especificaciones": "INJECTORES POE",
+    "justificacion": "Necesario para la conexión de las cámaras",
+    "cantidad": 40,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 89850,
+    "vr_total": 3594000
+   },
+   {
+    "equipo": "Cable",
+    "especificaciones": "UTP CAT 6 COBRE 100% CARRETE X 305MTS",
+    "justificacion": "Necesario para la instalación de la red de datos del sistema de vigilancia",
+    "cantidad": 25,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 1184850,
+    "vr_total": 29621250
+   },
+   {
+    "equipo": "Punto de datos",
+    "especificaciones": "PUNTOS DE DATOS",
+    "justificacion": "Necesario para la conexión de las cámaras",
+    "cantidad": 84,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 209985,
+    "vr_total": 17638740
+   },
+   {
+    "equipo": "RACK",
+    "especificaciones": "Caja de recepción en instalación",
+    "justificacion": "Necesario para la instalación de los equipos que centralizan la información",
+    "cantidad": 1,
+    "unidad": "Unidad",
+    "custodia": "U. de Cartagena",
+    "vr_unitario": 5250000,
+    "vr_total": 5250000
+   }
+  ]
+ }
+]

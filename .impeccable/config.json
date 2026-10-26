@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "low-contrast",
+        "value": "*",
+        "files": [
+          "web/index.html"
+        ],
+        "createdAt": "2026-10-26T13:24:04.169Z",
+        "reason": "Claude: #c9d7e3 is only the body colour under the 3D canvas; text sits on dark translucent cards or has a text-shadow over the render"
+      }
+    ]
+  }
+}

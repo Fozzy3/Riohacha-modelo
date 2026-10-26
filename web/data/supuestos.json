@@ -1,0 +1,182 @@
+{
+ "S1": {
+  "tema": "Escala de los planos",
+  "supuesto": "Las láminas se imprimieron a **1:125**, no a 1:100 como dice el rótulo.",
+  "criterio": "`tools/calibrate_scale.py`: 98 de 109 cotas de A-111 y el 100 % de las cotas de A-107, A-108 y A-109 dan 1:125.",
+  "estado": "**Verificado**"
+ },
+ "S2": {
+  "tema": "Alturas",
+  "supuesto": "Niveles de los cortes de A-106: plaza 0,20; N1 0,40; N2 4,00; N3 7,80; N4 11,60; N5 15,40; cubierta 19,20; remate de cortasoles a 21,00–21,20 m.",
+  "criterio": "Cotas de nivel. A 1:125 las fachadas dibujadas coinciden con estas cotas (antes parecía haber una diferencia, pero era un error de escala).",
+  "estado": "Verificado"
+ },
+ "S3": {
+  "tema": "Georreferenciación",
+  "supuesto": "No hay coordenadas topográficas en los planos (la capa `COORDENADAS` no tiene valores). El CIP se ubica en el campo de frutales al NO de los edificios del SENA, con centro aproximado a (-90, -67) m del nodo OSM 7827759449. Norte del plano = norte real.",
+  "criterio": "Ilustración 7 del documento técnico, imagen satelital, y el ítem 1.13 (tala y traslado de árboles). Error estimado de ±10–20 m y ±5° de giro. El Informe de avance (2025, p. 7-13) cambia el lote: polígono de 5.600 m² en el predio del SENA Industrial, con coordenada de referencia 11°30'59,95\" N, 72°52'15,43\" O, a 67 m del origen actual del modelo. Ver S30.",
+  "estado": "Supuesto; **pendiente** del levantamiento de DEARCA"
+ },
+ "S4": {
+  "tema": "Plantas de los pisos 2 a 5",
+  "supuesto": "Faltan las láminas A-101 a A-105. Las plantas altas se reconstruyen con las capturas de AutoCAD de la memoria (ítems 15.07, 15.08, 8.13 y 8.16, una por piso), registradas sobre los ejes de A-111.",
+  "criterio": "La precisión queda limitada por la resolución de las capturas; se medirá en la F2.",
+  "estado": "Supuesto"
+ },
+ "S5": {
+  "tema": "Bloques A–D",
+  "supuesto": "A = Principal, B = Bloque B, C = Laboratorios, D = Auditorio.",
+  "criterio": "`datos/bloques.json` (evidencia en la memoria de cantidades).",
+  "estado": "Verificado"
+ },
+ "S6": {
+  "tema": "Cortasoles",
+  "supuesto": "En el modelo Revit original son montantes de muro cortina (capa `A-GLAZ-CWMG`). Su modulación y sección se toman de las fachadas; el acabado (\"pérgola metálica tipo madera\") sale de los cortes y de la Tabla 29. El Informe de avance de DEARCA (2025, p. 25) precisa el material: WPC Ekowood H 200-100 color Teka y Ekowood 90-90 color Arena, \"propuesto por el diseñador\".",
+  "criterio": "A-106 a A-109, documento técnico e Informe de avance V.01.",
+  "estado": "Verificado (material y sección)"
+ },
+ "S7": {
+  "tema": "Vegetación",
+  "supuesto": "Posiciones según los símbolos de A-111 (3 palmeras grandes, 30 plantas ornamentales, 10 medianas; memoria 26.01–26.02). Especies sin especificar: se usan especies típicas de Riohacha.",
+  "criterio": "A-111, memoria.",
+  "estado": "Supuesto"
+ },
+ "S8": {
+  "tema": "Instalaciones (MEP)",
+  "supuesto": "No se modelan las redes ocultas (capítulos 9, 12, 19). Sus ítems se asocian al edificio o al bloque. Sí se modelan los elementos visibles: equipos en cubierta, paneles solares y luminarias exteriores.",
+  "criterio": "Alcance visual y de datos acordado.",
+  "estado": "Decisión"
+ },
+ "S9": {
+  "tema": "APU de los capítulos 9, 12 y 19",
+  "supuesto": "Vienen en PDF con otro formato (hidrosanitario, eléctrico, aire acondicionado) y todavía no se convierten a datos.",
+  "criterio": "Pendiente si se requieren en el visor.",
+  "estado": "Pendiente"
+ },
+ "S10": {
+  "tema": "Materiales y colores",
+  "supuesto": "Tonos exactos no especificados. Se toman de la Tabla 29, de las especificaciones técnicas y de los renders de la página 77.",
+  "criterio": "Documento técnico.",
+  "estado": "Supuesto"
+ },
+ "S12": {
+  "tema": "Espesor de losas",
+  "supuesto": "0,35 m en entrepisos y cubiertas.",
+  "criterio": "Corte A-106 (losa aligerada con vigas descolgadas).",
+  "estado": "Supuesto"
+ },
+ "S13": {
+  "tema": "Contornos de bloque",
+  "supuesto": "Medidos con los extremos de las secciones cortadas de A-111. El ala de B usa los centros de sus columnas (11,80 × 21,36 m, girada 24,42°).",
+  "criterio": "Áreas contra el presupuesto: losas 4.06, 4.07, 4.08 y 4.09 dentro de ±0,7 % (QA.md).",
+  "estado": "Verificado"
+ },
+ "S14": {
+  "tema": "Cerramiento de pisos altos",
+  "supuesto": "Detrás de los cortasoles, vidrio entre losas en todo el borde de cada placa, con montantes cada 1,5 m.",
+  "criterio": "No hay plantas A-101 a A-105.",
+  "estado": "Supuesto"
+ },
+ "S16": {
+  "tema": "Franja verde perimetral",
+  "supuesto": "2,5 m de ancho.",
+  "criterio": "Calibrada: con 2,5 m la plaza da 1866 m², igual al ítem 24.06 (1865,08 m²).",
+  "estado": "Calibrado"
+ },
+ "S17": {
+  "tema": "Columnas de las marquesinas",
+  "supuesto": "Fuste de 0,40 m hasta 4,17 m y cuatro brazos de 0,22 m hacia (±1,85; ±1,05) m. Los alzados solo muestran dos vistas.",
+  "criterio": "A-107 y A-109 (capa A-GENM).",
+  "estado": "Supuesto"
+ },
+ "S18": {
+  "tema": "Cortasoles del bloque B",
+  "supuesto": "Eje del cortasol 0,50 m por fuera de la línea de fachada. Posición a lo largo de la fachada y alturas: exactas, del alzado desproyectado.",
+  "criterio": "A-107, A-108 y A-109. Área 540,7 m² frente a 550,14 m² del ítem 6.03.",
+  "estado": "Supuesto"
+ },
+ "S19": {
+  "tema": "Cortasoles en la cara este del bloque A",
+  "supuesto": "Sobre el bloque B (z 11,9 a 21,2 m, y −11,2 a 1,3 m) el alzado A-109 no los muestra porque quedan ocultos. Se agregan con el mismo módulo de 0,30 m.",
+  "criterio": "Sin ellos el bloque A suma 1006 m² frente a 1146 m² del ítem 6.02; con ellos, 1120 m² (−2,2 %).",
+  "estado": "Supuesto"
+ },
+ "S20": {
+  "tema": "Fachada de laboratorios",
+  "supuesto": "Vidrio de 0,40 a 3,50 m; franja maciza hasta 7,60 m.",
+  "criterio": "Cotas 3,10 / 5,90 / 7,40 de los cortes de A-107; cubierta a 6,80.",
+  "estado": "Supuesto"
+ },
+ "S21": {
+  "tema": "Antepechos",
+  "supuesto": "B de 11,60 a 12,10 m; Auditorio de 7,80 a 8,30 m.",
+  "criterio": "Cotas de 0,50 m en los cortes de A-106.",
+  "estado": "Supuesto"
+ },
+ "S22": {
+  "tema": "Laboratorio por recinto",
+  "supuesto": "A-111 solo dice \"Laboratorio\" o \"SALA n\". Asignación: laboratorios de C, del extremo junto al bloque A al opuesto: Ensayo y caracterización FV, Prácticas FV, Prácticas eólica, Geodata. Salas 1, 2 y 3 de B: Negocios digitales, Creatividad, Prototipado digital 3D. \"Prototipado unión y corte\" y \"Productividad\" quedan sin recinto (su dotación va en el edificio).",
+  "criterio": "Lista de espacios del piso 1 (hoja 03.1 y Tabla 24).",
+  "estado": "**Confirmar con el diseñador**"
+ },
+ "S24": {
+  "tema": "Relieve del entorno",
+  "supuesto": "Se usa el modelo SRTM suavizado (unos 50 m) y con el relieve reducido al 40 %. En esta planicie costera el SRTM es un modelo de superficie: incluye las copas de los árboles y tiene un ruido del orden del relieve real. El predio queda plano (nivel 0,00) en un radio de 70 m.",
+  "criterio": "AWS Terrain Tiles (SRTM).",
+  "estado": "Supuesto"
+ },
+ "S25": {
+  "tema": "Cortasoles tapados por las marquesinas",
+  "supuesto": "En el alzado sur, las marquesinas y los brazos de las columnas en Y tapan tramos de los cortasoles (en un alzado solo se dibuja lo visible). Los tramos del mismo cortasol se unen si los separa menos de 3 m, y los que arrancan dentro de la zona de marquesinas se extienden hasta la base de la franja (3,83 m).",
+  "criterio": "A-107: los extremos inferiores siguen la pendiente del techo de la marquesina (0,65 frente a 0,67 m/m). Resultado: cortasoles del bloque A 1175 m² frente a 1146 m² del ítem 6.02 (+2,5 %).",
+  "estado": "Supuesto"
+ },
+ "S26": {
+  "tema": "Entorno inmediato",
+  "supuesto": "En un radio de 130 m alrededor del CIP (campus del SENA) se asume grama con árboles; los píxeles de 10 m del satélite lo muestran como suelo desnudo.",
+  "criterio": "Imagen satelital de alta resolución (solo consulta visual) e Ilustración 7.",
+  "estado": "Supuesto (solo visual)"
+ },
+ "S23": {
+  "tema": "Salas de B",
+  "supuesto": "Los paneles móviles entre Sala 1, Sala 2 y Recepción no cierran del todo en planta; el área se reparte por proximidad a cada rótulo (Voronoi).",
+  "criterio": "A-111.",
+  "estado": "Supuesto"
+ },
+ "S27": {
+  "tema": "Iluminación nocturna",
+  "supuesto": "De noche solo hay luz interior: un plano emisor de 4000 K bajo cada losa (unos 500 lx en el piso), que se ve a través del vidrio. No se modela iluminación exterior (postes, bolardos ni reflectores) porque no aparece en los planos ni en el presupuesto.",
+  "criterio": "Presupuesto, capítulo eléctrico: luminarias interiores LENS lineales y BALA de 4000 K.",
+  "estado": "**Confirmar con el diseñador** (iluminación exterior)"
+ },
+ "S28": {
+  "tema": "Hora de cada estado de luz",
+  "supuesto": "Día: 15 de diciembre de 2026 a las 15:00. Atardecer: a las 17:00 (sol a 5,9°). Noche: a las 19:00, con un cielo azul tenue.",
+  "criterio": "Posición solar calculada con geo.js (NOAA) para Riohacha.",
+  "estado": "Supuesto (solo visual)"
+ },
+ "S29": {
+  "tema": "Patrón de los cortasoles WPC",
+  "supuesto": "El informe dice que se combinan perfiles de 100×200 mm (Teka) y de 90×90 mm (Arena) \"para generar un contraste\", pero no dibuja el patrón. Se alternan uno y uno a lo largo de cada fachada; los tramos de un mismo cortasol conservan su tono. Colores: Teka albedo (0,16; 0,075; 0,035), Arena (0,50; 0,39; 0,24).",
+  "criterio": "Informe de avance V.01, p. 25 y renders de portada.",
+  "estado": "Supuesto (patrón y tono)"
+ },
+ "S30": {
+  "tema": "Lote y nivel del terreno",
+  "supuesto": "El modelo sigue en el lote y con el nivel de los planos de 2021. El informe de avance traslada el proyecto a un lote de 5.600 m² con desniveles de hasta 4 m, relleno a +0,40 m sobre la vía (−2,00 m en el bloque C), muros de contención y semisótano de parqueadero bajo A, B y D. El diseño ajustado está al 60 % y sin aprobar.",
+  "criterio": "Informe de avance V.01, p. 7-13, 20 y 31-33.",
+  "estado": "**Pendiente**: levantamiento topográfico y modelo Revit de DEARCA"
+ },
+ "S31": {
+  "tema": "Variante \"Lote 2025\" (aproximada)",
+  "supuesto": "El edificio no cambia: es el mismo modelo de 2021. Lo que cambia:<br>• **Ubicación.** El grupo gira 40,1° en sentido horario y la columna A/1 queda en E 5.014.079, N 2.830.660.<br>• **Niveles.** Laboratorios bajan 2,40 m. Plaza en relleno a +0,40 sobre la Troncal, con muros de contención. Semisótano de parqueadero bajo A, B y D, en terreno natural a −3,90 de la vía.<br>• **Obras nuevas.** Cerramiento de 2,2 m, garita, vía de acceso y 23 árboles existentes.<br>• **Ya no caben.** Las marquesinas del acceso sur y el urbanismo de 2021 quedan fuera del lote nuevo.",
+  "criterio": "Informe de avance V.01:<br>• Plano de implantación (p. 8), con grilla Origen Nacional cada 76 m. El este se fija con la Troncal de OpenStreetMap: ambas a 129,4°.<br>• Plano general (p. 21): la cerca coincide con el polígono de la p. 8, con residuos de 2-4 m.<br>• Niveles de las p. 13 y 33.<br>Script: `tools/sitio_lote2025.py`.",
+  "estado": "**Aproximado**: reemplazar con el levantamiento y el Revit de DEARCA"
+ },
+ "S32": {
+  "tema": "Marco y tubos de la fachada norte del bloque A",
+  "supuesto": "En los pisos 2 y 3, A-108 dibuja un marco alrededor del vidrio y tubos inclinados (\"pérgola metálica tipo madera\", ítem 6.04). Sus posiciones salen de los dos bordes dibujados de cada tubo. Se asume:<br>• marco en bandas de 0,40 m, con saliente de 0,60 m (la saliente no está acotada);<br>• tubos de 4\" en el plano medio del marco, con acabado del tono Teka.<br>En la variante 2025 se quitan los tubos, porque el alzado norte de DEARCA muestra el marco solo con vidrio.",
+  "criterio": "A-108, memoria p. 75 (ítem 6.04) e Informe de avance p. 24 y 26.",
+  "estado": "Supuesto (saliente y acabado)"
+ }
+}

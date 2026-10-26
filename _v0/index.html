@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CIP La Guajira 3D</title>
+  <meta name="description" content="Modelo 3D interactivo del Centro de Innovación y Productividad con énfasis en energías renovables, Riohacha, La Guajira.">
+  <script type="importmap">
+    { "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+    } }
+  </script>
+  <style>
+    :root {
+      --panel: rgba(18, 22, 26, 0.72);
+      --line: rgba(255, 255, 255, 0.14);
+      --text: #f2efe9;
+      --muted: #b9b4aa;
+      --accent: #d9a46c;
+      font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    html, body { margin: 0; height: 100%; overflow: hidden; background: #0d1014; color: var(--text); }
+    #app, #app canvas { position: fixed; inset: 0; width: 100%; height: 100%; display: block; }
+    .panel { position: fixed; background: var(--panel); backdrop-filter: blur(10px); -webkit-backdrop-filter: blur(10px); border: 1px solid var(--line); border-radius: 14px; }
+    header.panel { top: 16px; left: 16px; padding: 14px 18px; max-width: min(420px, calc(100% - 32px)); }
+    header h1 { margin: 0; font-size: 17px; font-weight: 600; letter-spacing: 0.01em; }
+    header p { margin: 4px 0 0; font-size: 12.5px; color: var(--muted); line-height: 1.45; }
+    #controls { left: 50%; bottom: 16px; transform: translateX(-50%); width: min(760px, calc(100% - 32px)); padding: 12px 16px; display: grid; gap: 10px; }
+    .row { display: flex; flex-wrap: wrap; align-items: center; gap: 8px 12px; }
+    #clock { font-variant-numeric: tabular-nums; font-size: 22px; font-weight: 600; min-width: 64px; }
+    input[type=range] { flex: 1; min-width: 160px; accent-color: var(--accent); }
+    input[type=date] { background: transparent; color: var(--text); border: 1px solid var(--line); border-radius: 8px; padding: 6px 8px; color-scheme: dark; font: inherit; font-size: 13px; }
+    button { font: inherit; font-size: 13px; color: var(--text); background: rgba(255,255,255,0.06); border: 1px solid var(--line); border-radius: 8px; padding: 7px 11px; cursor: pointer; }
+    button:hover { background: rgba(255,255,255,0.14); }
+    button.primary { background: var(--accent); color: #1a1208; border-color: transparent; font-weight: 600; }
+    .chips button { padding: 5px 9px; font-size: 12px; }
+    .info { font-size: 12px; color: var(--muted); }
+    footer { position: fixed; right: 12px; top: 16px; max-width: 300px; font-size: 10.5px; color: rgba(255,255,255,0.7); text-align: right; line-height: 1.4; text-shadow: 0 1px 2px rgba(0,0,0,0.8); }
+    footer a { color: inherit; }
+    #loading { position: fixed; inset: 0; display: grid; place-items: center; background: #0d1014; z-index: 10; transition: opacity 0.8s; }
+    #loading.done { opacity: 0; pointer-events: none; }
+    #loading .bar { width: 240px; height: 3px; background: var(--line); border-radius: 2px; overflow: hidden; margin-top: 14px; }
+    #progress { height: 100%; width: 0; background: var(--accent); transition: width 0.3s; }
+    @media (max-width: 700px) {
+      footer { display: none; }
+      header p { display: none; }
+      #clock { font-size: 18px; }
+    }
+  </style>
+</head>
+<body>
+  <div id="app"></div>
+
+  <header class="panel">
+    <h1>Centro de Innovación y Productividad</h1>
+    <p>Energías renovables · SENA Centro Industrial y de Energías Alternativas, Km 3,3 vía Riohacha–Maicao, La Guajira. Sol calculado para la ubicación real (11,52° N).</p>
+  </header>
+
+  <section id="controls" class="panel" aria-label="Controles de simulación">
+    <div class="row">
+      <span id="clock">09:00</span>
+      <input id="time" type="range" min="300" max="1230" step="1" value="540" aria-label="Hora del día">
+      <button id="play" class="primary">Ciclo del día</button>
+    </div>
+    <div class="row">
+      <input id="date" type="date" aria-label="Fecha">
+      <span class="chips row">
+        <button data-date="2026-03-20">Equinoccio mar.</button>
+        <button data-date="2026-06-21">Solsticio jun.</button>
+        <button data-date="2026-09-23">Equinoccio sep.</button>
+        <button data-date="2026-12-21">Solsticio dic.</button>
+      </span>
+    </div>
+    <div class="row">
+      <button id="tour">Recorrido guiado</button>
+      <button id="night">Ver de noche</button>
+      <button id="quality">Calidad: alta</button>
+      <span class="info" id="events"></span>
+      <span class="info" id="sunInfo"></span>
+    </div>
+  </section>
+
+  <footer>
+    Diseño arquitectónico: Gedco, Arq. Alvin Prieto (planos 2021). Modelo de visualización, no constructivo.<br>
+    Terreno: AWS Terrain Tiles · Mapa: © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> · Imagen: Sentinel-2 cloudless 2016 © EOX (CC BY 4.0) · Texturas: Poly Haven (CC0) · Personas: Mixamo / three.js
+  </footer>
+
+  <div id="loading">
+    <div style="text-align:center">
+      <div id="loadingText">Cargando el modelo…</div>
+      <div class="bar"><div id="progress"></div></div>
+    </div>
+  </div>
+
+  <script type="module" src="main.js"></script>
+</body>
+</html>

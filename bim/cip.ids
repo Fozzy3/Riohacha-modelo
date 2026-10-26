@@ -1,0 +1,200 @@
+<?xml version='1.0' encoding='utf-8'?>
+<ids xmlns="http://standards.buildingsmart.org/IDS" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://standards.buildingsmart.org/IDS http://standards.buildingsmart.org/IDS/1.0/ids.xsd">
+    <info>
+        <title>CIP Guajira - requisitos de información</title>
+        <description>Cada elemento debe declarar su fuente; cortasoles, losas y vegetación su ítem de presupuesto; espacios su programa.</description>
+        <author>internetinteligente@udistrital.edu.co</author>
+    </info>
+    <specifications>
+        <specification name="Fuente de IFCWALL" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCWALL</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Fuente de IFCSLAB" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCSLAB</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Fuente de IFCCOLUMN" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCCOLUMN</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Fuente de IFCPLATE" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCPLATE</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Fuente de IFCMEMBER" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCMEMBER</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Fuente de IFCSHADINGDEVICE" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCSHADINGDEVICE</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Fuente de IFCROOF" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCROOF</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Fuente</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Lamina</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Cortasoles con ítem de presupuesto" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCSHADINGDEVICE</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Presupuesto</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>ItemPrincipal</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Columnas con ítem de presupuesto" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCCOLUMN</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Presupuesto</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>ItemPrincipal</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+        <specification name="Espacios con programa" ifcVersion="IFC4">
+            <applicability minOccurs="0" maxOccurs="unbounded">
+                <entity>
+                    <name>
+                        <simpleValue>IFCSPACE</simpleValue>
+                    </name>
+                </entity>
+            </applicability>
+            <requirements>
+                <property cardinality="required">
+                    <propertySet>
+                        <simpleValue>CIP_Espacio</simpleValue>
+                    </propertySet>
+                    <baseName>
+                        <simpleValue>Programa</simpleValue>
+                    </baseName>
+                </property>
+            </requirements>
+        </specification>
+    </specifications>
+</ids>

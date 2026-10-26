@@ -1,0 +1,5 @@
+# Escenas de Blender (~150 MB): se regeneran con blender/build_scene.py
+*.blend
+*.blend1
+__pycache__/
+.impeccable/hook.cache.json

@@ -1,0 +1,8472 @@
+[
+ {
+  "item": "1.01",
+  "descripcion": "Cerramiento provisional tela verde ml",
+  "unidad": "ml",
+  "cantidad": 307.36,
+  "pagina": 1,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.01_1.jpg",
+    "pagina": 1,
+    "px": [
+     1185,
+     769
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.02",
+  "descripcion": "Limpieza y descapote",
+  "unidad": "m2",
+  "cantidad": 4664.28,
+  "pagina": 1,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.02_1.jpg",
+    "pagina": 1,
+    "px": [
+     1040,
+     667
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.03",
+  "descripcion": "Puerta de acceso peatonal",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 2,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.03_1.jpg",
+    "pagina": 2,
+    "px": [
+     756,
+     498
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.04",
+  "descripcion": "Porton de acceso vehicular",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 2,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.04_1.jpg",
+    "pagina": 2,
+    "px": [
+     902,
+     564
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.05",
+  "descripcion": "Instalacion electrica provisional",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 3,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.05_1.jpg",
+    "pagina": 3,
+    "px": [
+     936,
+     704
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.06",
+  "descripcion": "Instalacion hidrosanitaria provisional",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 3,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.06_1.jpg",
+    "pagina": 3,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.07",
+  "descripcion": "Tanque provisional de agua 2000 lits",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 4,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.07_1.jpg",
+    "pagina": 4,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.08",
+  "descripcion": "Campamento almacen 0 bodega 18 m2",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 4,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.08_1.jpg",
+    "pagina": 4,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.09",
+  "descripcion": "Campamento oficina 9",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 5,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.09_1.jpg",
+    "pagina": 5,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.10",
+  "descripcion": "Dotacion de campameto",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 5,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.10_1.jpg",
+    "pagina": 5,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.11",
+  "descripcion": "Topografia y nivelacion",
+  "unidad": "d",
+  "cantidad": 50.0,
+  "pagina": 6,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.11_1.jpg",
+    "pagina": 6,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.12",
+  "descripcion": "Nivelacion manual con retiro",
+  "unidad": "m2",
+  "cantidad": 1961.0,
+  "pagina": 6,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.12_1.jpg",
+    "pagina": 6,
+    "px": [
+     721,
+     561
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.13",
+  "descripcion": "Tala de arboles exterior",
+  "unidad": "und",
+  "cantidad": 10.0,
+  "pagina": 7,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.13_1.jpg",
+    "pagina": 7,
+    "px": [
+     1364,
+     893
+    ]
+   }
+  ]
+ },
+ {
+  "item": "1.14",
+  "descripcion": "Trazado y replanteo de cimentacion",
+  "unidad": "m2",
+  "cantidad": 1961.0,
+  "pagina": 7,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "1.14_1.jpg",
+    "pagina": 7,
+    "px": [
+     721,
+     561
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.01",
+  "descripcion": "Excavacion mecanica zapata z1 bloque b con retiro de material",
+  "unidad": "m3",
+  "cantidad": 114.4,
+  "pagina": 8,
+  "detalle": [
+   "excavcion zapatas bloque b",
+   "ancho | largo | alto | Cantidad | m3 und",
+   "2,6 | 2 | 2,2 | 10 | 114,4"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.01_1.jpg",
+    "pagina": 8,
+    "px": [
+     942,
+     761
+    ]
+   },
+   {
+    "archivo": "2.01_2.jpg",
+    "pagina": 8,
+    "px": [
+     758,
+     691
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.02",
+  "descripcion": "Excavacion mecanica zapata z1 bloque C-D con retirio de material",
+  "unidad": "m3",
+  "cantidad": 156.0,
+  "pagina": 8,
+  "detalle": [
+   "excavcion zapatas bloque c y d",
+   "ancho | largo | alto | Cantidad | m3 und",
+   "2,6 | 2 | 2 | 15 | 156"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.02_1.jpg",
+    "pagina": 8,
+    "px": [
+     442,
+     647
+    ]
+   },
+   {
+    "archivo": "2.02_2.jpg",
+    "pagina": 8,
+    "px": [
+     600,
+     612
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.03",
+  "descripcion": "Excavacion mecanica zapata  z2 bloque A con retiro de material",
+  "unidad": "m3",
+  "cantidad": 186.0,
+  "pagina": 9,
+  "detalle": [
+   "excavcion zapatas bloque a",
+   "ancho | largo | alto | Cantidad | m3 und",
+   "3 | 2,5 | 3,1 | 8 | 186"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.03_1.jpg",
+    "pagina": 9,
+    "px": [
+     900,
+     584
+    ]
+   },
+   {
+    "archivo": "2.03_2.jpg",
+    "pagina": 9,
+    "px": [
+     729,
+     711
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.04",
+  "descripcion": "Excavacion de vigas cimetnacion  con  exavacion de concreot ciclopeo  1.00",
+  "unidad": "m3",
+  "cantidad": 75.61,
+  "pagina": 9,
+  "detalle": [
+   "x0.70 viga bloque a con retiro de material",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | cantidad udn | Volumen",
+   "1 | 11 | 1 | 0,7 | 2 | 15,4",
+   "2 | 9,5 | 1 | 0,7 | 2 | 13,3",
+   "3 | 9,78 | 1 | 0,7 | 2 | 13,692",
+   "4 | 5,65 | 1 | 0,7 | 2 | 7,91",
+   "5 | 6,62 | 1 | 0,7 | 3 | 13,902",
+   "6 | 8,15 | 1 | 0,7 | 2 | 11,41",
+   "m3 | 75,614"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.04_1.jpg",
+    "pagina": 9,
+    "px": [
+     1191,
+     766
+    ]
+   },
+   {
+    "archivo": "2.04_2.jpg",
+    "pagina": 9,
+    "px": [
+     793,
+     609
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.05",
+  "descripcion": "Excavacion de viga cimentacion  y concreto ciclopeo  1.00x0.70 bloque B",
+  "unidad": "m3",
+  "cantidad": 81.977,
+  "pagina": 10,
+  "detalle": [
+   "con retrio de material",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | cantidad udn | Volumen",
+   "1 | 8,11 | 1 | 0,7 | 2 | 11,354",
+   "2 | 7,96 | 1 | 0,7 | 2 | 11,144",
+   "3 | 7,97 | 1 | 0,7 | 2 | 11,158",
+   "4 | 7,99 | 1 | 0,7 | 2 | 11,186",
+   "5 | 10,61 | 1 | 0,7 | 5 | 37,135",
+   "m3 | 81,977"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.05_1.jpg",
+    "pagina": 10,
+    "px": [
+     989,
+     789
+    ]
+   },
+   {
+    "archivo": "2.05_2.jpg",
+    "pagina": 10,
+    "px": [
+     793,
+     609
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.06",
+  "descripcion": "Excavacion de viga de cimentacion y concreto ciclopeo 1.00x0.70  bloque c",
+  "unidad": "m3",
+  "cantidad": 75.61,
+  "pagina": 10,
+  "detalle": [
+   "con retiro de material",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | cantidad udn | Volumen",
+   "1 | 5,76 | 1 | 0,7 | 3 | 12,093",
+   "2 | 10,87 | 1 | 0,7 | 3 | 22,827",
+   "3 | 10,16 | 1 | 0,7 | 3 | 21,336",
+   "4 | 9,22 | 1 | 0,7 | 3 | 19,362",
+   "m3 | 75,618"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.06_1.jpg",
+    "pagina": 10,
+    "px": [
+     793,
+     609
+    ]
+   },
+   {
+    "archivo": "2.06_2.jpg",
+    "pagina": 10,
+    "px": [
+     802,
+     708
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.07",
+  "descripcion": "Excavacion de viga de cientacion y concreto ciclopeo de  1.00x0.70  d con",
+  "unidad": "m3",
+  "cantidad": 47.11,
+  "pagina": 11,
+  "detalle": [
+   "retiro de material",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | cantidad udn | Volumen",
+   "1 | 13,38 | 1 | 0,7 | 3 | 28,098",
+   "2 | 7,19 | 1 | 0,7 | 2 | 10,066",
+   "3 | 6,39 | 1 | 0,7 | 2 | 8,946",
+   "m3 | 47,11"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.07_1.jpg",
+    "pagina": 11,
+    "px": [
+     465,
+     499
+    ]
+   },
+   {
+    "archivo": "2.07_2.jpg",
+    "pagina": 11,
+    "px": [
+     793,
+     609
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.08",
+  "descripcion": "Excavacion de cimentacion placa ascensorx  con retiro de material",
+  "unidad": "m3",
+  "cantidad": 129.91418,
+  "pagina": 11,
+  "detalle": [
+   "ancho | largo | alto | m3 und",
+   "4,43 | 9,46 | 3,1 | 129,91418"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.08_1.jpg",
+    "pagina": 11,
+    "px": [
+     1101,
+     762
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.09",
+  "descripcion": "Excavacion cimentacion cerramiento  definitivo con retiro de material",
+  "unidad": "m3",
+  "cantidad": 110.65,
+  "pagina": 12,
+  "detalle": [
+   "largo | ancho | alto | m3",
+   "307,36 | 0,6 | 0,6 | 110,6496"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.09_1.jpg",
+    "pagina": 12,
+    "px": [
+     1185,
+     769
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.10",
+  "descripcion": "Perfilacion manual de terreno zapatas y foso ascensor",
+  "unidad": "m2",
+  "cantidad": 751.2,
+  "pagina": 12,
+  "detalle": [
+   "excavcion zapatas bloque b",
+   "canitdad toal",
+   "ancho | largo | alto | m2 und | cantidad",
+   "m3",
+   "5,2 | 4 | 2,2 | 20,24 | 10 | 202,4",
+   "excavcion zapatas bloque c y d",
+   "canitdad toal",
+   "ancho | largo | alto | m3 und | cantidad",
+   "m3",
+   "5,2 | 4 | 2 | 18,4 | 15 | 276",
+   "excavcion zapatas bloque a",
+   "canitdad toal",
+   "ancho | largo | alto | m3 und | cantidad",
+   "m3",
+   "6 | 5 | 3,1 | 34,1 | 8 | 272,8",
+   "m2 | 751,2"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "2.11",
+  "descripcion": "3 Rellenos y compactacion con respaldo de zapatas en con material seleccionado",
+  "unidad": "m",
+  "cantidad": 246.076,
+  "pagina": 13,
+  "detalle": [
+   "actividad | und | m3",
+   "excavacion zapatas | m3 | 456,4",
+   "ciclopeo zapatas | m3 | 95",
+   "solado zapatas | m3 | 9,5",
+   "concreto zapatas | m3 | 95",
+   "pedestales zapatas | m3 | 10,824",
+   "relleno de zapatas | 246,076"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "2.12",
+  "descripcion": "3 Rellenos y compatacion de vigas de amarre con resplado de material del sitio",
+  "unidad": "m",
+  "cantidad": 33.385,
+  "pagina": 13,
+  "detalle": [
+   "excavcion vigas bloque abcd | m3 | 280,311",
+   "Ciclopeo | 55,516",
+   "solado vigas | 28,93",
+   "concreto vigas | 86,87",
+   "108,995"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "2.13",
+  "descripcion": "Relleno  y compactacion con material seleccionado placa de contrapiso",
+  "unidad": "m3",
+  "cantidad": 401.23,
+  "pagina": 13,
+  "detalle": [
+   "area | espesor | m3",
+   "relleno de material seleccionad1791,42 | 0,15 | 268,713"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.13_1.jpg",
+    "pagina": 13,
+    "px": [
+     1057,
+     671
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.14",
+  "descripcion": "Relleno y compatacion  foso ascensor",
+  "unidad": "m3",
+  "cantidad": 54.64849,
+  "pagina": 13,
+  "detalle": [
+   "excavacion foso | 129,91418",
+   "ciclopeo foso | 20,9539",
+   "solado foso | 2,09539",
+   "concreto losa | 20,9539",
+   "vacios ductos ascensor | 31,2625",
+   "54,64849"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "2.15",
+  "descripcion": "Excavacion manual",
+  "unidad": "m3",
+  "cantidad": 268.713,
+  "pagina": 14,
+  "detalle": [
+   "area | espesor | m3",
+   "relleno de material seleccionad1791,42 | 0,15 | 268,713"
+  ],
+  "imagenes": [
+   {
+    "archivo": "2.15_1.jpg",
+    "pagina": 14,
+    "px": [
+     1057,
+     671
+    ]
+   }
+  ]
+ },
+ {
+  "item": "2.16",
+  "descripcion": "Excavacion roca",
+  "unidad": "m3",
+  "cantidad": 118.65,
+  "pagina": 14,
+  "detalle": [
+   "excavccion zapatas | 380,76682",
+   "exavacion vigas | 280,319",
+   "excavacion foso | 129,91418",
+   "de roca en excavacion",
+   "791 | 15% | 118,65"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.01",
+  "descripcion": "Concreto ciclopeo de proporcion 60 de piedra y 40 de concreto 1 mpa espesor 0.50 en zapatas",
+  "unidad": "m3",
+  "cantidad": 95.0,
+  "pagina": 15,
+  "detalle": [
+   "cilopeo zapatas bloque b",
+   "canitdad toal",
+   "ancho | largo | alto | m3 und | cantidad",
+   "m3",
+   "2,6 | 2 | 0,5 | 2,6 | 10 | 26",
+   "cilocpeo zapatas bloque c y d",
+   "canitdad toal",
+   "ancho | largo | alto | m3 und | cantidad",
+   "m3",
+   "2,6 | 2 | 0,5 | 2,6 | 15 | 39",
+   "cilocpeo zapatas bloque a",
+   "canitdad toal",
+   "ancho | largo | alto | m3 und | cantidad",
+   "m3",
+   "3 | 2,5 | 0,5 | 3,75 | 8 | 30",
+   "zapatas ciclopem3 | 95"
+  ],
+  "imagenes": [
+   {
+    "archivo": "3.01_1.jpg",
+    "pagina": 15,
+    "px": [
+     729,
+     711
+    ]
+   },
+   {
+    "archivo": "3.01_2.jpg",
+    "pagina": 15,
+    "px": [
+     600,
+     612
+    ]
+   },
+   {
+    "archivo": "3.01_3.jpg",
+    "pagina": 15,
+    "px": [
+     758,
+     691
+    ]
+   }
+  ]
+ },
+ {
+  "item": "3.02",
+  "descripcion": "Concreto cilopeo de proporcion 60 de piedra 40 de concreto 21 mpa para vigas de cimentacion",
+  "unidad": "m3",
+  "cantidad": 173.355,
+  "pagina": 15,
+  "detalle": [
+   "ciclopeo vigas bloque A",
+   "no | vigas",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 13,65 | 0,5 | 0,7 | 4,7775 | 2 | 9,555",
+   "2 | 12,15 | 0,5 | 0,7 | 4,2525 | 2 | 8,505",
+   "3 | 12,43 | 0,5 | 0,7 | 4,3505 | 2 | 8,701",
+   "4 | 7,8 | 0,5 | 0,7 | 2,73 | 2 | 5,46",
+   "5 | 8,77 | 0,5 | 0,7 | 3,0695 | 3 | 9,2085",
+   "6 | 8,15 | 0,5 | 0,7 | 2,8525 | 2 | 5,705",
+   "m3 | 47,1345",
+   "ciclopeos n vigas bloque b",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 9,76 | 0,5 | 0,7 | 3,416 | 2 | 6,832",
+   "2 | 9,61 | 0,5 | 0,7 | 3,3635 | 2 | 6,727",
+   "3 | 9,62 | 0,5 | 0,7 | 3,367 | 2 | 6,734",
+   "4 | 9,64 | 0,5 | 0,7 | 3,374 | 2 | 6,748",
+   "5 | 13,21 | 0,5 | 0,7 | 4,6235 | 5 | 23,1175",
+   "m3 | 50,1585",
+   "ciclopeo vigas bloque c",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 8,39 | 0,5 | 0,7 | 2,9365 | 3 | 8,8095",
+   "2 | 13,47 | 0,5 | 0,7 | 4,7145 | 3 | 14,1435",
+   "3 | 11,81 | 0,5 | 0,7 | 4,1335 | 3 | 12,4005",
+   "4 | 10,87 | 0,5 | 0,7 | 3,8045 | 3 | 11,4135",
+   "m3 | 46,767",
+   "ciclopeo vigas bloque d",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 15,38 | 0,5 | 0,7 | 5,383 | 3 | 16,149",
+   "2 | 9,79 | 0,5 | 0,7 | 3,4265 | 2 | 6,853",
+   "3 | 8,99 | 0,5 | 0,7 | 3,1465 | 2 | 6,293",
+   "m3 | 29,295"
+  ],
+  "imagenes": [
+   {
+    "archivo": "3.02_1.jpg",
+    "pagina": 15,
+    "px": [
+     1191,
+     766
+    ]
+   },
+   {
+    "archivo": "3.02_2.jpg",
+    "pagina": 16,
+    "px": [
+     989,
+     789
+    ]
+   },
+   {
+    "archivo": "3.02_3.jpg",
+    "pagina": 17,
+    "px": [
+     802,
+     708
+    ]
+   },
+   {
+    "archivo": "3.02_4.jpg",
+    "pagina": 17,
+    "px": [
+     465,
+     499
+    ]
+   }
+  ]
+ },
+ {
+  "item": "3.03",
+  "descripcion": "Concreto ciclopeo de proporcion 60 de piedra y 40 de concreto de 21 mpa para losa foso ascensores",
+  "unidad": "m3",
+  "cantidad": 20.9539,
+  "pagina": 18,
+  "detalle": [
+   "ancho | largo | alto | m3 und",
+   "4,43 | 9,46 | 0,5 | 20,9539"
+  ],
+  "imagenes": [
+   {
+    "archivo": "3.03_1.jpg",
+    "pagina": 18,
+    "px": [
+     1101,
+     762
+    ]
+   }
+  ]
+ },
+ {
+  "item": "3.04",
+  "descripcion": "Solado concreto 2000 psi e 0.05 mts",
+  "unidad": "m3",
+  "cantidad": 38.43089,
+  "pagina": 18,
+  "detalle": [
+   "solado zapatas bloque b",
+   "ancho | largo | alto | m3 und | cantidad | 10 | canitdad toal m | 2,6",
+   "2,6 | 2 | 0,05 | 0,26",
+   "solado zapatas bloque c y d",
+   "ancho | largo | alto | m3 und | cantidad | 15 | canitdad toal m | 3,9",
+   "2,6 | 2 | 0,05 | 0,26",
+   "solado zapatas bloque a",
+   "ancho | largo | alto | m3 und | cantidad | 8 | canitdad toal m | 3",
+   "3 | 2,5 | 0,05 | 0,375",
+   "solado zapatas | m3 | 9,5",
+   "solado vigas bloque a",
+   "no | vigas",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 13,65 | 0,05 | 0,7 | 0,47775 | 2 | 0,9555",
+   "2 | 12,15 | 0,05 | 0,7 | 0,42525 | 2 | 0,8505",
+   "3 | 12,43 | 0,05 | 0,7 | 0,43505 | 2 | 0,8701",
+   "4 | 7,8 | 0,05 | 0,7 | 0,273 | 2 | 0,546",
+   "5 | 8,77 | 0,05 | 0,7 | 0,30695 | 3 | 0,92085",
+   "6 | 8,15 | 0,05 | 0,7 | 0,28525 | 2 | 0,5705",
+   "m3 | 4,71345",
+   "soladovigas  bloque b",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 9,76 | 0,05 | 0,7 | 0,3416 | 2 | 0,6832",
+   "2 | 9,61 | 0,05 | 0,7 | 0,33635 | 2 | 0,6727",
+   "3 | 9,62 | 0,05 | 0,7 | 0,3367 | 2 | 0,6734",
+   "4 | 9,64 | 0,05 | 0,7 | 0,3374 | 2 | 0,6748",
+   "5 | 13,21 | 0,05 | 0,7 | 0,46235 | 5 | 2,31175",
+   "m3 | 5,01585",
+   "solado vigas  bloque c",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 8,39 | 0,05 | 0,7 | 0,29365 | 3 | 0,88095",
+   "2 | 13,47 | 0,05 | 0,7 | 0,47145 | 3 | 1,41435",
+   "3 | 11,81 | 0,05 | 0,7 | 0,41335 | 3 | 1,24005",
+   "4 | 10,87 | 0,05 | 0,7 | 0,38045 | 3 | 1,14135",
+   "m3 | 4,6767",
+   "soladovigas bloque d viga",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 15,38 | 0,05 | 0,7 | 0,5383 | 3 | 1,6149",
+   "2 | 9,79 | 0,05 | 0,7 | 0,34265 | 2 | 0,6853",
+   "3 | 8,99 | 0,05 | 0,7 | 0,31465 | 2 | 0,6293",
+   "m3 | 2,9295",
+   "solado losa ascensor",
+   "ancho | largo | alto | m3 und",
+   "4,43 | 9,46 | 0,05 | 2,09539"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.05",
+  "descripcion": "Zapata en concreto z1 bloque  b",
+  "unidad": "m3",
+  "cantidad": 26.0,
+  "pagina": 19,
+  "detalle": [
+   "o",
+   "concreto zapatas bloque b",
+   "ancho | largo | alto | m3 und | cantidad | 10 | canitdad toal m | 26",
+   "2,6 | 2 | 0,5 | 2,6"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.06",
+  "descripcion": "Zapate en concreto z1 bloque c y d",
+  "unidad": "m3",
+  "cantidad": 39.0,
+  "pagina": 19,
+  "detalle": [
+   "concreto zapatas bloque c y d",
+   "ancho | largo | alto | m3 und | cantidad | 15 | canitdad toal m | 39",
+   "2,6 | 2 | 0,5 | 2,6"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.07",
+  "descripcion": "Zapata em cpmcreto z2 bloque a",
+  "unidad": "m3",
+  "cantidad": 30.0,
+  "pagina": 19,
+  "detalle": [
+   "concreto zapatas bloque a",
+   "ancho | largo | alto | m3 und | cantidad | 8 | canitdad toal m | 30",
+   "3 | 2,5 | 0,5 | 3,75"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.08",
+  "descripcion": "Pedestales en concreto  m3",
+  "unidad": "m3",
+  "cantidad": 10.824,
+  "pagina": 20,
+  "detalle": [
+   "pedestales  bloque b",
+   "ancho | largo | alto | m3 und | cantidad | 10 | canitdad toal m | 3,12",
+   "0,6 | 0,8 | 0,65 | 0,312",
+   "pedestales  bloque c y d",
+   "ancho | largo | alto | m3 und | cantidad | 15 | canitdad toal m | 3,24",
+   "0,6 | 0,8 | 0,45 | 0,216",
+   "pedestales bloque a",
+   "ancho | largo | alto | m3 und | cantidad | 8 | canitdad toal m | 4,464",
+   "0,6 | 0,6 | 1,55 | 0,558"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.09",
+  "descripcion": "Vigas de cimentacion  en concreto bloque a-b-c y d",
+  "unidad": "m3",
+  "cantidad": 86.6775,
+  "pagina": 20,
+  "detalle": [
+   "concreto vigas bloque a",
+   "no | vigas",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 13,65 | 0,5 | 0,35 | 2,38875 | 2 | 4,7775",
+   "2 | 12,15 | 0,5 | 0,35 | 2,12625 | 2 | 4,2525",
+   "3 | 12,43 | 0,5 | 0,35 | 2,17525 | 2 | 4,3505",
+   "4 | 7,8 | 0,5 | 0,35 | 1,365 | 2 | 2,73",
+   "5 | 8,77 | 0,5 | 0,35 | 1,53475 | 3 | 4,60425",
+   "6 | 8,15 | 0,5 | 0,35 | 1,42625 | 2 | 2,8525",
+   "m3 | 23,56725",
+   "concreto vigas bloque b",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 9,76 | 0,5 | 0,35 | 1,708 | 2 | 3,416",
+   "2 | 9,61 | 0,5 | 0,35 | 1,68175 | 2 | 3,3635",
+   "3 | 9,62 | 0,5 | 0,35 | 1,6835 | 2 | 3,367",
+   "4 | 9,64 | 0,5 | 0,35 | 1,687 | 2 | 3,374",
+   "5 | 13,21 | 0,5 | 0,35 | 2,31175 | 5 | 11,55875",
+   "m3 | 25,07925",
+   "concreto vigas bloque c",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 8,39 | 0,5 | 0,35 | 1,46825 | 3 | 4,40475",
+   "2 | 13,47 | 0,5 | 0,35 | 2,35725 | 3 | 7,07175",
+   "3 | 11,81 | 0,5 | 0,35 | 2,06675 | 3 | 6,20025",
+   "4 | 10,87 | 0,5 | 0,35 | 1,90225 | 3 | 5,70675",
+   "m3 | 23,3835",
+   "concreto vigas bloque d viga",
+   "no | vigas | excavacion",
+   "largo | alto | ancho | m3 | cantidad udn | m3",
+   "1 | 15,38 | 0,5 | 0,35 | 2,6915 | 3 | 8,0745",
+   "2 | 9,79 | 0,5 | 0,35 | 1,71325 | 2 | 3,4265",
+   "3 | 8,99 | 0,5 | 0,35 | 1,57325 | 2 | 3,1465",
+   "m3 | 14,6475"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "3.10",
+  "descripcion": "Loza de cimentacion foso ascensor",
+  "unidad": "m3",
+  "cantidad": 20.9539,
+  "pagina": 21,
+  "detalle": [
+   "ancho | largo | alto | m3 und",
+   "4,43 | 9,46 | 0,5 | 20,9539"
+  ],
+  "imagenes": [
+   {
+    "archivo": "3.10_1.jpg",
+    "pagina": 21,
+    "px": [
+     1101,
+     762
+    ]
+   }
+  ]
+ },
+ {
+  "item": "3.11",
+  "descripcion": "Viga de cimentacion escaleras",
+  "unidad": "m3",
+  "cantidad": 1.1376,
+  "pagina": 21,
+  "detalle": [
+   "largo | ancho | alto | n3",
+   "4,8 | 0,6 | 0,3 | 0,864",
+   "4,8 | 0,19 | 0,3 | 0,2736",
+   "1,1376"
+  ],
+  "imagenes": [
+   {
+    "archivo": "3.11_1.jpg",
+    "pagina": 21,
+    "px": [
+     734,
+     449
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.01",
+  "descripcion": "Columnas en concreto",
+  "unidad": "m3",
+  "cantidad": 88.272,
+  "pagina": 22,
+  "detalle": [
+   "columnas en concreto bloque a",
+   "nivel bajo | nivel alto | longitud total mts",
+   "0,2 | 19,2 | 19",
+   "seccion de columna",
+   "ancho | largo | area",
+   "0,4 | 0,6 | 0,24",
+   "m3 und de columna | 4,56",
+   "cantidad und | 9",
+   "m3 totales columas bloque a | 41,04",
+   "nivel bajo | nivel alto | longitud total mts",
+   "0,2 | 11,6 | 11,4",
+   "seccion de columna",
+   "ancho | largo | area",
+   "0,4 | 0,6 | 0,24",
+   "m3 und de columna | 2,736",
+   "cantidad und | 8",
+   "m3 totales columas bloque a | 21,888",
+   "nivel bajo | nivel alto | longitud total mts",
+   "0,2 | 6,8 | 6,6",
+   "seccion de columna",
+   "ancho | largo | area",
+   "0,4 | 0,6 | 0,24",
+   "m3 und de columna | 1,584",
+   "cantidad und | 10",
+   "m3 totales columas bloque a | 15,84",
+   "nivel bajo | nivel alto | longitud total mts",
+   "0,2 | 6,8 | 6,6",
+   "seccion de columna",
+   "ancho | largo | area",
+   "0,4 | 0,6 | 0,24",
+   "m3 und de columna | 1,584",
+   "cantidad und | 6",
+   "m3 totales columas bloque a | 9,504"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.01_1.jpg",
+    "pagina": 22,
+    "px": [
+     165,
+     665
+    ]
+   },
+   {
+    "archivo": "4.01_2.jpg",
+    "pagina": 23,
+    "px": [
+     381,
+     1056
+    ]
+   },
+   {
+    "archivo": "4.01_3.jpg",
+    "pagina": 24,
+    "px": [
+     261,
+     584
+    ]
+   },
+   {
+    "archivo": "4.01_4.jpg",
+    "pagina": 25,
+    "px": [
+     254,
+     580
+    ]
+   },
+   {
+    "archivo": "4.01_5.jpg",
+    "pagina": 26,
+    "px": [
+     254,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.02",
+  "descripcion": "Vigas aereas 40x50 nivek 4.00+ modulo c estructural 10 columnas",
+  "unidad": "m3",
+  "cantidad": 24.024,
+  "pagina": 26,
+  "detalle": [
+   "seccion de viga aerea",
+   "rgo de viga totalmancho | alto | m3 totales",
+   "120,12 | 0,4 | 0,5 | 24,024"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.02_1.jpg",
+    "pagina": 26,
+    "px": [
+     762,
+     643
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.03",
+  "descripcion": "Vigas aereas  40x70 nivle 4.00+ modulo d estructural 6 columnas",
+  "unidad": "m3",
+  "cantidad": 24.1836,
+  "pagina": 27,
+  "detalle": [
+   "seccion de viga aerea",
+   "rgo de viga totalmancho | alto | m3 totales",
+   "86,37 | 0,4 | 0,7 | 24,1836"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.03_1.jpg",
+    "pagina": 27,
+    "px": [
+     566,
+     711
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.04",
+  "descripcion": "Losa  aligerada en concreto con Vigas aereas descolgada 30x70 nivel 4.00+ estructura modulo a y b 1era losa",
+  "unidad": "m2",
+  "cantidad": 1126.12,
+  "pagina": 28,
+  "detalle": [
+   "concreto de descuento area caseton",
+   "area losa concret espesor | m3 total",
+   "1126,12 | 0,5 | 563,06",
+   "m3 volumene de descuento caseton | 439,5805",
+   "m3 torta losa 0.20  m3 concreto total | 190,358",
+   "m3 concreto los | 313,8375",
+   "insidencia sobre m2 losa 1126.12",
+   "m3 de concreto sobre m2 de losa | 0,278689216",
+   "No espacio | area | alto | m3 caseton | area vacio",
+   "1 | 0,32 | 0,5 | 0,16",
+   "2 | 1,71 | 0,5 | 0,855",
+   "3 | 2,1 | 0,5 | 1,05",
+   "4 | 2,1 | 0,5 | 1,05",
+   "5 | 2,22 | 0,5 | 1,11",
+   "6 | 0,54 | 0,5 | 0,27",
+   "7 | 8,36 | 0,5 | 4,18",
+   "8 | 4,18 | 0,5 | 2,09",
+   "9 | 2,12 | 0,5 | 1,06",
+   "10 | 11,33 | 0,5 | 5,665",
+   "11 | 13,94 | 0,5 | 6,97",
+   "12 | 13,94 | 0,5 | 6,97",
+   "13 | 14,73 | 0,5 | 7,365",
+   "14 | 3,62 | 0,5 | 1,81",
+   "15 | 10,27 | 0,5 | 5,135",
+   "16 | 5,13 | 0,5 | 2,565",
+   "17 | 2,12 | 0,5 | 1,06",
+   "18 | 11,33 | 0,5 | 5,665",
+   "19 | 13,94 | 0,5 | 6,97",
+   "20 | 13,94 | 0,5 | 6,97",
+   "21 | 14,73 | 0,5 | 7,365",
+   "22 | 3,62 | 0,5 | 1,81",
+   "23 | 10,27 | 0,5 | 5,135",
+   "24 | 5,13 | 0,5 | 2,565",
+   "25 | 1,46 | 0,5 | 0,73",
+   "26 | 7,83 | 0,5 | 3,915",
+   "27 | 9,64 | 0,5 | 4,82",
+   "28 | 9,64 | 0,5 | 4,82",
+   "29 | 10,18 | 0,5 | 5,09",
+   "30 | 10,23 | 0,5 | 5,115 | vacio escalera | 10,23",
+   "31 | 3,55 | 0,5 | 1,775",
+   "32 | 1,14 | 0,5 | 0,57",
+   "33 | 6,11 | 0,5 | 3,055",
+   "34 | 7,52 | 0,5 | 3,76",
+   "35 | 7,52 | 0,5 | 3,76",
+   "36 | 7,76 | 0,5 | 3,88",
+   "37 | 7,8 | 0,5 | 3,9",
+   "38 | 2,68 | 0,5 | 1,34",
+   "39 | 1,36 | 0,5 | 0,68",
+   "40 | 7,3 | 0,5 | 3,65",
+   "41 | 18,54 | 0,5 | 9,27 | vacio | 18,54",
+   "42 | 9,29 | 0,5 | 4,645",
+   "43 | 15,25 | 0,5 | 7,625 | foso ascensor | 15,25",
+   "44 | 2,43 | 0,5 | 1,215 | vacio | 2,43",
+   "45 | 47,04 | 0,5 | 23,52 | vacio | 47,04",
+   "46 | 38,58 | 0,5 | 19,29 | vacio | 38,58",
+   "47 | 2,78 | 0,5 | 1,39 | vacio | 2,78",
+   "48 | 1,05 | 0,5 | 0,525 | vacio | 1,05",
+   "49 | 20,45 | 0,5 | 10,225 | vacio | 20,45",
+   "50 | 16,77 | 0,5 | 8,385 | vacio | 16,77",
+   "51 | 1,21 | 0,5 | 0,605 | vacio | 1,21",
+   "52 | 1,24 | 0,5 | 0,62",
+   "53 | 5,67 | 0,5 | 2,835 | 174,33",
+   "54 | 7,73 | 0,5 | 3,865",
+   "55 | 12,19 | 0,5 | 6,095 | 1126,12",
+   "56 | 2,26 | 0,5 | 1,13",
+   "57 | 1,19 | 0,5 | 0,595 | area losa descuento vacio",
+   "58 | 0,65 | 0,5 | 0,325",
+   "59 | 10,9 | 0,5 | 5,45 | 951,79",
+   "60 | 8,98 | 0,5 | 4,49",
+   "61 | 9,77 | 0,5 | 4,885 | m3 torta losa 0.20 | 190,358",
+   "62 | 12,36 | 0,5 | 6,18",
+   "63 | 11,79 | 0,5 | 5,895",
+   "64 | 12,35 | 0,5 | 6,175",
+   "65 | 9,62 | 0,5 | 4,81",
+   "66 | 8,07 | 0,5 | 4,035",
+   "67 | 8,27 | 0,5 | 4,135",
+   "68 | 10,07 | 0,5 | 5,035",
+   "69 | 9,77 | 0,5 | 4,885",
+   "70 | 10,14 | 0,5 | 5,07",
+   "71 | 7,17 | 0,5 | 3,585",
+   "72 | 5,55 | 0,5 | 2,775",
+   "73 | 4,69 | 0,5 | 2,345",
+   "74 | 5,081 | 0,5 | 2,5405",
+   "75 | 4,97 | 0,5 | 2,485",
+   "76 | 5,22 | 0,5 | 2,61",
+   "77 | 11,27 | 0,5 | 5,635",
+   "78 | 11,74 | 0,5 | 5,87",
+   "79 | 13,09 | 0,5 | 6,545",
+   "80 | 16,18 | 0,5 | 8,09",
+   "81 | 15,98 | 0,5 | 7,99",
+   "82 | 16,78 | 0,5 | 8,39",
+   "83 | 8,28 | 0,5 | 4,14",
+   "84 | 7,91 | 0,5 | 3,955",
+   "85 | 8,25 | 0,5 | 4,125",
+   "86 | 9,55 | 0,5 | 4,775",
+   "87 | 9,67 | 0,5 | 4,835",
+   "88 | 10,21 | 0,5 | 5,105",
+   "89 | 7,83 | 0,5 | 3,915",
+   "90 | 7,44 | 0,5 | 3,72",
+   "91 | 7,81 | 0,5 | 3,905",
+   "92 | 8,82 | 0,5 | 4,41",
+   "93 | 9,04 | 0,5 | 4,52",
+   "94 | 9,56 | 0,5 | 4,78",
+   "95 | 8,31 | 0,5 | 4,155",
+   "96 | 7,95 | 0,5 | 3,975",
+   "97 | 8,46 | 0,5 | 4,23",
+   "98 | 9,42 | 0,5 | 4,71",
+   "99 | 9,88 | 0,5 | 4,94",
+   "100 | 10,57 | 0,5 | 5,285",
+   "101 | 1,49 | 0,5 | 0,745",
+   "102 | 1,17 | 0,5 | 0,585",
+   "m3 | 439,5805"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.04_1.jpg",
+    "pagina": 28,
+    "px": [
+     1399,
+     680
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.05",
+  "descripcion": "Losa aligerada en concreto  y vigas aereas y vacios nivel 7.80 y 11.60",
+  "unidad": "m2",
+  "cantidad": 2252.24,
+  "pagina": 30,
+  "detalle": [
+   "area losa incluye vacios  x 2 und piso 7.80+11.60",
+   "1126,12 | m2 total | 2252,24"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.05_1.jpg",
+    "pagina": 30,
+    "px": [
+     1146,
+     612
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.06",
+  "descripcion": "Losa aligerada (1) en concreto  nivel  6.80+ laboratorios",
+  "unidad": "m2",
+  "cantidad": 558.63,
+  "pagina": 31,
+  "detalle": [
+   "concreto de descuento area caseton",
+   "area losa concret espesor | m3 total",
+   "558,63 | 0,5 | 279,315",
+   "m3 volumene de descuento caseton | 231,215",
+   "m3 torta losa 0.20  m3 concreto total | 111,726",
+   "m3 concreto los | 159,826",
+   "insidencia sobre m2 losa",
+   "m3 de concreto sobre m2 de losa | 0,286103503",
+   "No espacio | area | alto | m3 caseton | area vacio",
+   "1 | 19,69 | 0,5 | 9,845",
+   "2 | 19,69 | 0,5 | 9,845",
+   "3 | 19,69 | 0,5 | 9,845",
+   "4 | 19,4 | 0,5 | 9,7",
+   "5 | 19,4 | 0,5 | 9,7",
+   "6 | 19,4 | 0,5 | 9,7",
+   "7 | 19,51 | 0,5 | 9,755",
+   "8 | 19,51 | 0,5 | 9,755",
+   "9 | 18,97 | 0,5 | 9,485",
+   "10 | 18,97 | 0,5 | 9,485",
+   "11 | 18,7 | 0,5 | 9,35",
+   "12 | 18,7 | 0,5 | 9,35",
+   "13 | 18,7 | 0,5 | 9,35",
+   "14 | 18,7 | 0,5 | 9,35",
+   "15 | 18,8 | 0,5 | 9,4",
+   "16 | 18,8 | 0,5 | 9,4",
+   "17 | 19,65 | 0,5 | 9,825",
+   "18 | 19,65 | 0,5 | 9,825",
+   "19 | 19,38 | 0,5 | 9,69",
+   "20 | 19,38 | 0,5 | 9,69",
+   "21 | 19,38 | 0,5 | 9,69",
+   "22 | 19,38 | 0,5 | 9,69",
+   "23 | 19,49 | 0,5 | 9,745",
+   "24 | 19,49 | 0,5 | 9,745",
+   "m3 caseton | 231,215"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.06_1.jpg",
+    "pagina": 31,
+    "px": [
+     618,
+     559
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.07",
+  "descripcion": "Losa aligerada (2) en concreto nivel  6.80 + auditorio",
+  "unidad": "m2",
+  "cantidad": 328.05,
+  "pagina": 33,
+  "detalle": [
+   "area vacio | de descuento area caseton",
+   "area losa concret espesor | m3 total",
+   "328,05 | 0,5 | 164,025",
+   "m3 volumene de descuento caseton | 129,285",
+   "m3 torta losa 0.20  m3 concreto total | 65,61",
+   "m3 concreto los | 100,35",
+   "insidencia sobre m2 losa",
+   "m3 de concreto sobre m2 de losa | 0,305898491",
+   "No espacio | area | alto | m3 caseton",
+   "1 | 5,4 | 0,5 | 2,7",
+   "2 | 5,23 | 0,5 | 2,615",
+   "3 | 5,4 | 0,5 | 2,7",
+   "4 | 14,42 | 0,5 | 7,21",
+   "5 | 13,98 | 0,5 | 6,99",
+   "6 | 14,42 | 0,5 | 7,21",
+   "7 | 13,7 | 0,5 | 6,85",
+   "8 | 13,27 | 0,5 | 6,635",
+   "9 | 13,7 | 0,5 | 6,85",
+   "10 | 14,42 | 0,5 | 7,21",
+   "11 | 13,98 | 0,5 | 6,99",
+   "12 | 14,42 | 0,5 | 7,21",
+   "13 | 13,29 | 0,5 | 6,645",
+   "14 | 12,88 | 0,5 | 6,44",
+   "15 | 13,29 | 0,5 | 6,645",
+   "16 | 12,57 | 0,5 | 6,285",
+   "17 | 12,18 | 0,5 | 6,09",
+   "18 | 12,56 | 0,5 | 6,28",
+   "19 | 13,29 | 0,5 | 6,645",
+   "20 | 12,88 | 0,5 | 6,44",
+   "21 | 13,29 | 0,5 | 6,645",
+   "m3 volumne ca | 129,285"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.07_1.jpg",
+    "pagina": 33,
+    "px": [
+     674,
+     693
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.08",
+  "descripcion": "Losa aligeranda  en concreto  incluye vigas aereas y vacios nivel 15.40 +",
+  "unidad": "m2",
+  "cantidad": 567.68,
+  "pagina": 35,
+  "detalle": [
+   "concreto de descuento area caseton",
+   "area losa concret espesor | m3 total",
+   "567,68 | 0,5 | 283,84",
+   "m3 volumene de descuento caseton | 218,29",
+   "m3 torta losa 0.20  m3 concreto total | 78,67",
+   "m3 concreto los | 144,22",
+   "insidencia sobre m2 losa 567.68",
+   "m3 de concreto sobre m2 de losa | 0,254051578",
+   "No espacio | area | alto | m3 caseton | area vacio",
+   "1 | 0,32 | 0,5 | 0,16",
+   "2 | 1,71 | 0,5 | 0,855",
+   "3 | 2,1 | 0,5 | 1,05",
+   "4 | 2,1 | 0,5 | 1,05",
+   "5 | 2,22 | 0,5 | 1,11",
+   "6 | 0,54 | 0,5 | 0,27",
+   "7 | 1,55 | 0,5 | 0,775",
+   "8 | 0,77 | 0,5 | 0,385",
+   "9 | 2,12 | 0,5 | 1,06",
+   "10 | 11,33 | 0,5 | 5,665",
+   "11 | 13,94 | 0,5 | 6,97",
+   "12 | 13,94 | 0,5 | 6,97",
+   "13 | 14,73 | 0,5 | 7,365",
+   "14 | 3,62 | 0,5 | 1,81",
+   "15 | 10,27 | 0,5 | 5,135",
+   "16 | 5,13 | 0,5 | 2,565",
+   "17 | 2,12 | 0,5 | 1,06",
+   "18 | 11,33 | 0,5 | 5,665",
+   "19 | 13,94 | 0,5 | 6,97",
+   "20 | 13,94 | 0,5 | 6,97",
+   "21 | 14,73 | 0,5 | 7,365",
+   "22 | 3,62 | 0,5 | 1,81",
+   "23 | 10,27 | 0,5 | 5,135",
+   "24 | 5,13 | 0,5 | 2,565",
+   "25 | 1,46 | 0,5 | 0,73",
+   "26 | 7,83 | 0,5 | 3,915",
+   "27 | 9,64 | 0,5 | 4,82",
+   "28 | 9,64 | 0,5 | 4,82",
+   "29 | 10,18 | 0,5 | 5,09",
+   "30 | 10,23 | 0,5 | 5,115 | vacio escalera | 10,23",
+   "31 | 3,55 | 0,5 | 1,775",
+   "32 | 1,14 | 0,5 | 0,57",
+   "33 | 6,11 | 0,5 | 3,055",
+   "34 | 7,52 | 0,5 | 3,76",
+   "35 | 7,52 | 0,5 | 3,76",
+   "36 | 7,76 | 0,5 | 3,88",
+   "37 | 7,8 | 0,5 | 3,9",
+   "38 | 2,68 | 0,5 | 1,34",
+   "39 | 1,36 | 0,5 | 0,68",
+   "40 | 7,3 | 0,5 | 3,65",
+   "41 | 18,54 | 0,5 | 9,27 | vacio | 18,54",
+   "42 | 9,29 | 0,5 | 4,645",
+   "43 | 15,25 | 0,5 | 7,625 | foso ascensor | 15,25",
+   "44 | 2,43 | 0,5 | 1,215 | vacio | 2,43",
+   "45 | 47,04 | 0,5 | 23,52 | vacio | 47,04",
+   "46 | 38,58 | 0,5 | 19,29 | vacio | 38,58",
+   "47 | 2,78 | 0,5 | 1,39 | vacio | 2,78",
+   "48 | 1,05 | 0,5 | 0,525 | vacio | 1,05",
+   "49 | 20,45 | 0,5 | 10,225 | vacio | 20,45",
+   "50 | 16,77 | 0,5 | 8,385 | vacio | 16,77",
+   "51 | 1,21 | 0,5 | 0,605 | vacio | 1,21",
+   "174,33",
+   "218,29"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.08_1.jpg",
+    "pagina": 35,
+    "px": [
+     996,
+     710
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.09",
+  "descripcion": "Loa aligerada  en concreto incluye vigas a eresa y vacios  niivel  19.20 m2",
+  "unidad": "m2",
+  "cantidad": 568.14,
+  "pagina": 37,
+  "detalle": [
+   "concreto de descuento area caseton",
+   "area losa concret espesor | m3 total",
+   "568,14 | 0,5 | 284,07",
+   "m3 volumene de descuento caseton | 215,005",
+   "m3 torta losa 0.20  m3 concreto total | 113,628",
+   "m3 concreto los | 182,693",
+   "insidencia sobre m2 losa 568.14",
+   "m3 de concreto sobre m2 de losa | 0,321563347",
+   "No espacio | area | alto | m3 caseton | area vacio",
+   "1 | 0,32 | 0,5 | 0,16",
+   "2 | 1,71 | 0,5 | 0,855",
+   "3 | 2,1 | 0,5 | 1,05",
+   "4 | 2,1 | 0,5 | 1,05",
+   "5 | 2,22 | 0,5 | 1,11",
+   "6 | 0,54 | 0,5 | 0,27",
+   "7 | 1,55 | 0,5 | 0,775",
+   "8 | 0,77 | 0,5 | 0,385",
+   "9 | 2,12 | 0,5 | 1,06",
+   "10 | 11,33 | 0,5 | 5,665",
+   "11 | 13,94 | 0,5 | 6,97",
+   "12 | 13,94 | 0,5 | 6,97",
+   "13 | 14,73 | 0,5 | 7,365",
+   "14 | 3,62 | 0,5 | 1,81",
+   "15 | 10,27 | 0,5 | 5,135",
+   "16 | 5,13 | 0,5 | 2,565",
+   "17 | 2,12 | 0,5 | 1,06",
+   "18 | 11,33 | 0,5 | 5,665",
+   "19 | 13,94 | 0,5 | 6,97",
+   "20 | 13,94 | 0,5 | 6,97",
+   "21 | 14,73 | 0,5 | 7,365",
+   "22 | 3,62 | 0,5 | 1,81",
+   "23 | 10,27 | 0,5 | 5,135",
+   "24 | 5,13 | 0,5 | 2,565",
+   "25 | 1,46 | 0,5 | 0,73",
+   "26 | 7,83 | 0,5 | 3,915",
+   "27 | 9,64 | 0,5 | 4,82",
+   "28 | 9,64 | 0,5 | 4,82",
+   "29 | 10,18 | 0,5 | 5,09",
+   "30 | 10,23 | 0,5 | 5,115",
+   "31 | 3,55 | 0,5 | 1,775",
+   "32 | 1,14 | 0,5 | 0,57",
+   "33 | 6,11 | 0,5 | 3,055",
+   "34 | 7,52 | 0,5 | 3,76",
+   "35 | 7,52 | 0,5 | 3,76",
+   "36 | 7,76 | 0,5 | 3,88",
+   "37 | 7,8 | 0,5 | 3,9",
+   "38 | 2,68 | 0,5 | 1,34",
+   "39 | 1,36 | 0,5 | 0,68",
+   "40 | 7,3 | 0,5 | 3,65",
+   "41 | 8,98 | 0,5 | 4,49",
+   "42 | 8,98 | 0,5 | 4,49",
+   "42a | 9,29 | 0,5 | 4,645",
+   "43 | 15,25 | 0,5 | 7,625",
+   "44 | 2,43 | 0,5 | 1,215",
+   "45 | 12,99 | 0,5 | 6,495",
+   "46 | 15,98 | 0,5 | 7,99",
+   "47 | 15,98 | 0,5 | 7,99",
+   "48 | 12,34 | 0,5 | 6,17",
+   "49 | 11,82 | 0,5 | 5,91",
+   "50 | 12,34 | 0,5 | 6,17",
+   "51 | 2,78 | 0,5 | 1,39",
+   "52 | 1,05 | 0,5 | 0,525",
+   "53 | 5,64 | 0,5 | 2,82",
+   "54 | 6,95 | 0,5 | 3,475",
+   "55 | 6,95 | 0,5 | 3,475",
+   "56 | 5,36 | 0,5 | 2,68",
+   "57 | 5,14 | 0,5 | 2,57",
+   "58 | 5,36 | 0,5 | 2,68",
+   "59 | 1,21 | 0,5 | 0,605",
+   "m3 caseton | 215,005"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.09_1.jpg",
+    "pagina": 37,
+    "px": [
+     1021,
+     732
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.10",
+  "descripcion": "Escalera en concreto t 1",
+  "unidad": "m3",
+  "cantidad": 15.3088,
+  "pagina": 39,
+  "detalle": [
+   "n2 | ancho | m3",
+   "area escalera se | 1,84 | 2,08 | 3,8272",
+   "undia de tramo | 4",
+   "total m3 | 15,3088"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.10_1.jpg",
+    "pagina": 39,
+    "px": [
+     1257,
+     651
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.11",
+  "descripcion": "Escalera en concreto t 2",
+  "unidad": "m3",
+  "cantidad": 15.3088,
+  "pagina": 39,
+  "detalle": [
+   "n2 | ancho | m3",
+   "area escalera secci | 1,84 | 2,08 | 3,8272",
+   "undia de tramos | 4",
+   "total m3 | 15,3088"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "4.12",
+  "descripcion": "Muros pantalla en concreto foso ascensor",
+  "unidad": "m3",
+  "cantidad": 76.716,
+  "pagina": 40,
+  "detalle": [
+   "muro perimetr espersor | altura foso | m3 total",
+   "21,31 | 0,15 | 24 | 76,716"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.12_1.jpg",
+    "pagina": 40,
+    "px": [
+     1180,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.13",
+  "descripcion": "Estructura tanque elevado",
+  "unidad": "m3",
+  "cantidad": 8.0,
+  "pagina": 40,
+  "detalle": [
+   "muro perimetr espersor | altura foso | m3 total",
+   "21,31 | 0,15 | 2,5 | 7,99125"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.13_1.jpg",
+    "pagina": 40,
+    "px": [
+     1180,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.14",
+  "descripcion": "Estructura tanque subterraneio",
+  "unidad": "m3",
+  "cantidad": 22.98984,
+  "pagina": 41,
+  "detalle": [
+   "muro perimetr espersor | altura foso | m3 total",
+   "27,78 | 0,15 | 2,5 | 10,4175",
+   "tapa y fondo | espsor | und",
+   "41,9078 | 0,15 | 2 | 12,57234",
+   "m3 | 22,98984"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.14_1.jpg",
+    "pagina": 41,
+    "px": [
+     1180,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.15",
+  "descripcion": "Acero de refuerzo",
+  "unidad": "kg",
+  "cantidad": 139606.22,
+  "pagina": 42,
+  "detalle": [
+   "acero zapatas totales pedestales vigas de cimentacion zapata foso ascensor columnas totales , vigas",
+   "aereas de bloque c y d cubierta bloque c y d",
+   "kg | 50526,44",
+   "cantidad",
+   "losa tipo de nivel 4.00 +7.80+11.60 | 3",
+   "kg | 19796,12 | 59388,36",
+   "losa  nivel 15.40+ 19.20 cantidad | 2",
+   "kg und | 13225 | 26450",
+   "acero escaleras y empales intermedios muros ascensor | 3241,42 | kg"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.15_1.jpg",
+    "pagina": 42,
+    "px": [
+     681,
+     709
+    ]
+   },
+   {
+    "archivo": "4.15_2.jpg",
+    "pagina": 43,
+    "px": [
+     681,
+     709
+    ]
+   },
+   {
+    "archivo": "4.15_3.jpg",
+    "pagina": 43,
+    "px": [
+     676,
+     797
+    ]
+   },
+   {
+    "archivo": "4.15_4.jpg",
+    "pagina": 44,
+    "px": [
+     676,
+     797
+    ]
+   },
+   {
+    "archivo": "4.15_5.jpg",
+    "pagina": 44,
+    "px": [
+     657,
+     791
+    ]
+   },
+   {
+    "archivo": "4.15_6.jpg",
+    "pagina": 45,
+    "px": [
+     657,
+     791
+    ]
+   },
+   {
+    "archivo": "4.15_7.jpg",
+    "pagina": 45,
+    "px": [
+     681,
+     795
+    ]
+   },
+   {
+    "archivo": "4.15_8.jpg",
+    "pagina": 46,
+    "px": [
+     681,
+     795
+    ]
+   },
+   {
+    "archivo": "4.15_9.jpg",
+    "pagina": 46,
+    "px": [
+     677,
+     770
+    ]
+   },
+   {
+    "archivo": "4.15_10.jpg",
+    "pagina": 47,
+    "px": [
+     677,
+     770
+    ]
+   },
+   {
+    "archivo": "4.15_11.jpg",
+    "pagina": 47,
+    "px": [
+     681,
+     539
+    ]
+   },
+   {
+    "archivo": "4.15_12.jpg",
+    "pagina": 47,
+    "px": [
+     621,
+     244
+    ]
+   },
+   {
+    "archivo": "4.15_13.jpg",
+    "pagina": 48,
+    "px": [
+     678,
+     642
+    ]
+   },
+   {
+    "archivo": "4.15_14.jpg",
+    "pagina": 49,
+    "px": [
+     678,
+     642
+    ]
+   },
+   {
+    "archivo": "4.15_15.jpg",
+    "pagina": 49,
+    "px": [
+     681,
+     794
+    ]
+   },
+   {
+    "archivo": "4.15_16.jpg",
+    "pagina": 50,
+    "px": [
+     681,
+     794
+    ]
+   },
+   {
+    "archivo": "4.15_17.jpg",
+    "pagina": 50,
+    "px": [
+     683,
+     762
+    ]
+   },
+   {
+    "archivo": "4.15_18.jpg",
+    "pagina": 51,
+    "px": [
+     683,
+     762
+    ]
+   },
+   {
+    "archivo": "4.15_19.jpg",
+    "pagina": 51,
+    "px": [
+     679,
+     790
+    ]
+   },
+   {
+    "archivo": "4.15_20.jpg",
+    "pagina": 52,
+    "px": [
+     679,
+     790
+    ]
+   },
+   {
+    "archivo": "4.15_21.jpg",
+    "pagina": 52,
+    "px": [
+     676,
+     651
+    ]
+   },
+   {
+    "archivo": "4.15_22.jpg",
+    "pagina": 52,
+    "px": [
+     679,
+     257
+    ]
+   },
+   {
+    "archivo": "4.15_23.jpg",
+    "pagina": 53,
+    "px": [
+     765,
+     718
+    ]
+   },
+   {
+    "archivo": "4.15_24.jpg",
+    "pagina": 54,
+    "px": [
+     765,
+     718
+    ]
+   },
+   {
+    "archivo": "4.15_25.jpg",
+    "pagina": 54,
+    "px": [
+     765,
+     419
+    ]
+   },
+   {
+    "archivo": "4.15_26.jpg",
+    "pagina": 54,
+    "px": [
+     768,
+     288
+    ]
+   },
+   {
+    "archivo": "4.15_27.jpg",
+    "pagina": 55,
+    "px": [
+     768,
+     288
+    ]
+   },
+   {
+    "archivo": "4.15_28.jpg",
+    "pagina": 55,
+    "px": [
+     1021,
+     464
+    ]
+   },
+   {
+    "archivo": "4.15_29.jpg",
+    "pagina": 55,
+    "px": [
+     1017,
+     296
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.16",
+  "descripcion": "Malla electrosoldada",
+  "unidad": "m2",
+  "cantidad": 15003.824,
+  "pagina": 56,
+  "detalle": [
+   "placas losas | 7780,26",
+   "sul total m2 | 8189,412",
+   "x 2 mallasx m2 | 15003,824",
+   "perimetro | alto | m2",
+   "21,31 | 19,2 | 409,152"
+  ],
+  "imagenes": [
+   {
+    "archivo": "4.16_1.jpg",
+    "pagina": 56,
+    "px": [
+     1067,
+     513
+    ]
+   },
+   {
+    "archivo": "4.16_2.jpg",
+    "pagina": 56,
+    "px": [
+     1180,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "4.17",
+  "descripcion": "Placa 1er piso de contra piso",
+  "unidad": "m3",
+  "cantidad": 407.1,
+  "pagina": 57,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "4.17_1.jpg",
+    "pagina": 57,
+    "px": [
+     697,
+     441
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.01",
+  "descripcion": "Trazado y replanteo de levante",
+  "unidad": "m2",
+  "cantidad": 6138.0,
+  "pagina": 58,
+  "detalle": [
+   "trazado de levante total m2 | 6138"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.01_1.jpg",
+    "pagina": 58,
+    "px": [
+     925,
+     598
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.02",
+  "descripcion": "Levante en bloque cemento 15cm  bloque c altura doble altura  5.90 perimetro",
+  "unidad": "m2",
+  "cantidad": 483.979,
+  "pagina": 58,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 13,7 | 6 | 82,2 | 82,2",
+   "2 | 40,45 | 6 | 242,7 | 109,275 | 133,425",
+   "3 | 6,6 | 6 | 39,6 | 39,6",
+   "4 | 4,9 | 6 | 29,4 | 29,4",
+   "5 | 1,59 | 6 | 9,54 | 9,54",
+   "6 | 8,54 | 6 | 51,24 | 51,24",
+   "7 | 40,59 | 6 | 243,54 | 104,966 | 138,574",
+   "levante bloque 15 modulo c | 483,979"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.02_1.jpg",
+    "pagina": 58,
+    "px": [
+     623,
+     548
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.03",
+  "descripcion": "Levante bloque samo no 4 interio bloque c doble altura 5.90",
+  "unidad": "m2",
+  "cantidad": 803.446,
+  "pagina": 59,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 40,32 | 6 | 241,92 | 18,028 | 223,892",
+   "2 | 30,38 | 6 | 182,28 | 20,426 | 161,854",
+   "3 | 7,96 | 6 | 47,76 | 4,136 | 43,624",
+   "4 | 4,64 | 6 | 27,84 | 27,84",
+   "5 | 4,64 | 6 | 27,84 | 27,84",
+   "6 | 4,64 | 6 | 27,84 | 27,84",
+   "7 | 4,64 | 6 | 27,84 | 27,84",
+   "8 | 4,64 | 6 | 27,84 | 27,84",
+   "9 | 6,98 | 6 | 41,88 | 41,88",
+   "10 | 2,1 | 6 | 12,6 | 12,6",
+   "11 | 6,94 | 6 | 41,64 | 4,4 | 37,24",
+   "12 | 6,94 | 6 | 41,64 | 41,64",
+   "13 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "14 | 4,12 | 6 | 24,72 | 24,72",
+   "15 | 3,29 | 6 | 19,74 | 19,74",
+   "16 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "levante interno bloque samo 4 modulo c | m2 | 803,446"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.03_1.jpg",
+    "pagina": 59,
+    "px": [
+     846,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.04",
+  "descripcion": "Viga de confinamiento sobre muro nivel 3.00 mts",
+  "unidad": "ml",
+  "cantidad": 146.11,
+  "pagina": 60,
+  "detalle": [
+   "1",
+   "numero | largo",
+   "1 | 40,32",
+   "2 | 30,38",
+   "3 | 7,96",
+   "4 | 4,64",
+   "5 | 4,64",
+   "6 | 4,64",
+   "7 | 4,64",
+   "8 | 4,64",
+   "9 | 6,98",
+   "10 | 2,1",
+   "11 | 6,94",
+   "12 | 6,94",
+   "13 | 6,94",
+   "14 | 4,12",
+   "15 | 3,29",
+   "16 | 6,94",
+   "ml | 146,11 | dintel sobre muro bloque samo nivel 3.00"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.04_1.jpg",
+    "pagina": 60,
+    "px": [
+     781,
+     673
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.05",
+  "descripcion": "Columentas de confinamiento @ 3.00  de 0.20x0.10x h= 6.00  modulo C",
+  "unidad": "ml",
+  "cantidad": 292.22,
+  "pagina": 60,
+  "detalle": [
+   "altura | ml columentas",
+   "ml | 146,11 | dividp | 3 | 48,7033333 | 6 | 292,22"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.06",
+  "descripcion": "Levante de antepecho losa cubierta modulo c",
+  "unidad": "m2",
+  "cantidad": 108.96,
+  "pagina": 61,
+  "detalle": [
+   "largo | alto | m2",
+   "108,96 | 1 | 108,96"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.06_1.jpg",
+    "pagina": 61,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "5.06_2.jpg",
+    "pagina": 61,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.07",
+  "descripcion": "viga alfaji de confinamiento antepecho",
+  "unidad": "m2",
+  "cantidad": 108.96,
+  "pagina": 61,
+  "detalle": [
+   "largo | alto",
+   "108,96 | 1"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.08",
+  "descripcion": "Columneta de confinamiento muros antepecho h1.00 @ 3.00 0.20x0.10 cubierta",
+  "unidad": "ml",
+  "cantidad": 36.32,
+  "pagina": 61,
+  "detalle": [
+   "largo | alto | divido | CANTIDAD",
+   "108,96 | 1 | 3 | 36,32"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.09",
+  "descripcion": "Viga de confinamiento muro bloque cemento fachada modulo c",
+  "unidad": "ml",
+  "cantidad": 116.75,
+  "pagina": 61,
+  "detalle": [
+   "ml",
+   "116,75"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.09_1.jpg",
+    "pagina": 61,
+    "px": [
+     717,
+     585
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.10",
+  "descripcion": "levante de mesones de laboratorio y",
+  "unidad": "und",
+  "cantidad": 6.0,
+  "pagina": 62,
+  "detalle": [
+   "mesosnes mamposteria y concreto"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.10_1.jpg",
+    "pagina": 62,
+    "px": [
+     593,
+     550
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.11",
+  "descripcion": "Levante en bloque cemento 15 modulo d doble altura 6.40 perimetral auditorio",
+  "unidad": "m2",
+  "cantidad": 575.316,
+  "pagina": 62,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "5 | 10 | 1,4 | 14 | 0 | 14",
+   "6 | 20,94 | 5,2 | 108 | 0 | 108",
+   "m2 levante bloque cemento | 575,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.11_1.jpg",
+    "pagina": 62,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.12",
+  "descripcion": "Viga de confinamiento sobre muro de bloqu cemento 3.00",
+  "unidad": "ml",
+  "cantidad": 73.44,
+  "pagina": 63,
+  "detalle": [
+   "numero | largo",
+   "1 | 15,78",
+   "2 | 20,94",
+   "3 | 15,78",
+   "4 | 20,94",
+   "ml | 73,44"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.13",
+  "descripcion": "Columnetas de confinamiento bloque cemento @ 3.00 din 0.15x0.25 x 6.40",
+  "unidad": "ml",
+  "cantidad": 146.88,
+  "pagina": 63,
+  "detalle": [
+   "divido | cantidad | ml columneta",
+   "perimetro | 73,44 | 3 | 24,48 | 146,88"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.14",
+  "descripcion": "Levante muros interioriores bloque samo no 4 auditorio",
+  "unidad": "m2",
+  "cantidad": 224.144,
+  "pagina": 63,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 5,92 | 6,4 | 37,888 | 2,2 | 35,688",
+   "2 | 8,34 | 6,4 | 53,376 | 2,2 | 51,176",
+   "3 | 15,53 | 6,4 | 99,392 | 99,392",
+   "4 | 5,92 | 6,4 | 37,888 | 37,888",
+   "levante interno bloque samo | m2 | 224,144"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.14_1.jpg",
+    "pagina": 63,
+    "px": [
+     515,
+     603
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.15",
+  "descripcion": "vigas de confimamiento sobre muro interiones bloque samo nivel 3.00",
+  "unidad": "ml",
+  "cantidad": 35.71,
+  "pagina": 64,
+  "detalle": [
+   "numero | largo",
+   "1 | 5,92",
+   "2 | 8,34",
+   "3 | 15,53",
+   "4 | 5,92",
+   "ml | 35,71"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.15_1.jpg",
+    "pagina": 64,
+    "px": [
+     643,
+     753
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.16",
+  "descripcion": "Columneta de confinamiento muros bloque samo interior @ 3 mts 0.25x0.10",
+  "unidad": "ml",
+  "cantidad": 71.42,
+  "pagina": 64,
+  "detalle": [
+   "perimetro | dividio | cantifaf | columneta 6.00",
+   "ml | 35,71 | 3 | 11,9033333 | 71,42"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.17",
+  "descripcion": "levante  una hilera de bloque sobre cubierta auditorio",
+  "unidad": "ml",
+  "cantidad": 73.44,
+  "pagina": 64,
+  "detalle": [
+   "numero | largo",
+   "1 | 15,78",
+   "2 | 20,94",
+   "3 | 15,78",
+   "4 | 20,94",
+   "73,44"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.17_1.jpg",
+    "pagina": 64,
+    "px": [
+     442,
+     509
+    ]
+   },
+   {
+    "archivo": "5.17_2.jpg",
+    "pagina": 65,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.18",
+  "descripcion": "Levante bloque samo 1er piso modulo a y b altura 3.10",
+  "unidad": "m2",
+  "cantidad": 396.372,
+  "pagina": 65,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 19,13 | 3,2 | 61,216 | 61,216",
+   "2 | 7,5 | 3,2 | 24 | 24",
+   "2a | 2,48 | 3,2 | 7,936 | 7,936",
+   "3 | 7,27 | 3,2 | 23,264 | 23,264",
+   "4 | 7,83 | 3,2 | 25,056 | 25,056",
+   "5 | 4,8 | 3,2 | 15,36 | 15,36 | interior 1 paño",
+   "6 | 4,8 | 3,2 | 15,36 | 15,36 | pañete fachada",
+   "7 | 2,27 | 3,2 | 7,264 | 7,264",
+   "8 | 3,91 | 3,2 | 12,512 | 1,54 | 10,972",
+   "9 | 2,82 | 3,2 | 9,024 | 9,024",
+   "10 | 10,1 | 3,2 | 32,32 | 32,32",
+   "11 | 5,09 | 3,2 | 16,288 | 16,288",
+   "12 | 2,18 | 3,2 | 6,976 | 6,976",
+   "13 | 2,75 | 3,2 | 8,8 | 2,2 | 6,6",
+   "14 | 3,33 | 3,2 | 10,656 | 2,2 | 8,456",
+   "15 | 3,12 | 3,2 | 9,984 | 9,984",
+   "16 | 10,01 | 3,2 | 32,032 | 32,032 | p1 interior y fachada",
+   "17 | 4,89 | 3,2 | 15,648 | 15,648",
+   "18 | 5,82 | 3,2 | 18,624 | 18,624",
+   "19 | 4,78 | 1,2 | 5,736 | 5,736",
+   "20 | 4,95 | 3,2 | 15,84 | 15,84",
+   "21 | 8,88 | 3,2 | 28,416 | 28,416",
+   "levante 1er piso  blq a-b | 396,372 | m2"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.18_1.jpg",
+    "pagina": 65,
+    "px": [
+     1505,
+     722
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.19",
+  "descripcion": "Columenta de confinamiento @ 3 mts de 0.25x0.10 1er piso modulo a -b",
+  "unidad": "ml",
+  "cantidad": 133.000333,
+  "pagina": 66,
+  "detalle": [
+   "numero | largo",
+   "1 | 19,13",
+   "2 | 7,5",
+   "2a | 2,48",
+   "3 | 7,27",
+   "4 | 7,83",
+   "5 | 4,8",
+   "6 | 4,8",
+   "7 | 2,27",
+   "8 | 3,91",
+   "9 | 2,82",
+   "10 | 10,1",
+   "11 | 5,09",
+   "12 | 2,18",
+   "13 | 2,75",
+   "14 | 3,33",
+   "15 | 3,12",
+   "16 | 10,01",
+   "17 | 4,89",
+   "18 | 5,82",
+   "19 | 4,78",
+   "20 | 4,95",
+   "21 | 8,88",
+   "divido @ 3mts cantida und | columenta 3.1",
+   "ml | 128,71 | 3 | 42,9033333 | 133,000333"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.20",
+  "descripcion": "Levante bloque samo 2do piso modulo a y b altura 3.10 y antepechos",
+  "unidad": "m2",
+  "cantidad": 475.33,
+  "pagina": 66,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 10,98 | 3,2 | 35,136 | 35,136",
+   "15 | 3,19 | 3,2 | 10,208 | 10,208",
+   "16 | 4,74 | 3,2 | 15,168 | 1,76 | 13,408",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 5,18 | 3,2 | 16,576 | 16,576",
+   "25 | 7,5 | 3,2 | 24 | 24",
+   "levante 2d piso  blq a-b | 475,33 | m2"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.21",
+  "descripcion": "Coumentas de confianiento muro bloque samo @ 3 mt modulo a-b piso 2",
+  "unidad": "ml",
+  "cantidad": 172.81,
+  "pagina": 67,
+  "detalle": [
+   "numero | largo",
+   "1 | 25,13",
+   "2 | 2,47",
+   "3 | 5,42",
+   "4 | 7,67",
+   "5 | 3,88",
+   "6 | 6,7",
+   "7 | 5,12",
+   "8 | 2",
+   "9 | 6,24",
+   "10 | 2,92",
+   "11 | 2,92",
+   "12 | 8,12",
+   "13 | 11,47",
+   "14 | 10,98",
+   "15 | 3,19",
+   "16 | 4,74",
+   "17 | 9,38",
+   "18 | 14,16",
+   "19 | 5,32",
+   "20 | 9,93",
+   "21 | 9,93",
+   "22 | 1,22",
+   "23 | 1,22",
+   "24 | 5,18",
+   "25 | 7,5",
+   "dividio 3 | columneta3",
+   "ml | 172,81 | 57,6033333 | 172,81 | ml"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.22",
+  "descripcion": "Levante bloque samo 3er piso modulo a y b altura 3.10 y antepechos",
+  "unidad": "m2",
+  "cantidad": 519.434,
+  "pagina": 67,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 2,14 | 3,2 | 6,848 | 1,76 | 5,088",
+   "15 | 5,65 | 3,2 | 18,08 | 18,08",
+   "16 | 7,8 | 3,2 | 24,96 | 24,96",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 14,83 | 3,2 | 47,456 | 47,456",
+   "25 | 4,17 | 3,2 | 13,344 | 13,344",
+   "26 | 4,19 | 3,2 | 13,408 | 2,2 | 11,208",
+   "27 | 2,8 | 3,2 | 8,96 | 8,96",
+   "28 | 4,48 | 3,2 | 14,336 | 14,336",
+   "levante 2d piso  blq a-b | 519,434 | m2"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.22_1.jpg",
+    "pagina": 67,
+    "px": [
+     1306,
+     626
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.23",
+  "descripcion": "Columneta de confinamiento 3er piso @ 3 mts 0.25x0.10x 3er piso modulo a y b",
+  "unidad": "ml",
+  "cantidad": 156.066667,
+  "pagina": 68,
+  "detalle": [
+   "numero | largo",
+   "1 | 25,13",
+   "2 | 2,47",
+   "3 | 5,42",
+   "4 | 7,67",
+   "5 | 3,88",
+   "6 | 6,7",
+   "7 | 5,12",
+   "8 | 2",
+   "9 | 6,24",
+   "10 | 2,92",
+   "11 | 2,92",
+   "12 | 8,12",
+   "13 | 11,47",
+   "14 | 2,14",
+   "15 | 5,65",
+   "16 | 7,8",
+   "17 | 9,38",
+   "18 | 14,16",
+   "19 | 5,32",
+   "20 | 9,93",
+   "21 | 9,93",
+   "22 | 1,22",
+   "23 | 1,22",
+   "24 | 14,83",
+   "25 | 4,17",
+   "26 | 4,19",
+   "27 | 2,8",
+   "28 | 4,48",
+   "divdido 3 | unidad de 3",
+   "ml | 187,28 | 62,4266667 | 156,066667"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.24",
+  "descripcion": "Levante bloque samo 4to piso modulo a y b altura 3.10 y antepechos",
+  "unidad": "m2",
+  "cantidad": 343.424,
+  "pagina": 69,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.24_1.jpg",
+    "pagina": 69,
+    "px": [
+     1133,
+     542
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.25",
+  "descripcion": "Colimneta de confinamiento  4to @ 3ts 0.25 x 0.10  modulo a y b",
+  "unidad": "ml",
+  "cantidad": 111.216667,
+  "pagina": 69,
+  "detalle": [
+   "numero | largo",
+   "1 | 25,13",
+   "2 | 2,32",
+   "3 | 10,14",
+   "4 | 2,33",
+   "5 | 7,66",
+   "6 | 6",
+   "7 | 6,22",
+   "8 | 14,32",
+   "9 | 4",
+   "10 | 9,22",
+   "11 | 9,8",
+   "12 | 7,68",
+   "13 | 9,32",
+   "14 | 13,97",
+   "15 | 5,35",
+   "divdio 3 | undi de columen",
+   "ml | 133,46 | 44,4866667 | 111,216667"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.26",
+  "descripcion": "hilera de bloque cubierta 4to piso",
+  "unidad": "ml",
+  "cantidad": 83.65,
+  "pagina": 70,
+  "detalle": [
+   "numero muro | lergo",
+   "16 | 23,25",
+   "17 | 23,37",
+   "18 | 22,7",
+   "19 | 8,7",
+   "20 | 5,63",
+   "ml | 83,65"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.27",
+  "descripcion": "Levante bloque samo 5to piso modulo a y b altura 3.10 y antepechos",
+  "unidad": "m2",
+  "cantidad": 343.424,
+  "pagina": 70,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.27_1.jpg",
+    "pagina": 70,
+    "px": [
+     807,
+     567
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.28",
+  "descripcion": "Columneta de confinamiento  5to @ 3ts 0.25 x 0.10  modulo a y b",
+  "unidad": "ml",
+  "cantidad": 111.216667,
+  "pagina": 71,
+  "detalle": [
+   "numero | largo",
+   "1 | 25,13",
+   "2 | 2,32",
+   "3 | 10,14",
+   "4 | 2,33",
+   "5 | 7,66",
+   "6 | 6",
+   "7 | 6,22",
+   "8 | 14,32",
+   "9 | 4",
+   "10 | 9,22",
+   "11 | 9,8",
+   "12 | 7,68",
+   "13 | 9,32",
+   "14 | 13,97",
+   "15 | 5,35",
+   "divdio 3 | undi de columen",
+   "ml | 133,46 | 44,4866667 | 111,216667"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.29",
+  "descripcion": "Levante bloque samo no 4 antepecho cubierta",
+  "unidad": "m2",
+  "cantidad": 97.04,
+  "pagina": 71,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 20,48 | 1 | 20,48 | 20,48",
+   "2 | 28,04 | 1 | 28,04 | 28,04",
+   "3 | 20,48 | 1 | 20,48 | 20,48",
+   "4 | 28,04 | 1 | 28,04 | 28,04",
+   "m2 | 97,04"
+  ],
+  "imagenes": [
+   {
+    "archivo": "5.29_1.jpg",
+    "pagina": 71,
+    "px": [
+     671,
+     521
+    ]
+   }
+  ]
+ },
+ {
+  "item": "5.30",
+  "descripcion": "Columneta de confinamiento antepecho @3 mts de h=1.00 mts",
+  "unidad": "ml",
+  "cantidad": 32.3466667,
+  "pagina": 72,
+  "detalle": [
+   "numero | largo",
+   "1 | 20,48",
+   "2 | 28,04",
+   "3 | 20,48",
+   "4 | 28,04",
+   "divdido 3",
+   "ml | 97,04 | 32,3466667"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "5.31",
+  "descripcion": "Viga de confinamiento muro antepecho cubierta",
+  "unidad": "ml",
+  "cantidad": 97.04,
+  "pagina": 72,
+  "detalle": [
+   "numero | largo",
+   "1 | 20,48",
+   "2 | 28,04",
+   "3 | 20,48",
+   "4 | 28,04",
+   "ml | 97,04"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "6.01",
+  "descripcion": "Pergolas cortazoles fachada tipo arcos x m2 bloque d auditorio",
+  "unidad": "m2",
+  "cantidad": 415.1702,
+  "pagina": 73,
+  "detalle": [
+   "perimetro | altura | m2",
+   "56,18 | 7,39 | 415,1702"
+  ],
+  "imagenes": [
+   {
+    "archivo": "6.01_1.jpg",
+    "pagina": 73,
+    "px": [
+     739,
+     713
+    ]
+   }
+  ]
+ },
+ {
+  "item": "6.02",
+  "descripcion": "Pergolas cortasoles fachada tipo arcos x m2 bloque A 5 piso",
+  "unidad": "m2",
+  "cantidad": 1146.0975,
+  "pagina": 73,
+  "detalle": [
+   "perimetro | altura | m2",
+   "51,45 | 7,65 | 393,5925",
+   "perimetro | altura | m2",
+   "77,18 | 9,75 | 752,505"
+  ],
+  "imagenes": [
+   {
+    "archivo": "6.02_1.jpg",
+    "pagina": 73,
+    "px": [
+     1546,
+     457
+    ]
+   },
+   {
+    "archivo": "6.02_2.jpg",
+    "pagina": 74,
+    "px": [
+     1720,
+     619
+    ]
+   }
+  ]
+ },
+ {
+  "item": "6.03",
+  "descripcion": "Pergolas cortasoles fachada tipo arcos x m2 bloque b 3 piso",
+  "unidad": "m2",
+  "cantidad": 550.142,
+  "pagina": 74,
+  "detalle": [
+   "perimetro | altura | m2",
+   "63,97 | 8,6 | 550,142"
+  ],
+  "imagenes": [
+   {
+    "archivo": "6.03_1.jpg",
+    "pagina": 74,
+    "px": [
+     1524,
+     645
+    ]
+   }
+  ]
+ },
+ {
+  "item": "6.04",
+  "descripcion": "Columnas metalicas inclinadas bloque A fachada uberia 4 \" 7.2 mts",
+  "unidad": "kg",
+  "cantidad": 770.028,
+  "pagina": 75,
+  "detalle": [
+   "ml | cantid | ml total | kg x ml aprox | kg total",
+   "7,21 | 24 | 173,04 | 4,45 | 770,028"
+  ],
+  "imagenes": [
+   {
+    "archivo": "6.04_1.jpg",
+    "pagina": 75,
+    "px": [
+     1170,
+     454
+    ]
+   }
+  ]
+ },
+ {
+  "item": "6.05",
+  "descripcion": "Pergolas cortasoles escaleras internas m2",
+  "unidad": "m2",
+  "cantidad": 166.8,
+  "pagina": 75,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "6.05_1.jpg",
+    "pagina": 75,
+    "px": [
+     1193,
+     719
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.01",
+  "descripcion": "Pañete interior doble altura bloque C laboratorios m2",
+  "unidad": "m2",
+  "cantidad": 1287.425,
+  "pagina": 76,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 40,32 | 6 | 241,92 | 18,028 | 223,892",
+   "2 | 30,38 | 6 | 182,28 | 20,426 | 161,854",
+   "3 | 7,96 | 6 | 47,76 | 4,136 | 43,624",
+   "4 | 4,64 | 6 | 27,84 | 27,84",
+   "5 | 4,64 | 6 | 27,84 | 27,84",
+   "6 | 4,64 | 6 | 27,84 | 27,84",
+   "7 | 4,64 | 6 | 27,84 | 27,84",
+   "8 | 4,64 | 6 | 27,84 | 27,84",
+   "9 | 6,98 | 6 | 41,88 | 41,88",
+   "10 | 2,1 | 6 | 12,6 | 12,6",
+   "11 | 6,94 | 6 | 41,64 | 4,4 | 37,24",
+   "12 | 6,94 | 6 | 41,64 | 41,64",
+   "13 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "14 | 4,12 | 6 | 24,72 | 24,72",
+   "15 | 3,29 | 6 | 19,74 | 19,74",
+   "16 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "levante interno bloque samo 4 modulo c | m2 | 803,446",
+   "una cara levante perimetro | levante bloque 15 modulo c | 483,979"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.01_1.jpg",
+    "pagina": 76,
+    "px": [
+     846,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.02",
+  "descripcion": "Pañete Exterior doble altura bloque C laboratorios m2 antepecho",
+  "unidad": "m2",
+  "cantidad": 701.899,
+  "pagina": 77,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 13,7 | 6 | 82,2 | 82,2",
+   "2 | 40,45 | 6 | 242,7 | 109,275 | 133,425",
+   "3 | 6,6 | 6 | 39,6 | 39,6",
+   "4 | 4,9 | 6 | 29,4 | 29,4",
+   "5 | 1,59 | 6 | 9,54 | 9,54",
+   "6 | 8,54 | 6 | 51,24 | 51,24",
+   "7 | 40,59 | 6 | 243,54 | 104,966 | 138,574",
+   "levante bloque 15 modulo c | 483,979",
+   "largo | alto | m2 | dos caras",
+   "108,96 | 1 | 108,96 | x | 217,92"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.02_1.jpg",
+    "pagina": 77,
+    "px": [
+     623,
+     548
+    ]
+   },
+   {
+    "archivo": "7.02_2.jpg",
+    "pagina": 77,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "7.02_3.jpg",
+    "pagina": 77,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.03",
+  "descripcion": "Pañete exterior bordes de losa y vigas bloque C",
+  "unidad": "m2",
+  "cantidad": 217.92,
+  "pagina": 78,
+  "detalle": [
+   "largo | alto | m2",
+   "108,96 | viga 4.00 | 217,92",
+   "108,96 | losa 6.00"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.03_1.jpg",
+    "pagina": 78,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "7.03_2.jpg",
+    "pagina": 78,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.04",
+  "descripcion": "Pañete interior doble altura bloque D auditorio m2",
+  "unidad": "m2",
+  "cantidad": 901.604,
+  "pagina": 78,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 5,92 | 6,4 | 37,888 | 2,2 | 35,688",
+   "2 | 8,34 | 6,4 | 53,376 | 2,2 | 51,176",
+   "3 | 15,53 | 6,4 | 99,392 | 99,392",
+   "4 | 5,92 | 6,4 | 37,888 | 37,888",
+   "dos caras",
+   "levante interno bloque samo | m2 | 224,144 | 448,288",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "una cara | m2 levante bloque cemento | 453,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.04_1.jpg",
+    "pagina": 78,
+    "px": [
+     515,
+     603
+    ]
+   },
+   {
+    "archivo": "7.04_2.jpg",
+    "pagina": 79,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.05",
+  "descripcion": "Pañete exterior doble altura bloque D auditorio m2",
+  "unidad": "m2",
+  "cantidad": 506.316,
+  "pagina": 80,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "5 | 10 | 1,8 | 18 | 0 | 18",
+   "6 | 20,94 | 1,7 | 35 | 0 | 35",
+   "una cara | m2 levante bloque cemento | 506,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.05_1.jpg",
+    "pagina": 80,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.06",
+  "descripcion": "Pañete exterior borde de losa y vigas auditiro bloque D ml",
+  "unidad": "ml",
+  "cantidad": 146.88,
+  "pagina": 80,
+  "detalle": [
+   "numero | largo",
+   "1 | 15,78",
+   "2 | 20,94",
+   "3 | 15,78",
+   "4 | 20,94",
+   "borde losa | 73,44",
+   "borde de vigas | 73,44",
+   "total ml | 146,88",
+   "7,08",
+   "Juntas de dilatacion bloque C y D | ml | 729,6",
+   "bloque d",
+   "borde losa | 73,44",
+   "borde de vigas | 73,44 | junras de dilatacion superior e inferio ml",
+   "total ml | 146,88 | 293,76",
+   "bloque c",
+   "largo | alto | m2 | superior e inferior 2 ml",
+   "108,96 | viga 4.00 | 217,92 | 435,84",
+   "108,96 | losa 6.00",
+   "7,09",
+   "Pañete interior muros bloque A  y  B m2 | m2 | 3939,968",
+   "bloque a y b 1er piso",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 19,13 | 3,2 | 61,216 | 61,216",
+   "2 | 7,5 | 3,2 | 24 | 24",
+   "2a | 2,48 | 3,2 | 7,936 | 7,936",
+   "3 | 7,27 | 3,2 | 23,264 | 23,264",
+   "4 | 7,83 | 3,2 | 25,056 | 25,056",
+   "5 | 4,8 | 3,2 | 15,36 | 15,36 | interior 1 paño",
+   "6 | 4,8 | 3,2 | 15,36 | 15,36 | pañete fachada",
+   "7 | 2,27 | 3,2 | 7,264 | 7,264",
+   "8 | 3,91 | 3,2 | 12,512 | 1,54 | 10,972",
+   "9 | 2,82 | 3,2 | 9,024 | 9,024",
+   "10 | 10,1 | 3,2 | 32,32 | 32,32",
+   "11 | 5,09 | 3,2 | 16,288 | 16,288",
+   "12 | 2,18 | 3,2 | 6,976 | 6,976",
+   "13 | 2,75 | 3,2 | 8,8 | 2,2 | 6,6",
+   "14 | 3,33 | 3,2 | 10,656 | 2,2 | 8,456",
+   "15 | 3,12 | 3,2 | 9,984 | 9,984",
+   "16 | 10,01 | 3,2 | 32,032 | 32,032 | p1 interior y fachada",
+   "17 | 4,89 | 3,2 | 15,648 | 15,648",
+   "18 | 5,82 | 3,2 | 18,624 | 18,624",
+   "19 | 4,78 | 1,2 | 5,736 | 5,736",
+   "20 | 4,95 | 3,2 | 15,84 | 15,84",
+   "21 | 8,88 | 3,2 | 28,416 | 28,416",
+   "levante 1er piso  blq a-b | 396,372 | m2",
+   "por 2 caras menos caras de fachada | 745,352",
+   "pañete segundo piso bloque a y b",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 10,98 | 3,2 | 35,136 | 35,136",
+   "15 | 3,19 | 3,2 | 10,208 | 10,208",
+   "16 | 4,74 | 3,2 | 15,168 | 1,76 | 13,408",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 5,18 | 3,2 | 16,576 | 16,576",
+   "25 | 7,5 | 3,2 | 24 | 24",
+   "levante 2d piso  blq a-b | 475,33 | m2",
+   "pañete x 2 caras descntan lado de fachada y de buitrones | 834,244",
+   "piso 3 bloque a y b pañete",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 2,14 | 3,2 | 6,848 | 1,76 | 5,088",
+   "15 | 5,65 | 3,2 | 18,08 | 18,08",
+   "16 | 7,8 | 3,2 | 24,96 | 24,96",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 14,83 | 3,2 | 47,456 | 47,456",
+   "25 | 4,17 | 3,2 | 13,344 | 13,344",
+   "26 | 4,19 | 3,2 | 13,408 | 2,2 | 11,208",
+   "27 | 2,8 | 3,2 | 8,96 | 8,96",
+   "28 | 4,48 | 3,2 | 14,336 | 14,336",
+   "levante 2d piso  blq a-b | 519,434 | m2",
+   "pañete 2 caras de levante menos cara de fachada y buitron | 904,372",
+   "4t piso para pañete",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424",
+   "pañete dos caras decontando caras de fachada y buitrones | 728",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424",
+   "pañete dos caras decontando caras de fachada y buitrones | 728"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.06_1.jpg",
+    "pagina": 81,
+    "px": [
+     442,
+     509
+    ]
+   },
+   {
+    "archivo": "7.06_2.jpg",
+    "pagina": 81,
+    "px": [
+     1505,
+     722
+    ]
+   },
+   {
+    "archivo": "7.06_3.jpg",
+    "pagina": 83,
+    "px": [
+     1384,
+     667
+    ]
+   },
+   {
+    "archivo": "7.06_4.jpg",
+    "pagina": 83,
+    "px": [
+     1306,
+     626
+    ]
+   },
+   {
+    "archivo": "7.06_5.jpg",
+    "pagina": 84,
+    "px": [
+     1133,
+     542
+    ]
+   },
+   {
+    "archivo": "7.06_6.jpg",
+    "pagina": 85,
+    "px": [
+     807,
+     567
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.10",
+  "descripcion": "Pañete texterior muros bloque A  y B m2",
+  "unidad": "m2",
+  "cantidad": 631.872,
+  "pagina": 86,
+  "detalle": [
+   "m2 de paños exteriores de pañete todos los pisos | 437,792",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 20,48 | 1 | 20,48 | 20,48",
+   "2 | 28,04 | 1 | 28,04 | 28,04",
+   "3 | 20,48 | 1 | 20,48 | 20,48",
+   "4 | 28,04 | 1 | 28,04 | 28,04",
+   "m2 | 97,04",
+   "levante antepechos x 2 caras | 194,08"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.10_1.jpg",
+    "pagina": 86,
+    "px": [
+     671,
+     521
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.11",
+  "descripcion": "Pañete bode de losa bloque  A y B ml",
+  "unidad": "ml",
+  "cantidad": 899.46,
+  "pagina": 86,
+  "detalle": [
+   "PERIMETROS LOSA | 899,46"
+  ],
+  "imagenes": [
+   {
+    "archivo": "7.11_1.jpg",
+    "pagina": 86,
+    "px": [
+     1217,
+     597
+    ]
+   }
+  ]
+ },
+ {
+  "item": "7.12",
+  "descripcion": "junta de dulatacion bloque A y B mol",
+  "unidad": "ml",
+  "cantidad": 386.25,
+  "pagina": 86,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "8.01",
+  "descripcion": "Suministro aplicacion estuco interior  bloque C Laboratorios",
+  "unidad": "m2",
+  "cantidad": 1287.425,
+  "pagina": 87,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 40,32 | 6 | 241,92 | 18,028 | 223,892",
+   "2 | 30,38 | 6 | 182,28 | 20,426 | 161,854",
+   "3 | 7,96 | 6 | 47,76 | 4,136 | 43,624",
+   "4 | 4,64 | 6 | 27,84 | 27,84",
+   "5 | 4,64 | 6 | 27,84 | 27,84",
+   "6 | 4,64 | 6 | 27,84 | 27,84",
+   "7 | 4,64 | 6 | 27,84 | 27,84",
+   "8 | 4,64 | 6 | 27,84 | 27,84",
+   "9 | 6,98 | 6 | 41,88 | 41,88",
+   "10 | 2,1 | 6 | 12,6 | 12,6",
+   "11 | 6,94 | 6 | 41,64 | 4,4 | 37,24",
+   "12 | 6,94 | 6 | 41,64 | 41,64",
+   "13 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "14 | 4,12 | 6 | 24,72 | 24,72",
+   "15 | 3,29 | 6 | 19,74 | 19,74",
+   "16 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "levante interno bloque samo 4 modulo c | m2 | 803,446",
+   "una cara levante perimetro | levante bloque 15 modulo c | 483,979"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.01_1.jpg",
+    "pagina": 87,
+    "px": [
+     846,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.02",
+  "descripcion": "Suministro aplicacion de estuco exterior bloqye C laboratorios",
+  "unidad": "m2",
+  "cantidad": 701.899,
+  "pagina": 88,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 13,7 | 6 | 82,2 | 82,2",
+   "2 | 40,45 | 6 | 242,7 | 109,275 | 133,425",
+   "3 | 6,6 | 6 | 39,6 | 39,6",
+   "4 | 4,9 | 6 | 29,4 | 29,4",
+   "5 | 1,59 | 6 | 9,54 | 9,54",
+   "6 | 8,54 | 6 | 51,24 | 51,24",
+   "7 | 40,59 | 6 | 243,54 | 104,966 | 138,574",
+   "levante bloque 15 modulo c | 483,979",
+   "largo | alto | m2 | dos caras",
+   "108,96 | 1 | 108,96 | x | 217,92"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.02_1.jpg",
+    "pagina": 88,
+    "px": [
+     623,
+     548
+    ]
+   },
+   {
+    "archivo": "8.02_2.jpg",
+    "pagina": 88,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "8.02_3.jpg",
+    "pagina": 88,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.03",
+  "descripcion": "Suministro aplicacion de estuco exterior borde de losa bloque C laboratorio",
+  "unidad": "ml",
+  "cantidad": 217.92,
+  "pagina": 89,
+  "detalle": [
+   "largo | alto | ml",
+   "108,96 | viga 4.00 | 217,92",
+   "108,96 | losa 6.00"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.03_1.jpg",
+    "pagina": 89,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "8.03_2.jpg",
+    "pagina": 89,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.04",
+  "descripcion": "Suministro aplicacion de pintura vinilo tipo 1 interior bloque C laboratorio",
+  "unidad": "m2",
+  "cantidad": 1287.425,
+  "pagina": 89,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 40,32 | 6 | 241,92 | 18,028 | 223,892",
+   "2 | 30,38 | 6 | 182,28 | 20,426 | 161,854",
+   "3 | 7,96 | 6 | 47,76 | 4,136 | 43,624",
+   "4 | 4,64 | 6 | 27,84 | 27,84",
+   "5 | 4,64 | 6 | 27,84 | 27,84",
+   "6 | 4,64 | 6 | 27,84 | 27,84",
+   "7 | 4,64 | 6 | 27,84 | 27,84",
+   "8 | 4,64 | 6 | 27,84 | 27,84",
+   "9 | 6,98 | 6 | 41,88 | 41,88",
+   "10 | 2,1 | 6 | 12,6 | 12,6",
+   "11 | 6,94 | 6 | 41,64 | 4,4 | 37,24",
+   "12 | 6,94 | 6 | 41,64 | 41,64",
+   "13 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "14 | 4,12 | 6 | 24,72 | 24,72",
+   "15 | 3,29 | 6 | 19,74 | 19,74",
+   "16 | 6,94 | 6 | 41,64 | 13,112 | 28,528",
+   "levante interno bloque samo 4 modulo c | m2 | 803,446",
+   "una cara levante perimetro | levante bloque 15 modulo c | 483,979"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.04_1.jpg",
+    "pagina": 89,
+    "px": [
+     846,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.05",
+  "descripcion": "Suministro aplicacion de pintura para muros exteriores bloque C laboratiros",
+  "unidad": "m2",
+  "cantidad": 701.899,
+  "pagina": 90,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 13,7 | 6 | 82,2 | 82,2",
+   "2 | 40,45 | 6 | 242,7 | 109,275 | 133,425",
+   "3 | 6,6 | 6 | 39,6 | 39,6",
+   "4 | 4,9 | 6 | 29,4 | 29,4",
+   "5 | 1,59 | 6 | 9,54 | 9,54",
+   "6 | 8,54 | 6 | 51,24 | 51,24",
+   "7 | 40,59 | 6 | 243,54 | 104,966 | 138,574",
+   "levante bloque 15 modulo c | 483,979",
+   "largo | alto | m2 | dos caras",
+   "108,96 | 1 | 108,96 | x | 217,92"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.05_1.jpg",
+    "pagina": 90,
+    "px": [
+     623,
+     548
+    ]
+   },
+   {
+    "archivo": "8.05_2.jpg",
+    "pagina": 90,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "8.05_3.jpg",
+    "pagina": 90,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.06",
+  "descripcion": "Suministro aplicacion de pintura exterior borde de losa para bloque C laboratorio",
+  "unidad": "ml",
+  "cantidad": 217.92,
+  "pagina": 91,
+  "detalle": [
+   "largo | alto | ml",
+   "108,96 | viga 4.00 | 217,92",
+   "108,96 | losa 6.00"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.06_1.jpg",
+    "pagina": 91,
+    "px": [
+     825,
+     634
+    ]
+   },
+   {
+    "archivo": "8.06_2.jpg",
+    "pagina": 91,
+    "px": [
+     933,
+     536
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.07",
+  "descripcion": "Suministro aplicacion estuco interior bloque D auditorio",
+  "unidad": "m2",
+  "cantidad": 776.852,
+  "pagina": 91,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 5,92 | 6,4 | 37,888 | 2,2 | 35,688",
+   "2 | 8,34 | 6,4 | 53,376 | 2,2 | 51,176",
+   "3 | 15,53 | 6,4 | 99,392 | 99,392",
+   "4 | 5,92 | 6,4 | 37,888 | 37,888",
+   "dos caras",
+   "levante interno bloque samo | m2 | 224,144 | 323,536",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "una cara | m2 levante bloque cemento | 453,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.07_1.jpg",
+    "pagina": 91,
+    "px": [
+     515,
+     603
+    ]
+   },
+   {
+    "archivo": "8.07_2.jpg",
+    "pagina": 92,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.08",
+  "descripcion": "Suministro aplicacion estuco exterior bloque Dauditorio",
+  "unidad": "m2",
+  "cantidad": 453.316,
+  "pagina": 92,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "una cara | m2 levante bloque cemento | 453,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.08_1.jpg",
+    "pagina": 92,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.09",
+  "descripcion": "Suministro aplicacion de stuco exterior borde de losa y vigas  bloque D auditorio",
+  "unidad": "m2",
+  "cantidad": 146.88,
+  "pagina": 93,
+  "detalle": [
+   "numero | largo",
+   "1 | 15,78",
+   "2 | 20,94",
+   "3 | 15,78",
+   "4 | 20,94",
+   "borde losa | 73,44",
+   "borde de vigas | 73,44",
+   "total ml | 146,88"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "8.10",
+  "descripcion": "Suministro aplicacion de pintura vinilo interior bloque D auditorio",
+  "unidad": "m2",
+  "cantidad": 776.852,
+  "pagina": 93,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 5,92 | 6,4 | 37,888 | 2,2 | 35,688",
+   "2 | 8,34 | 6,4 | 53,376 | 2,2 | 51,176",
+   "3 | 15,53 | 6,4 | 99,392 | 99,392",
+   "4 | 5,92 | 6,4 | 37,888 | 37,888",
+   "dos caras",
+   "levante interno bloque samo | m2 | 224,144 | 323,536",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "una cara | m2 levante bloque cemento | 453,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.10_1.jpg",
+    "pagina": 93,
+    "px": [
+     515,
+     603
+    ]
+   },
+   {
+    "archivo": "8.10_2.jpg",
+    "pagina": 94,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.11",
+  "descripcion": "Suministro  aplicacion de pintura exterior vinilo para boloque D auditorio",
+  "unidad": "m2",
+  "cantidad": 453.316,
+  "pagina": 94,
+  "detalle": [
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 15,78 | 6,4 | 100,992 | 100,992",
+   "2 | 20,94 | 6,4 | 134,016 | 2,2 | 131,816",
+   "3 | 15,78 | 6,4 | 100,992 | 10,1 | 90,892",
+   "4 | 20,94 | 6,4 | 134,016 | 4,4 | 129,616",
+   "una cara | m2 levante bloque cemento | 453,316"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.11_1.jpg",
+    "pagina": 94,
+    "px": [
+     442,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.12",
+  "descripcion": "Suministro aplicacion de pintura exterios vinilo para borde de losa auditiror bloque D",
+  "unidad": "m2",
+  "cantidad": 146.88,
+  "pagina": 95,
+  "detalle": [
+   "numero | largo",
+   "1 | 15,78",
+   "2 | 20,94",
+   "3 | 15,78",
+   "4 | 20,94",
+   "borde losa | 73,44",
+   "borde de vigas | 73,44",
+   "total ml | 146,88"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "8.13",
+  "descripcion": "Suministro aplicacion estuco interior bloque A y B",
+  "unidad": "m2",
+  "cantidad": 3597.128,
+  "pagina": 95,
+  "detalle": [
+   "bloque a y b 1er piso",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 19,13 | 3,2 | 61,216 | 61,216",
+   "2 | 7,5 | 3,2 | 24 | 24",
+   "2a | 2,48 | 3,2 | 7,936 | 7,936",
+   "3 | 7,27 | 3,2 | 23,264 | 23,264",
+   "4 | 7,83 | 3,2 | 25,056 | 25,056",
+   "5 | 4,8 | 3,2 | 15,36 | 15,36 | interior 1 paño",
+   "6 | 4,8 | 3,2 | 15,36 | 15,36 | pañete fachada",
+   "7 | 2,27 | 3,2 | 7,264 | 7,264",
+   "8 | 3,91 | 3,2 | 12,512 | 1,54 | 10,972",
+   "9 | 2,82 | 3,2 | 9,024 | 9,024",
+   "10 | 10,1 | 3,2 | 32,32 | 32,32",
+   "11 | 5,09 | 3,2 | 16,288 | 16,288",
+   "12 | 2,18 | 3,2 | 6,976 | 6,976",
+   "13 | 2,75 | 3,2 | 8,8 | 2,2 | 6,6",
+   "14 | 3,33 | 3,2 | 10,656 | 2,2 | 8,456",
+   "15 | 3,12 | 3,2 | 9,984 | 9,984",
+   "16 | 10,01 | 3,2 | 32,032 | 32,032 | p1 interior y fachada",
+   "17 | 4,89 | 3,2 | 15,648 | 15,648",
+   "18 | 5,82 | 3,2 | 18,624 | 18,624",
+   "19 | 4,78 | 1,2 | 5,736 | 5,736",
+   "20 | 4,95 | 3,2 | 15,84 | 15,84",
+   "21 | 8,88 | 3,2 | 28,416 | 28,416",
+   "levante 1er piso  blq a-b | 396,372 | m2",
+   "por 2 caras menos caras de fachada | 652,488",
+   "pañete segundo piso bloque a y b",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 10,98 | 3,2 | 35,136 | 35,136",
+   "15 | 3,19 | 3,2 | 10,208 | 10,208",
+   "16 | 4,74 | 3,2 | 15,168 | 1,76 | 13,408",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 5,18 | 3,2 | 16,576 | 16,576",
+   "25 | 7,5 | 3,2 | 24 | 24",
+   "levante 2d piso  blq a-b | 475,33 | m2",
+   "pañete x 2 caras descntan lado de fachada y de buitrones | 747,396",
+   "piso 3 bloque a y b pañete",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 2,14 | 3,2 | 6,848 | 1,76 | 5,088",
+   "15 | 5,65 | 3,2 | 18,08 | 18,08",
+   "16 | 7,8 | 3,2 | 24,96 | 24,96",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 14,83 | 3,2 | 47,456 | 47,456",
+   "25 | 4,17 | 3,2 | 13,344 | 13,344",
+   "26 | 4,19 | 3,2 | 13,408 | 2,2 | 11,208",
+   "27 | 2,8 | 3,2 | 8,96 | 8,96",
+   "28 | 4,48 | 3,2 | 14,336 | 14,336",
+   "levante 2d piso  blq a-b | 519,434 | m2",
+   "pañete 2 caras de levante menos cara de fachada y buitron | 834,868",
+   "4t piso para pañete",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424",
+   "pañete dos caras decontando caras de fachada y buitrones | 686,488",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424",
+   "pañete dos caras decontando caras de fachada y buitrones | 675,888"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.13_1.jpg",
+    "pagina": 95,
+    "px": [
+     1505,
+     722
+    ]
+   },
+   {
+    "archivo": "8.13_2.jpg",
+    "pagina": 96,
+    "px": [
+     1384,
+     667
+    ]
+   },
+   {
+    "archivo": "8.13_3.jpg",
+    "pagina": 97,
+    "px": [
+     1306,
+     626
+    ]
+   },
+   {
+    "archivo": "8.13_4.jpg",
+    "pagina": 98,
+    "px": [
+     1133,
+     542
+    ]
+   },
+   {
+    "archivo": "8.13_5.jpg",
+    "pagina": 98,
+    "px": [
+     807,
+     567
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.14",
+  "descripcion": "Suministro aplicacion de Pintura exterior para bloque A y B",
+  "unidad": "m2",
+  "cantidad": 631.872,
+  "pagina": 99,
+  "detalle": [
+   "m2 de paños exteriores de pañete todos los pisos | 437,792",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 20,48 | 1 | 20,48 | 20,48",
+   "2 | 28,04 | 1 | 28,04 | 28,04",
+   "3 | 20,48 | 1 | 20,48 | 20,48",
+   "4 | 28,04 | 1 | 28,04 | 28,04",
+   "m2 | 97,04",
+   "levante antepechos x 2 caras | 194,08"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.14_1.jpg",
+    "pagina": 99,
+    "px": [
+     671,
+     521
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.15",
+  "descripcion": "Suministro aplicacion de estuco exterior  e interior borde de losa bloque A y B",
+  "unidad": "ml",
+  "cantidad": 899.46,
+  "pagina": 100,
+  "detalle": [
+   "PERIMETROS LOSA | 899,46"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.15_1.jpg",
+    "pagina": 100,
+    "px": [
+     1217,
+     597
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.16",
+  "descripcion": "Suministro aplicacion de Pintura vinilo interior tipo 1 bloque A y B",
+  "unidad": "m2",
+  "cantidad": 3597.128,
+  "pagina": 100,
+  "detalle": [
+   "bloque a y b 1er piso",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 19,13 | 3,2 | 61,216 | 61,216",
+   "2 | 7,5 | 3,2 | 24 | 24",
+   "2a | 2,48 | 3,2 | 7,936 | 7,936",
+   "3 | 7,27 | 3,2 | 23,264 | 23,264",
+   "4 | 7,83 | 3,2 | 25,056 | 25,056",
+   "5 | 4,8 | 3,2 | 15,36 | 15,36 | interior 1 paño",
+   "6 | 4,8 | 3,2 | 15,36 | 15,36 | pañete fachada",
+   "7 | 2,27 | 3,2 | 7,264 | 7,264",
+   "8 | 3,91 | 3,2 | 12,512 | 1,54 | 10,972",
+   "9 | 2,82 | 3,2 | 9,024 | 9,024",
+   "10 | 10,1 | 3,2 | 32,32 | 32,32",
+   "11 | 5,09 | 3,2 | 16,288 | 16,288",
+   "12 | 2,18 | 3,2 | 6,976 | 6,976",
+   "13 | 2,75 | 3,2 | 8,8 | 2,2 | 6,6",
+   "14 | 3,33 | 3,2 | 10,656 | 2,2 | 8,456",
+   "15 | 3,12 | 3,2 | 9,984 | 9,984",
+   "16 | 10,01 | 3,2 | 32,032 | 32,032 | p1 interior y fachada",
+   "17 | 4,89 | 3,2 | 15,648 | 15,648",
+   "18 | 5,82 | 3,2 | 18,624 | 18,624",
+   "19 | 4,78 | 1,2 | 5,736 | 5,736",
+   "20 | 4,95 | 3,2 | 15,84 | 15,84",
+   "21 | 8,88 | 3,2 | 28,416 | 28,416",
+   "levante 1er piso  blq a-b | 396,372 | m2",
+   "por 2 caras menos caras de fachada | 652,488",
+   "pañete segundo piso bloque a y b",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 10,98 | 3,2 | 35,136 | 35,136",
+   "15 | 3,19 | 3,2 | 10,208 | 10,208",
+   "16 | 4,74 | 3,2 | 15,168 | 1,76 | 13,408",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 5,18 | 3,2 | 16,576 | 16,576",
+   "25 | 7,5 | 3,2 | 24 | 24",
+   "levante 2d piso  blq a-b | 475,33 | m2",
+   "pañete x 2 caras descntan lado de fachada y de buitrones | 747,396",
+   "piso 3 bloque a y b pañete",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 7,13 | 73,286",
+   "2 | 2,47 | 3,2 | 7,904 | 7,904",
+   "3 | 5,42 | 3,2 | 17,344 | 17,344",
+   "4 | 7,67 | 3,2 | 24,544 | 24,544",
+   "5 | 3,88 | 3,2 | 12,416 | 1,76 | 10,656",
+   "6 | 6,7 | 3,2 | 21,44 | 1,76 | 19,68",
+   "7 | 5,12 | 3,2 | 16,384 | 1,76 | 14,624",
+   "8 | 2 | 3,2 | 6,4 | 6,4 | p inter p fachada",
+   "9 | 6,24 | 3,2 | 19,968 | 19,968 | p inter p fachada",
+   "10 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño  buitron",
+   "11 | 2,92 | 3,2 | 9,344 | 9,344 | 1 paño fachada",
+   "12 | 8,12 | 3,2 | 25,984 | 25,984",
+   "13 | 11,47 | 3,2 | 36,704 | 36,704",
+   "14 | 2,14 | 3,2 | 6,848 | 1,76 | 5,088",
+   "15 | 5,65 | 3,2 | 18,08 | 18,08",
+   "16 | 7,8 | 3,2 | 24,96 | 24,96",
+   "17 | 9,38 | 1 | 9,38 | 9,38",
+   "18 | 14,16 | 1 | 14,16 | 14,16",
+   "19 | 5,32 | 1 | 5,32 | 5,32",
+   "20 | 9,93 | 3,2 | 31,776 | 31,776 | 1 pañp fachada buitron",
+   "21 | 9,93 | 3,2 | 31,776 | 31,776 | 1 paño interior",
+   "22 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "23 | 1,22 | 3,2 | 3,904 | 3,904 | 1 paño fachada buitron",
+   "24 | 14,83 | 3,2 | 47,456 | 47,456",
+   "25 | 4,17 | 3,2 | 13,344 | 13,344",
+   "26 | 4,19 | 3,2 | 13,408 | 2,2 | 11,208",
+   "27 | 2,8 | 3,2 | 8,96 | 8,96",
+   "28 | 4,48 | 3,2 | 14,336 | 14,336",
+   "levante 2d piso  blq a-b | 519,434 | m2",
+   "pañete 2 caras de levante menos cara de fachada y buitron | 834,868",
+   "4t piso para pañete",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424",
+   "pañete dos caras decontando caras de fachada y buitrones | 686,488",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 25,13 | 3,2 | 80,416 | 11,84 | 68,576",
+   "2 | 2,32 | 3,2 | 7,424 | 7,424",
+   "3 | 10,14 | 3,2 | 32,448 | 2,2 | 30,248",
+   "4 | 2,33 | 3,2 | 7,456 | 2,2 | 5,256",
+   "5 | 7,66 | 3,2 | 24,512 | 24,512",
+   "6 | 6 | 3,2 | 19,2 | 2,2 | 17",
+   "7 | 6,22 | 3,2 | 19,904 | 19,904 | 1 fachada",
+   "8 | 14,32 | 3,2 | 45,824 | 45,824",
+   "9 | 4 | 3,2 | 12,8 | 2,2 | 10,6",
+   "10 | 9,22 | 3,2 | 29,504 | 29,504",
+   "11 | 9,8 | 3,2 | 31,36 | 31,36",
+   "12 | 7,68 | 3,2 | 24,576 | 24,576 | 1 fachda",
+   "13 | 9,32 | 1 | 9,32 | 9,32",
+   "14 | 13,97 | 1 | 13,97 | 13,97",
+   "15 | 5,35 | 1 | 5,35 | 5,35",
+   "m2 | 343,424",
+   "pañete dos caras decontando caras de fachada y buitrones | 675,888"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.16_1.jpg",
+    "pagina": 100,
+    "px": [
+     1505,
+     722
+    ]
+   },
+   {
+    "archivo": "8.16_2.jpg",
+    "pagina": 102,
+    "px": [
+     1384,
+     667
+    ]
+   },
+   {
+    "archivo": "8.16_3.jpg",
+    "pagina": 102,
+    "px": [
+     1306,
+     626
+    ]
+   },
+   {
+    "archivo": "8.16_4.jpg",
+    "pagina": 103,
+    "px": [
+     1133,
+     542
+    ]
+   },
+   {
+    "archivo": "8.16_5.jpg",
+    "pagina": 104,
+    "px": [
+     807,
+     567
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.17",
+  "descripcion": "Suministro aplicacion de Pintura exterior para bloque A y B",
+  "unidad": "m2",
+  "cantidad": 631.872,
+  "pagina": 105,
+  "detalle": [
+   "m2 de paños exteriores de pañete todos los pisos | 437,792",
+   "numero | largo | alto | m2 | vanos area | m2 total | observacion",
+   "1 | 20,48 | 1 | 20,48 | 20,48",
+   "2 | 28,04 | 1 | 28,04 | 28,04",
+   "3 | 20,48 | 1 | 20,48 | 20,48",
+   "4 | 28,04 | 1 | 28,04 | 28,04",
+   "m2 | 97,04",
+   "levante antepechos x 2 caras | 194,08"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.17_1.jpg",
+    "pagina": 105,
+    "px": [
+     671,
+     521
+    ]
+   }
+  ]
+ },
+ {
+  "item": "8.18",
+  "descripcion": "Suministro aplicacion de pintura exterior e interior para borde de losa bloque A y b",
+  "unidad": "ml",
+  "cantidad": 899.46,
+  "pagina": 106,
+  "detalle": [
+   "PERIMETROS LOSA | 899,46"
+  ],
+  "imagenes": [
+   {
+    "archivo": "8.18_1.jpg",
+    "pagina": 106,
+    "px": [
+     1217,
+     597
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.01",
+  "descripcion": "Mueble lavamanos bateria de baños bloque d auditiroos dim 4.53x0.60",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 107,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.01_1.jpg",
+    "pagina": 107,
+    "px": [
+     1230,
+     567
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.02",
+  "descripcion": "Sanitarios  institucional fluxometro  bateria de baños bloque d",
+  "unidad": "und",
+  "cantidad": 9.0,
+  "pagina": 107,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.02_1.jpg",
+    "pagina": 107,
+    "px": [
+     1149,
+     509
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.03",
+  "descripcion": "Orinales de pared institucional bateria de baños bloque d auditorio",
+  "unidad": "und",
+  "cantidad": 9.0,
+  "pagina": 108,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.03_1.jpg",
+    "pagina": 108,
+    "px": [
+     1158,
+     523
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.04",
+  "descripcion": "Lavamanos de empotrar bateria de baños bloque d auditorio",
+  "unidad": "und",
+  "cantidad": 8.0,
+  "pagina": 108,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.04_1.jpg",
+    "pagina": 108,
+    "px": [
+     1158,
+     523
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.05",
+  "descripcion": "Mueble de recepcion acceso bloque A",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 108,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.05_1.jpg",
+    "pagina": 108,
+    "px": [
+     1276,
+     503
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.06",
+  "descripcion": "Mueble lavamanos bateria de baños 1er piso bloque B dim 5.09x 0.60",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 109,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.06_1.jpg",
+    "pagina": 109,
+    "px": [
+     796,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.07",
+  "descripcion": "Sanitarios  institucional fluxometro  bateria de baños blloque B 1er piso",
+  "unidad": "und",
+  "cantidad": 9.0,
+  "pagina": 109,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.07_1.jpg",
+    "pagina": 109,
+    "px": [
+     796,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.08",
+  "descripcion": "Orinales de pared institucional bateria de balos bloque B 1er piso",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 110,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.08_1.jpg",
+    "pagina": 110,
+    "px": [
+     796,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.09",
+  "descripcion": "Lavamanos de empotrar bateria de baños bloque B 1er piso",
+  "unidad": "und",
+  "cantidad": 10.0,
+  "pagina": 110,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.09_1.jpg",
+    "pagina": 110,
+    "px": [
+     796,
+     580
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.10",
+  "descripcion": "Mueble lavamanos dim 2.74x 0.60 bateria baño hombre bloque a 2do piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 111,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.10_1.jpg",
+    "pagina": 111,
+    "px": [
+     821,
+     788
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.11",
+  "descripcion": "Mueble lavamanos dim 3.15 x 0.60 bateria baño mujeres bloque a 2do piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 111,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.11_1.jpg",
+    "pagina": 111,
+    "px": [
+     821,
+     788
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.12",
+  "descripcion": "Sanitarios institucional fluxometro bateria de baño bloque A 2do piso",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 112,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.12_1.jpg",
+    "pagina": 112,
+    "px": [
+     821,
+     788
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.13",
+  "descripcion": "Orinales de pared intitucional bateria de baños bloque a 2do piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 112,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.13_1.jpg",
+    "pagina": 112,
+    "px": [
+     821,
+     788
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.14",
+  "descripcion": "Lavamanos  de empotrar bateria de baños bloque A 2do piso",
+  "unidad": "und",
+  "cantidad": 7.0,
+  "pagina": 113,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.14_1.jpg",
+    "pagina": 113,
+    "px": [
+     821,
+     788
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.15",
+  "descripcion": "Mueble lavamanos dim 2.74x 0.60 bateria baño hombre bloque a 3er piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 113,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.15_1.jpg",
+    "pagina": 113,
+    "px": [
+     666,
+     755
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.16",
+  "descripcion": "Mueble lavamanos dim 3.15 x 0.60 bateria baño mujeres bloque a 3er piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 114,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.16_1.jpg",
+    "pagina": 114,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.17",
+  "descripcion": "Sanitarios institucional fluxometro bateria de baño bloque A 3er piso",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 114,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.17_1.jpg",
+    "pagina": 114,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.18",
+  "descripcion": "Orinales de pared intitucional bateria de baños bloque a 3er piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 115,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.18_1.jpg",
+    "pagina": 115,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.19",
+  "descripcion": "Lavamanos  de empotrar bateria de baños bloque A 3er piso",
+  "unidad": "und",
+  "cantidad": 8.0,
+  "pagina": 115,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.19_1.jpg",
+    "pagina": 115,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.20",
+  "descripcion": "Mueble lavamanos dim 2.74x 0.60 bateria baño hombre bloque a 4to piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 116,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.20_1.jpg",
+    "pagina": 116,
+    "px": [
+     666,
+     755
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.21",
+  "descripcion": "Mueble lavamanos dim 3.15 x 0.60 bateria baño hombre bloque a 4to  piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 116,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.21_1.jpg",
+    "pagina": 116,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.22",
+  "descripcion": "Sanitarios institucional fluxometro bateria de baño bloque A 4to piso",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 117,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.22_1.jpg",
+    "pagina": 117,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.23",
+  "descripcion": "Orinales de pared intitucional bateria de baños bloque a 4to piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 117,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.23_1.jpg",
+    "pagina": 117,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.24",
+  "descripcion": "Lavamanos  de empotrar bateria de baños bloque A 4to piso",
+  "unidad": "und",
+  "cantidad": 8.0,
+  "pagina": 118,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.24_1.jpg",
+    "pagina": 118,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.25",
+  "descripcion": "Mueble lavamanos dim 2.74x 0.60 bateria baño hombre bloque a 5to piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 118,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.25_1.jpg",
+    "pagina": 118,
+    "px": [
+     666,
+     755
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.26",
+  "descripcion": "Mueble lavamanos dim 3.15 x 0.60 bateria baño hombre bloque a 5to  piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 119,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.26_1.jpg",
+    "pagina": 119,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.27",
+  "descripcion": "Sanitarios institucional fluxometro bateria de baño bloque A 5to piso",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 119,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.27_1.jpg",
+    "pagina": 119,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.28",
+  "descripcion": "Orinales de pared intitucional bateria de baños bloque a 5to piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 120,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.28_1.jpg",
+    "pagina": 120,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.29",
+  "descripcion": "Lavamanos  de empotrar bateria de baños bloque A 5to piso",
+  "unidad": "und",
+  "cantidad": 8.0,
+  "pagina": 120,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.29_1.jpg",
+    "pagina": 120,
+    "px": [
+     666,
+     740
+    ]
+   }
+  ]
+ },
+ {
+  "item": "10.30",
+  "descripcion": "Mueble de cocina inferior y superior longirud 2.80 mts",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 121,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "10.30_1.jpg",
+    "pagina": 121,
+    "px": [
+     505,
+     688
+    ]
+   },
+   {
+    "archivo": "10.30_2.jpg",
+    "pagina": 121,
+    "px": [
+     325,
+     666
+    ]
+   }
+  ]
+ },
+ {
+  "item": "11.01",
+  "descripcion": "Griferia mesones  y desagues de labotatior bloque c 1er ´piso",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 122,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "11.01_1.jpg",
+    "pagina": 122,
+    "px": [
+     1960,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "item": "11.02",
+  "descripcion": "Griferia lavamanos y  casta de desgues tipo puch bateria sanitarias bloque a b c d",
+  "unidad": "und",
+  "cantidad": 49.0,
+  "pagina": 122,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "11.02_1.jpg",
+    "pagina": 122,
+    "px": [
+     1168,
+     774
+    ]
+   },
+   {
+    "archivo": "11.02_2.jpg",
+    "pagina": 122,
+    "px": [
+     735,
+     307
+    ]
+   },
+   {
+    "archivo": "11.02_3.jpg",
+    "pagina": 122,
+    "px": [
+     473,
+     658
+    ]
+   },
+   {
+    "archivo": "11.02_4.jpg",
+    "pagina": 122,
+    "px": [
+     514,
+     718
+    ]
+   },
+   {
+    "archivo": "11.02_5.jpg",
+    "pagina": 123,
+    "px": [
+     592,
+     695
+    ]
+   },
+   {
+    "archivo": "11.02_6.jpg",
+    "pagina": 123,
+    "px": [
+     503,
+     582
+    ]
+   }
+  ]
+ },
+ {
+  "item": "11.03",
+  "descripcion": "GriFeria lavaplanos  y canastas de desague1er piso",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 123,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "11.03_1.jpg",
+    "pagina": 123,
+    "px": [
+     534,
+     756
+    ]
+   },
+   {
+    "archivo": "11.03_2.jpg",
+    "pagina": 123,
+    "px": [
+     917,
+     807
+    ]
+   }
+  ]
+ },
+ {
+  "item": "11.04",
+  "descripcion": "Lavaplatos labotario",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 124,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "11.04_1.jpg",
+    "pagina": 124,
+    "px": [
+     1960,
+     1820
+    ]
+   }
+  ]
+ },
+ {
+  "item": "11.05",
+  "descripcion": "Lavaplatos meson de cocina",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 124,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "11.05_1.jpg",
+    "pagina": 124,
+    "px": [
+     534,
+     756
+    ]
+   },
+   {
+    "archivo": "11.05_2.jpg",
+    "pagina": 124,
+    "px": [
+     917,
+     807
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.01",
+  "descripcion": "puerta de madera doble hoja de 1.63x2.20 1er piso bloque C",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 125,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.01_1.jpg",
+    "pagina": 125,
+    "px": [
+     1159,
+     770
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.02",
+  "descripcion": "puertas de madera sencilla una hoja de 1.00x2.20 bloque C laboratorio",
+  "unidad": "und",
+  "cantidad": 8.0,
+  "pagina": 125,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.02_1.jpg",
+    "pagina": 125,
+    "px": [
+     1159,
+     770
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.03",
+  "descripcion": "Puerta plegable 2 hojas depositos  bloque A 1er piso 1.00x2.20",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 125,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.03_1.jpg",
+    "pagina": 125,
+    "px": [
+     906,
+     667
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.04",
+  "descripcion": "Puerta de madera sencilla una hoja 1.00x 2.20 bloque B",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 126,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.04_1.jpg",
+    "pagina": 126,
+    "px": [
+     870,
+     687
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.05",
+  "descripcion": "Puerta plegable 2 hojas  depositos bloque B 1er piso 1.00x2.20",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 126,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.05_1.jpg",
+    "pagina": 126,
+    "px": [
+     870,
+     687
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.06",
+  "descripcion": "Puerta de mandera doble hoja de 1.83x2.20 bloque d auditorio acceso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 127,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.06_1.jpg",
+    "pagina": 127,
+    "px": [
+     616,
+     703
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.07",
+  "descripcion": "Cuerpo fijo de puerta acceso de 1.83 x 3.00 auditorio",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 127,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.07_1.jpg",
+    "pagina": 127,
+    "px": [
+     616,
+     703
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.08",
+  "descripcion": "Puerta de madera sensilla una hoja de 1.00x2.20 bloque D auditorio",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 128,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.08_1.jpg",
+    "pagina": 128,
+    "px": [
+     616,
+     703
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.09",
+  "descripcion": "Puerta plegable depisito 2 hojas 1.00x2.20x bloque  A y B segundo piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 128,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.09_1.jpg",
+    "pagina": 128,
+    "px": [
+     1071,
+     529
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.10",
+  "descripcion": "Puerta de madera sensilla una hoja de 1.00x2.20 bloque A Y B segundo piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 129,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.10_1.jpg",
+    "pagina": 129,
+    "px": [
+     1071,
+     529
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.11",
+  "descripcion": "Puerta de madera doble hoja de 1.63x2.20 bloque A y B  segundo piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 129,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.11_1.jpg",
+    "pagina": 129,
+    "px": [
+     1071,
+     529
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.12",
+  "descripcion": "Puerta plegable depositos 2 hohas 1.00x2.20 bloque A y B 3er piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 130,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.12_1.jpg",
+    "pagina": 130,
+    "px": [
+     1071,
+     529
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.13",
+  "descripcion": "Puerta de madera sensilla una hoja de 1.00x2.20 bloque A Y B 3er piso",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 130,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.13_1.jpg",
+    "pagina": 130,
+    "px": [
+     1071,
+     529
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.14",
+  "descripcion": "Puerta de madera doble hoja de 1.63x2.20 bloque A y B  3er piso",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 131,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.14_1.jpg",
+    "pagina": 131,
+    "px": [
+     986,
+     581
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.15",
+  "descripcion": "Puerta de madera sensilla una hoja de 1.00x2.20 bloque A 4to piso",
+  "unidad": "und",
+  "cantidad": 6.0,
+  "pagina": 131,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.15_1.jpg",
+    "pagina": 131,
+    "px": [
+     792,
+     749
+    ]
+   }
+  ]
+ },
+ {
+  "item": "13.16",
+  "descripcion": "Puerta de madera sensilla una hoja de 1.00x2.20 bloque A 5to piso",
+  "unidad": "und",
+  "cantidad": 6.0,
+  "pagina": 132,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "13.16_1.jpg",
+    "pagina": 132,
+    "px": [
+     470,
+     445
+    ]
+   }
+  ]
+ },
+ {
+  "item": "14.01",
+  "descripcion": "Suministro e instalacion de vidrios y perfileria aluminio tipo fachada",
+  "unidad": "m2",
+  "cantidad": 1711.35,
+  "pagina": 133,
+  "detalle": [
+   "flotante en bloque a b c y d m2",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 14,92 | 3,1 | 46,252 | 12,245 | 34,007",
+   "2 | 20,38 | 3,1 | 63,178 | 13,64 | 49,538",
+   "3 | 6,46 | 3,1 | 20,026 | 4,4 | 15,626",
+   "4 | 3,65 | 3,1 | 11,315 | 2,2 | 9,115",
+   "5 | 3,65 | 3,1 | 11,315 | 2,2 | 9,115",
+   "6 | 17,74 | 3,1 | 54,994 | 12,98 | 42,014",
+   "7 | 16,12 | 3,1 | 49,972 | 12,98 | 36,992",
+   "vidrios fijos",
+   "puertas | 196,407",
+   "60,645",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 25,24 | 3,1 | 78,244 | 25,42 | 52,824",
+   "2 | 6,74 | 3,1 | 20,894 | 20,894",
+   "3 | 2,9 | 3,1 | 8,99 | 8,99",
+   "4 | 27,96 | 3,1 | 86,676 | 86,676",
+   "5 | 5,03 | 3,1 | 15,593 | 15,593 | interno",
+   "6 | 5,03 | 3,1 | 15,593 | 15,593 | interno",
+   "7 | 13,24 | 3,1 | 41,044 | 7,964 | 33,08 | interno",
+   "8 | 7,71 | 3,1 | 23,901 | 4,092 | 19,809 | interno",
+   "9 | 6,03 | 3,1 | 18,693 | 3,85 | 14,843 | interno",
+   "10 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "11 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "12 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "13 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "14 | 5,86 | 3,1 | 18,166 | 18,166",
+   "15 | 5,53 | 3,1 | 17,143 | 17,143",
+   "puerta | 204,693 | fachada",
+   "15,906 | 114,934 | interno",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 11,16 | 3,1 | 34,596 | 3,41 | 31,186",
+   "2 | 9,5 | 3,1 | 29,45 | 29,45",
+   "3 | 11,11 | 3,1 | 34,441 | 34,441",
+   "4 | 20,39 | 3,1 | 63,209 | 63,209",
+   "5 | 11,12 | 3,1 | 34,472 | 34,472",
+   "puerta | 192,758 | vidrios fachada",
+   "3,41",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,18 | 3,1 | 87,358 | 87,358",
+   "2 | 12,45 | 3,1 | 38,595 | 38,595",
+   "3 | 5,86 | 3,1 | 18,166 | 18,166",
+   "4 | 8 | 3,1 | 24,8 | 24,8",
+   "5 | 21,68 | 3,1 | 67,208 | 67,208",
+   "6 | 2,29 | 3,1 | 7,099 | 2,2 | 4,899 | inte",
+   "7 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "8 | 3,3 | 3,1 | 10,23 | 3,938 | 6,292 | inte",
+   "9 | 16,05 | 3,1 | 49,755 | 15,84 | 33,915 | inte",
+   "10 | 14,67 | 3,1 | 45,477 | 23,76 | 21,717 | inte",
+   "11 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "12 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "13 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "14 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "15 | 1,8 | 3,1 | 5,58 | 5,58 | inte",
+   "16 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "17 | 4,16 | 3,1 | 12,896 | 12,896 | inte",
+   "18 | 3,08 | 3,1 | 9,548 | 3,96 | 5,588 | inte",
+   "19 | 5,58 | 3,1 | 17,298 | 2,2 | 15,098 | inte",
+   "20 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "21 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "22 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "23 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "24 | 5,82 | 3,1 | 18,042 | 18,042 | fchada",
+   "puertas | 254,169 | 2 vidrioo fachada",
+   "51,898 | 224,405 | m2 interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 7,72 | 3,1 | 23,932 | 23,932",
+   "2 | 10,82 | 3,1 | 33,542 | 33,542",
+   "3 | 20,37 | 3,1 | 63,147 | 63,147",
+   "4 | 22 | 3,1 | 68,2 | 68,2",
+   "5 | 22,31 | 3,1 | 69,161 | 8,008 | 61,153 | inter",
+   "6 | 22,05 | 3,1 | 68,355 | 4,092 | 64,263 | inter",
+   "puertas | 188,821m2 vidrio fachada",
+   "12,1 | 125,416 | m2 vidrio inter",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,18 | 3,1 | 87,358 | 87,358",
+   "2 | 12,45 | 3,1 | 38,595 | 38,595",
+   "3 | 5,86 | 3,1 | 18,166 | 18,166",
+   "4 | 8 | 3,1 | 24,8 | 24,8",
+   "5 | 21,68 | 3,1 | 67,208 | 67,208",
+   "6 | 2,29 | 3,1 | 7,099 | 2,2 | 4,899 | inte",
+   "7 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "8 | 3,3 | 3,1 | 10,23 | 3,938 | 6,292 | inte",
+   "9 | 16,05 | 3,1 | 49,755 | 15,84 | 33,915 | inte",
+   "10 | 14,67 | 3,1 | 45,477 | 23,76 | 21,717 | inte",
+   "11 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "12 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "13 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "14 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "15 | 1,8 | 3,1 | 5,58 | 5,58 | inte",
+   "16 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "17 | 4,16 | 3,1 | 12,896 | 12,896 | inte",
+   "18 | 3,08 | 3,1 | 9,548 | 3,96 | 5,588 | inte",
+   "19 | 5,58 | 3,1 | 17,298 | 2,2 | 15,098 | inte",
+   "20 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "21 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "22 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "23 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "24 | 5,82 | 3,1 | 18,042 | 18,042 | fchada",
+   "puertas | 254,169 | 2 vidrioo fachada",
+   "51,898 | 224,405 | m2 interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 7,69 | 3,1 | 23,839 | 23,839",
+   "2 | 16,83 | 3,1 | 52,173 | 52,173",
+   "3 | 20,39 | 3,1 | 63,209 | 63,209",
+   "4 | 22 | 3,1 | 68,2 | 68,2",
+   "5 | 18,22 | 3,1 | 56,482 | 15,84 | 40,642 | inte",
+   "6 | 4,43 | 3,1 | 13,733 | 13,733",
+   "7 | 4,43 | 3,1 | 13,733 | 13,733",
+   "8 | 4,43 | 3,1 | 13,733 | 13,733",
+   "9 | 6,45 | 3,1 | 19,995 | 4,092 | 15,903",
+   "10 | 4,38 | 3,1 | 13,578 | 13,578",
+   "11 | 4,38 | 3,1 | 13,578 | 13,578",
+   "12 | 4,38 | 3,1 | 13,578 | 13,578",
+   "13 | 4,38 | 3,1 | 13,578 | 13,578",
+   "14 | 4,38 | 3,1 | 13,578 | 13,578",
+   "15 | 15,2 | 3,1 | 47,12 | 19,8 | 27,32",
+   "16 | 14,7 | 3,1 | 45,57 | 23,76 | 21,81",
+   "17 | 3,33 | 3,1 | 10,323 | 10,323",
+   "18 | 3,33 | 3,1 | 10,323 | 10,323",
+   "19 | 3,33 | 3,1 | 10,323 | 10,323",
+   "20 | 3,33 | 3,1 | 10,323 | 10,323",
+   "21 | 3,33 | 3,1 | 10,323 | 10,323",
+   "22 | 3,33 | 3,1 | 10,323 | 10,323",
+   "puertas | 207,421 | fachada",
+   "63,492 | 276,702 | m2 interno",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,02 | 3,1 | 86,862 | 86,862",
+   "2 | 12,77 | 3,1 | 39,587 | 39,587",
+   "3 | 6,21 | 3,1 | 19,251 | 19,251",
+   "4 | 21,68 | 3,1 | 67,208 | 67,208",
+   "212,908 | m2 fachada"
+  ],
+  "imagenes": [
+   {
+    "archivo": "14.01_1.jpg",
+    "pagina": 133,
+    "px": [
+     879,
+     742
+    ]
+   },
+   {
+    "archivo": "14.01_2.jpg",
+    "pagina": 133,
+    "px": [
+     1076,
+     741
+    ]
+   },
+   {
+    "archivo": "14.01_3.jpg",
+    "pagina": 134,
+    "px": [
+     650,
+     615
+    ]
+   },
+   {
+    "archivo": "14.01_4.jpg",
+    "pagina": 135,
+    "px": [
+     882,
+     647
+    ]
+   },
+   {
+    "archivo": "14.01_5.jpg",
+    "pagina": 136,
+    "px": [
+     808,
+     716
+    ]
+   },
+   {
+    "archivo": "14.01_6.jpg",
+    "pagina": 136,
+    "px": [
+     882,
+     647
+    ]
+   },
+   {
+    "archivo": "14.01_7.jpg",
+    "pagina": 137,
+    "px": [
+     655,
+     647
+    ]
+   },
+   {
+    "archivo": "14.01_8.jpg",
+    "pagina": 138,
+    "px": [
+     751,
+     593
+    ]
+   }
+  ]
+ },
+ {
+  "item": "14.02",
+  "descripcion": "Suministro e instalacion de puertas de vidrio y/o vidrio y perfileria metalica",
+  "unidad": "m2",
+  "cantidad": 965.862,
+  "pagina": 139,
+  "detalle": [
+   "interiores o exteriores  x m2",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 14,92 | 3,1 | 46,252 | 12,245 | 34,007",
+   "2 | 20,38 | 3,1 | 63,178 | 13,64 | 49,538",
+   "3 | 6,46 | 3,1 | 20,026 | 4,4 | 15,626",
+   "4 | 3,65 | 3,1 | 11,315 | 2,2 | 9,115",
+   "5 | 3,65 | 3,1 | 11,315 | 2,2 | 9,115",
+   "6 | 17,74 | 3,1 | 54,994 | 12,98 | 42,014",
+   "7 | 16,12 | 3,1 | 49,972 | 12,98 | 36,992",
+   "vidrios fijos",
+   "puertas | 196,407",
+   "60,645",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 25,24 | 3,1 | 78,244 | 25,42 | 52,824",
+   "2 | 6,74 | 3,1 | 20,894 | 20,894",
+   "3 | 2,9 | 3,1 | 8,99 | 8,99",
+   "4 | 27,96 | 3,1 | 86,676 | 86,676",
+   "5 | 5,03 | 3,1 | 15,593 | 15,593 | interno",
+   "6 | 5,03 | 3,1 | 15,593 | 15,593 | interno",
+   "7 | 13,24 | 3,1 | 41,044 | 7,964 | 33,08 | interno",
+   "8 | 7,71 | 3,1 | 23,901 | 4,092 | 19,809 | interno",
+   "9 | 6,03 | 3,1 | 18,693 | 3,85 | 14,843 | interno",
+   "10 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "11 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "12 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "13 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "14 | 5,86 | 3,1 | 18,166 | 18,166",
+   "15 | 5,53 | 3,1 | 17,143 | 17,143",
+   "puerta | 204,693 | fachada",
+   "15,906 | 114,934 | interno",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 11,16 | 3,1 | 34,596 | 3,41 | 31,186",
+   "2 | 9,5 | 3,1 | 29,45 | 29,45",
+   "3 | 11,11 | 3,1 | 34,441 | 34,441",
+   "4 | 20,39 | 3,1 | 63,209 | 63,209",
+   "5 | 11,12 | 3,1 | 34,472 | 34,472",
+   "puerta | 192,758 | vidrios fachada",
+   "3,41",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,18 | 3,1 | 87,358 | 87,358",
+   "2 | 12,45 | 3,1 | 38,595 | 38,595",
+   "3 | 5,86 | 3,1 | 18,166 | 18,166",
+   "4 | 8 | 3,1 | 24,8 | 24,8",
+   "5 | 21,68 | 3,1 | 67,208 | 67,208",
+   "6 | 2,29 | 3,1 | 7,099 | 2,2 | 4,899 | inte",
+   "7 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "8 | 3,3 | 3,1 | 10,23 | 3,938 | 6,292 | inte",
+   "9 | 16,05 | 3,1 | 49,755 | 15,84 | 33,915 | inte",
+   "10 | 14,67 | 3,1 | 45,477 | 23,76 | 21,717 | inte",
+   "11 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "12 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "13 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "14 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "15 | 1,8 | 3,1 | 5,58 | 5,58 | inte",
+   "16 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "17 | 4,16 | 3,1 | 12,896 | 12,896 | inte",
+   "18 | 3,08 | 3,1 | 9,548 | 3,96 | 5,588 | inte",
+   "19 | 5,58 | 3,1 | 17,298 | 2,2 | 15,098 | inte",
+   "20 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "21 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "22 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "23 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "24 | 5,82 | 3,1 | 18,042 | 18,042 | fchada",
+   "puertas | 254,169 | 2 vidrioo fachada",
+   "51,898 | 224,405 | m2 interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 7,72 | 3,1 | 23,932 | 23,932",
+   "2 | 10,82 | 3,1 | 33,542 | 33,542",
+   "3 | 20,37 | 3,1 | 63,147 | 63,147",
+   "4 | 22 | 3,1 | 68,2 | 68,2",
+   "5 | 22,31 | 3,1 | 69,161 | 8,008 | 61,153 | inter",
+   "6 | 22,05 | 3,1 | 68,355 | 4,092 | 64,263 | inter",
+   "puertas | 188,821m2 vidrio fachada",
+   "12,1 | 125,416 | m2 vidrio inter",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,18 | 3,1 | 87,358 | 87,358",
+   "2 | 12,45 | 3,1 | 38,595 | 38,595",
+   "3 | 5,86 | 3,1 | 18,166 | 18,166",
+   "4 | 8 | 3,1 | 24,8 | 24,8",
+   "5 | 21,68 | 3,1 | 67,208 | 67,208",
+   "6 | 2,29 | 3,1 | 7,099 | 2,2 | 4,899 | inte",
+   "7 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "8 | 3,3 | 3,1 | 10,23 | 3,938 | 6,292 | inte",
+   "9 | 16,05 | 3,1 | 49,755 | 15,84 | 33,915 | inte",
+   "10 | 14,67 | 3,1 | 45,477 | 23,76 | 21,717 | inte",
+   "11 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "12 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "13 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "14 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "15 | 1,8 | 3,1 | 5,58 | 5,58 | inte",
+   "16 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "17 | 4,16 | 3,1 | 12,896 | 12,896 | inte",
+   "18 | 3,08 | 3,1 | 9,548 | 3,96 | 5,588 | inte",
+   "19 | 5,58 | 3,1 | 17,298 | 2,2 | 15,098 | inte",
+   "20 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "21 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "22 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "23 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "24 | 5,82 | 3,1 | 18,042 | 18,042 | fchada",
+   "puertas | 254,169 | 2 vidrioo fachada",
+   "51,898 | 224,405 | m2 interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 7,69 | 3,1 | 23,839 | 23,839",
+   "2 | 16,83 | 3,1 | 52,173 | 52,173",
+   "3 | 20,39 | 3,1 | 63,209 | 63,209",
+   "4 | 22 | 3,1 | 68,2 | 68,2",
+   "5 | 18,22 | 3,1 | 56,482 | 15,84 | 40,642 | inte",
+   "6 | 4,43 | 3,1 | 13,733 | 13,733",
+   "7 | 4,43 | 3,1 | 13,733 | 13,733",
+   "8 | 4,43 | 3,1 | 13,733 | 13,733",
+   "9 | 6,45 | 3,1 | 19,995 | 4,092 | 15,903",
+   "10 | 4,38 | 3,1 | 13,578 | 13,578",
+   "11 | 4,38 | 3,1 | 13,578 | 13,578",
+   "12 | 4,38 | 3,1 | 13,578 | 13,578",
+   "13 | 4,38 | 3,1 | 13,578 | 13,578",
+   "14 | 4,38 | 3,1 | 13,578 | 13,578",
+   "15 | 15,2 | 3,1 | 47,12 | 19,8 | 27,32",
+   "16 | 14,7 | 3,1 | 45,57 | 23,76 | 21,81",
+   "17 | 3,33 | 3,1 | 10,323 | 10,323",
+   "18 | 3,33 | 3,1 | 10,323 | 10,323",
+   "19 | 3,33 | 3,1 | 10,323 | 10,323",
+   "20 | 3,33 | 3,1 | 10,323 | 10,323",
+   "21 | 3,33 | 3,1 | 10,323 | 10,323",
+   "22 | 3,33 | 3,1 | 10,323 | 10,323",
+   "puertas | 207,421 | fachada",
+   "63,492 | 276,702 | m2 interno",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,02 | 3,1 | 86,862 | 86,862",
+   "2 | 12,77 | 3,1 | 39,587 | 39,587",
+   "3 | 6,21 | 3,1 | 19,251 | 19,251",
+   "4 | 21,68 | 3,1 | 67,208 | 67,208",
+   "212,908 | m2 fachada"
+  ],
+  "imagenes": [
+   {
+    "archivo": "14.02_1.jpg",
+    "pagina": 139,
+    "px": [
+     879,
+     742
+    ]
+   },
+   {
+    "archivo": "14.02_2.jpg",
+    "pagina": 139,
+    "px": [
+     1076,
+     741
+    ]
+   },
+   {
+    "archivo": "14.02_3.jpg",
+    "pagina": 140,
+    "px": [
+     650,
+     615
+    ]
+   },
+   {
+    "archivo": "14.02_4.jpg",
+    "pagina": 141,
+    "px": [
+     882,
+     647
+    ]
+   },
+   {
+    "archivo": "14.02_5.jpg",
+    "pagina": 142,
+    "px": [
+     808,
+     716
+    ]
+   },
+   {
+    "archivo": "14.02_6.jpg",
+    "pagina": 142,
+    "px": [
+     882,
+     647
+    ]
+   },
+   {
+    "archivo": "14.02_7.jpg",
+    "pagina": 143,
+    "px": [
+     655,
+     647
+    ]
+   },
+   {
+    "archivo": "14.02_8.jpg",
+    "pagina": 144,
+    "px": [
+     751,
+     593
+    ]
+   }
+  ]
+ },
+ {
+  "item": "14.03",
+  "descripcion": "Suministro e instalacion de vidrios y perfiliaria aluminio paneles divisiorios",
+  "unidad": "m2",
+  "cantidad": 259.349,
+  "pagina": 145,
+  "detalle": [
+   "y cuerpos fijos interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 14,92 | 3,1 | 46,252 | 12,245 | 34,007",
+   "2 | 20,38 | 3,1 | 63,178 | 13,64 | 49,538",
+   "3 | 6,46 | 3,1 | 20,026 | 4,4 | 15,626",
+   "4 | 3,65 | 3,1 | 11,315 | 2,2 | 9,115",
+   "5 | 3,65 | 3,1 | 11,315 | 2,2 | 9,115",
+   "6 | 17,74 | 3,1 | 54,994 | 12,98 | 42,014",
+   "7 | 16,12 | 3,1 | 49,972 | 12,98 | 36,992",
+   "vidrios fijos",
+   "puertas | 196,407",
+   "60,645",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 25,24 | 3,1 | 78,244 | 25,42 | 52,824",
+   "2 | 6,74 | 3,1 | 20,894 | 20,894",
+   "3 | 2,9 | 3,1 | 8,99 | 8,99",
+   "4 | 27,96 | 3,1 | 86,676 | 86,676",
+   "5 | 5,03 | 3,1 | 15,593 | 15,593 | interno",
+   "6 | 5,03 | 3,1 | 15,593 | 15,593 | interno",
+   "7 | 13,24 | 3,1 | 41,044 | 7,964 | 33,08 | interno",
+   "8 | 7,71 | 3,1 | 23,901 | 4,092 | 19,809 | interno",
+   "9 | 6,03 | 3,1 | 18,693 | 3,85 | 14,843 | interno",
+   "10 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "11 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "12 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "13 | 1,82 | 2,2 | 4,004 | 4,004 | interno",
+   "14 | 5,86 | 3,1 | 18,166 | 18,166",
+   "15 | 5,53 | 3,1 | 17,143 | 17,143",
+   "puerta | 204,693 | fachada",
+   "15,906 | 114,934 | interno",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 11,16 | 3,1 | 34,596 | 3,41 | 31,186",
+   "2 | 9,5 | 3,1 | 29,45 | 29,45",
+   "3 | 11,11 | 3,1 | 34,441 | 34,441",
+   "4 | 20,39 | 3,1 | 63,209 | 63,209",
+   "5 | 11,12 | 3,1 | 34,472 | 34,472",
+   "puerta | 192,758 | vidrios fachada",
+   "3,41",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,18 | 3,1 | 87,358 | 87,358",
+   "2 | 12,45 | 3,1 | 38,595 | 38,595",
+   "3 | 5,86 | 3,1 | 18,166 | 18,166",
+   "4 | 8 | 3,1 | 24,8 | 24,8",
+   "5 | 21,68 | 3,1 | 67,208 | 67,208",
+   "6 | 2,29 | 3,1 | 7,099 | 2,2 | 4,899 | inte",
+   "7 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "8 | 3,3 | 3,1 | 10,23 | 3,938 | 6,292 | inte",
+   "9 | 16,05 | 3,1 | 49,755 | 15,84 | 33,915 | inte",
+   "10 | 14,67 | 3,1 | 45,477 | 23,76 | 21,717 | inte",
+   "11 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "12 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "13 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "14 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "15 | 1,8 | 3,1 | 5,58 | 5,58 | inte",
+   "16 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "17 | 4,16 | 3,1 | 12,896 | 12,896 | inte",
+   "18 | 3,08 | 3,1 | 9,548 | 3,96 | 5,588 | inte",
+   "19 | 5,58 | 3,1 | 17,298 | 2,2 | 15,098 | inte",
+   "20 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "21 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "22 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "23 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "24 | 5,82 | 3,1 | 18,042 | 18,042 | fchada",
+   "puertas | 254,169 | 2 vidrioo fachada",
+   "51,898 | 224,405 | m2 interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 7,72 | 3,1 | 23,932 | 23,932",
+   "2 | 10,82 | 3,1 | 33,542 | 33,542",
+   "3 | 20,37 | 3,1 | 63,147 | 63,147",
+   "4 | 22 | 3,1 | 68,2 | 68,2",
+   "5 | 22,31 | 3,1 | 69,161 | 8,008 | 61,153 | inter",
+   "6 | 22,05 | 3,1 | 68,355 | 4,092 | 64,263 | inter",
+   "puertas | 188,821m2 vidrio fachada",
+   "12,1 | 125,416 | m2 vidrio inter",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,18 | 3,1 | 87,358 | 87,358",
+   "2 | 12,45 | 3,1 | 38,595 | 38,595",
+   "3 | 5,86 | 3,1 | 18,166 | 18,166",
+   "4 | 8 | 3,1 | 24,8 | 24,8",
+   "5 | 21,68 | 3,1 | 67,208 | 67,208",
+   "6 | 2,29 | 3,1 | 7,099 | 2,2 | 4,899 | inte",
+   "7 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "8 | 3,3 | 3,1 | 10,23 | 3,938 | 6,292 | inte",
+   "9 | 16,05 | 3,1 | 49,755 | 15,84 | 33,915 | inte",
+   "10 | 14,67 | 3,1 | 45,477 | 23,76 | 21,717 | inte",
+   "11 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "12 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "13 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "14 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "15 | 1,8 | 3,1 | 5,58 | 5,58 | inte",
+   "16 | 2,46 | 3,1 | 7,626 | 7,626 | inte",
+   "17 | 4,16 | 3,1 | 12,896 | 12,896 | inte",
+   "18 | 3,08 | 3,1 | 9,548 | 3,96 | 5,588 | inte",
+   "19 | 5,58 | 3,1 | 17,298 | 2,2 | 15,098 | inte",
+   "20 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "21 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "22 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "23 | 5,86 | 3,1 | 18,166 | 18,166 | inte",
+   "24 | 5,82 | 3,1 | 18,042 | 18,042 | fchada",
+   "puertas | 254,169 | 2 vidrioo fachada",
+   "51,898 | 224,405 | m2 interior",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 7,69 | 3,1 | 23,839 | 23,839",
+   "2 | 16,83 | 3,1 | 52,173 | 52,173",
+   "3 | 20,39 | 3,1 | 63,209 | 63,209",
+   "4 | 22 | 3,1 | 68,2 | 68,2",
+   "5 | 18,22 | 3,1 | 56,482 | 15,84 | 40,642 | inte",
+   "6 | 4,43 | 3,1 | 13,733 | 13,733",
+   "7 | 4,43 | 3,1 | 13,733 | 13,733",
+   "8 | 4,43 | 3,1 | 13,733 | 13,733",
+   "9 | 6,45 | 3,1 | 19,995 | 4,092 | 15,903",
+   "10 | 4,38 | 3,1 | 13,578 | 13,578",
+   "11 | 4,38 | 3,1 | 13,578 | 13,578",
+   "12 | 4,38 | 3,1 | 13,578 | 13,578",
+   "13 | 4,38 | 3,1 | 13,578 | 13,578",
+   "14 | 4,38 | 3,1 | 13,578 | 13,578",
+   "15 | 15,2 | 3,1 | 47,12 | 19,8 | 27,32",
+   "16 | 14,7 | 3,1 | 45,57 | 23,76 | 21,81",
+   "17 | 3,33 | 3,1 | 10,323 | 10,323",
+   "18 | 3,33 | 3,1 | 10,323 | 10,323",
+   "19 | 3,33 | 3,1 | 10,323 | 10,323",
+   "20 | 3,33 | 3,1 | 10,323 | 10,323",
+   "21 | 3,33 | 3,1 | 10,323 | 10,323",
+   "22 | 3,33 | 3,1 | 10,323 | 10,323",
+   "puertas | 207,421 | fachada",
+   "63,492 | 276,702 | m2 interno",
+   "numero muro | largo | alto | m2 | vano | total | observacion",
+   "1 | 28,02 | 3,1 | 86,862 | 86,862",
+   "2 | 12,77 | 3,1 | 39,587 | 39,587",
+   "3 | 6,21 | 3,1 | 19,251 | 19,251",
+   "4 | 21,68 | 3,1 | 67,208 | 67,208",
+   "212,908 | m2 fachada"
+  ],
+  "imagenes": [
+   {
+    "archivo": "14.03_1.jpg",
+    "pagina": 145,
+    "px": [
+     879,
+     742
+    ]
+   },
+   {
+    "archivo": "14.03_2.jpg",
+    "pagina": 145,
+    "px": [
+     1076,
+     741
+    ]
+   },
+   {
+    "archivo": "14.03_3.jpg",
+    "pagina": 146,
+    "px": [
+     650,
+     615
+    ]
+   },
+   {
+    "archivo": "14.03_4.jpg",
+    "pagina": 147,
+    "px": [
+     882,
+     647
+    ]
+   },
+   {
+    "archivo": "14.03_5.jpg",
+    "pagina": 148,
+    "px": [
+     808,
+     716
+    ]
+   },
+   {
+    "archivo": "14.03_6.jpg",
+    "pagina": 148,
+    "px": [
+     882,
+     647
+    ]
+   },
+   {
+    "archivo": "14.03_7.jpg",
+    "pagina": 149,
+    "px": [
+     655,
+     647
+    ]
+   },
+   {
+    "archivo": "14.03_8.jpg",
+    "pagina": 150,
+    "px": [
+     751,
+     593
+    ]
+   }
+  ]
+ },
+ {
+  "item": "14.04",
+  "descripcion": "Suminsto e instalacion de divisiones de baños modulares acero inoxidable  x",
+  "unidad": "m2",
+  "cantidad": 148.62,
+  "pagina": 151,
+  "detalle": [
+   "m2",
+   "x4"
+  ],
+  "imagenes": [
+   {
+    "archivo": "14.04_1.jpg",
+    "pagina": 151,
+    "px": [
+     781,
+     416
+    ]
+   },
+   {
+    "archivo": "14.04_2.jpg",
+    "pagina": 151,
+    "px": [
+     478,
+     541
+    ]
+   },
+   {
+    "archivo": "14.04_3.jpg",
+    "pagina": 151,
+    "px": [
+     989,
+     687
+    ]
+   }
+  ]
+ },
+ {
+  "item": "14.05",
+  "descripcion": "Barandas escaleras en vidrio templado  8mm tipo 1",
+  "unidad": "ml",
+  "cantidad": 40.0,
+  "pagina": 152,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "14.05_1.jpg",
+    "pagina": 152,
+    "px": [
+     1484,
+     1710
+    ]
+   }
+  ]
+ },
+ {
+  "item": "14.06",
+  "descripcion": "Suministro e instalacion  de divisiones orinales",
+  "unidad": "und",
+  "cantidad": 25.0,
+  "pagina": 153,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "14.06_1.jpg",
+    "pagina": 153,
+    "px": [
+     1168,
+     774
+    ]
+   },
+   {
+    "archivo": "14.06_2.jpg",
+    "pagina": 153,
+    "px": [
+     735,
+     307
+    ]
+   },
+   {
+    "archivo": "14.06_3.jpg",
+    "pagina": 153,
+    "px": [
+     473,
+     658
+    ]
+   },
+   {
+    "archivo": "14.06_4.jpg",
+    "pagina": 153,
+    "px": [
+     514,
+     718
+    ]
+   },
+   {
+    "archivo": "14.06_5.jpg",
+    "pagina": 153,
+    "px": [
+     592,
+     695
+    ]
+   },
+   {
+    "archivo": "14.06_6.jpg",
+    "pagina": 153,
+    "px": [
+     503,
+     582
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.01",
+  "descripcion": "Cierlo raso en sistema drywall yeso carton bloque c labotariorio m2 doble altura",
+  "unidad": "m2",
+  "cantidad": 573.53,
+  "pagina": 154,
+  "detalle": [
+   "m2 | cielo raso doble altura bloque c laboratorio | 573,53"
+  ],
+  "imagenes": [
+   {
+    "archivo": "15.01_1.jpg",
+    "pagina": 154,
+    "px": [
+     610,
+     576
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.02",
+  "descripcion": "",
+  "unidad": "ml",
+  "cantidad": 92.31,
+  "pagina": 154,
+  "detalle": [
+   "Cielo raso en  sistema drywall yeso carton borde  descolgados o coritneros ml bloque c labotario",
+   "cielo raso descolagos o cortineros laboratiorio ml | 92,31"
+  ],
+  "imagenes": [
+   {
+    "archivo": "15.02_1.jpg",
+    "pagina": 154,
+    "px": [
+     826,
+     716
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.03",
+  "descripcion": "Cierlo raso en sistema drywall yeso carton bloque D auditiroos m2 doble altura",
+  "unidad": "m2",
+  "cantidad": 266.78,
+  "pagina": 155,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "15.03_1.jpg",
+    "pagina": 155,
+    "px": [
+     1726,
+     1496
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.04",
+  "descripcion": "Cielo raso en sistema drywall super boar zonas humedas bloque D auditorio m2",
+  "unidad": "m2",
+  "cantidad": 58.68,
+  "pagina": 155,
+  "detalle": [
+   "m2 cielo raso en yeso carton | 266,78",
+   "m2 cielo raso en boar zona humeda axul | 58,68"
+  ],
+  "imagenes": [
+   {
+    "archivo": "15.04_1.jpg",
+    "pagina": 155,
+    "px": [
+     537,
+     633
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.05",
+  "descripcion": "Cielo raso en sistema drywall yeso carton descolgados y cortineros ml bloque D auditotio",
+  "unidad": "ml",
+  "cantidad": 1.7,
+  "pagina": 156,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "15.05_1.jpg",
+    "pagina": 156,
+    "px": [
+     503,
+     572
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.06",
+  "descripcion": "Cielo raso en sistema drywall super boar zonas humedas bloque de auditorios ml",
+  "unidad": "ml",
+  "cantidad": 3.4,
+  "pagina": 156,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "15.06_1.jpg",
+    "pagina": 156,
+    "px": [
+     503,
+     572
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.07",
+  "descripcion": "Cielo raso en sistema drywall  yeso carton  bloque A y B m2",
+  "unidad": "m2",
+  "cantidad": 3331.52,
+  "pagina": 157,
+  "detalle": [
+   "m2 | yeso carton | 831,96 | 1er piso",
+   "m2 | boar | 65,97 | 1er piso",
+   "m2 | yeso carton | 840,31 | 2do piso",
+   "m2 | boar | 45,83 | 2do piso",
+   "m2 | yeso carton | 840,31 | 3ro piso",
+   "m2 | boar | 45,83 | 3ro piso",
+   "m2 | yeso carton | 318,91 | 4to piso",
+   "m2 | boar | 36,1 | 4to piso",
+   "m2 | yeso carton | 500,03 | 5to piso",
+   "m2 | boar | 36,76 | 5to piso"
+  ],
+  "imagenes": [
+   {
+    "archivo": "15.07_1.jpg",
+    "pagina": 157,
+    "px": [
+     1071,
+     598
+    ]
+   },
+   {
+    "archivo": "15.07_2.jpg",
+    "pagina": 157,
+    "px": [
+     1291,
+     649
+    ]
+   },
+   {
+    "archivo": "15.07_3.jpg",
+    "pagina": 158,
+    "px": [
+     1170,
+     612
+    ]
+   },
+   {
+    "archivo": "15.07_4.jpg",
+    "pagina": 158,
+    "px": [
+     931,
+     626
+    ]
+   },
+   {
+    "archivo": "15.07_5.jpg",
+    "pagina": 158,
+    "px": [
+     931,
+     626
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.08",
+  "descripcion": "Cielo raso en sistema drywall super boar zonas humedas bloque A y B m2",
+  "unidad": "m2",
+  "cantidad": 230.49,
+  "pagina": 159,
+  "detalle": [
+   "m2 | yeso carton | 831,96 | 1er piso",
+   "m2 | boar | 65,97 | 1er piso",
+   "m2 | yeso carton | 840,31 | 2do piso",
+   "m2 | boar | 45,83 | 2do piso",
+   "m2 | yeso carton | 840,31 | 3ro piso",
+   "m2 | boar | 45,83 | 3ro piso",
+   "m2 | yeso carton | 318,91 | 4to piso",
+   "m2 | boar | 36,1 | 4to piso",
+   "m2 | yeso carton | 500,03 | 5to piso",
+   "m2 | boar | 36,76 | 5to piso"
+  ],
+  "imagenes": [
+   {
+    "archivo": "15.08_1.jpg",
+    "pagina": 159,
+    "px": [
+     1071,
+     598
+    ]
+   },
+   {
+    "archivo": "15.08_2.jpg",
+    "pagina": 159,
+    "px": [
+     1291,
+     649
+    ]
+   },
+   {
+    "archivo": "15.08_3.jpg",
+    "pagina": 159,
+    "px": [
+     1170,
+     612
+    ]
+   },
+   {
+    "archivo": "15.08_4.jpg",
+    "pagina": 160,
+    "px": [
+     931,
+     626
+    ]
+   },
+   {
+    "archivo": "15.08_5.jpg",
+    "pagina": 160,
+    "px": [
+     629,
+     519
+    ]
+   }
+  ]
+ },
+ {
+  "item": "15.09",
+  "descripcion": "Cielo raso en sistema drywall yeso carton bloque A y B descolgados y cortinero ml",
+  "unidad": "ml",
+  "cantidad": 528.17,
+  "pagina": 161,
+  "detalle": [
+   "ml | yeso cargton | 145,61",
+   "ml | yeso cargton | 128",
+   "ml | yeso cargton | 122,99",
+   "ml | yeso cargton | 53,25",
+   "ml | yeso cargton | 78,32"
+  ],
+  "imagenes": [
+   {
+    "archivo": "15.09_1.jpg",
+    "pagina": 161,
+    "px": [
+     1422,
+     699
+    ]
+   },
+   {
+    "archivo": "15.09_2.jpg",
+    "pagina": 161,
+    "px": [
+     1358,
+     655
+    ]
+   },
+   {
+    "archivo": "15.09_3.jpg",
+    "pagina": 162,
+    "px": [
+     1232,
+     653
+    ]
+   },
+   {
+    "archivo": "15.09_4.jpg",
+    "pagina": 162,
+    "px": [
+     1214,
+     600
+    ]
+   },
+   {
+    "archivo": "15.09_5.jpg",
+    "pagina": 162,
+    "px": [
+     719,
+     532
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.01",
+  "descripcion": "Plantilla de desnivel cubierta 5 piso mortero e= 0.07",
+  "unidad": "m2",
+  "cantidad": 562.68,
+  "pagina": 163,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.01_1.jpg",
+    "pagina": 163,
+    "px": [
+     903,
+     606
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.02",
+  "descripcion": "Media caña en mortero para desnivel a pendeintes 5 piso",
+  "unidad": "ml",
+  "cantidad": 96.08,
+  "pagina": 163,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.02_1.jpg",
+    "pagina": 163,
+    "px": [
+     903,
+     606
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.03",
+  "descripcion": "Impermeabilizacion manto edil 3mm 5 piso",
+  "unidad": "m2",
+  "cantidad": 591.504,
+  "pagina": 163,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.03_1.jpg",
+    "pagina": 163,
+    "px": [
+     903,
+     606
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.04",
+  "descripcion": "Plantilla de desnivel cubierta 3er piso e 0.07",
+  "unidad": "m2",
+  "cantidad": 533.66,
+  "pagina": 164,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.04_1.jpg",
+    "pagina": 164,
+    "px": [
+     903,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.05",
+  "descripcion": "media caña mortero para desnivel a pendeintes cubierta 3er piso",
+  "unidad": "ml",
+  "cantidad": 94.16,
+  "pagina": 164,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.05_1.jpg",
+    "pagina": 164,
+    "px": [
+     903,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.07",
+  "descripcion": "impermeabilizacion mato edil 3 mm 3er piso",
+  "unidad": "m2",
+  "cantidad": 561.908,
+  "pagina": 165,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.07_1.jpg",
+    "pagina": 165,
+    "px": [
+     903,
+     709
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.08",
+  "descripcion": "Plantilla de desnivel cubierta bloque d laboratorio",
+  "unidad": "m2",
+  "cantidad": 589.27,
+  "pagina": 165,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.08_1.jpg",
+    "pagina": 165,
+    "px": [
+     901,
+     773
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.09",
+  "descripcion": "Media caña mortero para desnivel a pendeintes cubierta bloque D",
+  "unidad": "ml",
+  "cantidad": 119.11,
+  "pagina": 165,
+  "detalle": [
+   "labotarios"
+  ],
+  "imagenes": [
+   {
+    "archivo": "16.09_1.jpg",
+    "pagina": 165,
+    "px": [
+     901,
+     773
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.10",
+  "descripcion": "Impermeabilizacion manto edil 3mm bloque D laboratorios",
+  "unidad": "m2",
+  "cantidad": 625.003,
+  "pagina": 166,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.10_1.jpg",
+    "pagina": 166,
+    "px": [
+     901,
+     773
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.11",
+  "descripcion": "Plantilla de desnivel  cubierta bloque C auditorio",
+  "unidad": "m2",
+  "cantidad": 321.8,
+  "pagina": 166,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.11_1.jpg",
+    "pagina": 166,
+    "px": [
+     599,
+     708
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.12",
+  "descripcion": "Media caña en mortero para denivel a pendientes bloque C auditorio",
+  "unidad": "ml",
+  "cantidad": 72.5,
+  "pagina": 167,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.12_1.jpg",
+    "pagina": 167,
+    "px": [
+     599,
+     708
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.13",
+  "descripcion": "Impermeabilizacion manto edil 3 mm  cubierta bloque C aunditorio",
+  "unidad": "m2",
+  "cantidad": 343.55,
+  "pagina": 168,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.13_1.jpg",
+    "pagina": 168,
+    "px": [
+     599,
+     708
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.14",
+  "descripcion": "Impermeabilizacion de baños y zonas humedas tela y emolsion asfaltica",
+  "unidad": "m2",
+  "cantidad": 266.48,
+  "pagina": 168,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.14_1.jpg",
+    "pagina": 168,
+    "px": [
+     1095,
+     575
+    ]
+   },
+   {
+    "archivo": "16.14_2.jpg",
+    "pagina": 168,
+    "px": [
+     945,
+     720
+    ]
+   },
+   {
+    "archivo": "16.14_3.jpg",
+    "pagina": 169,
+    "px": [
+     632,
+     632
+    ]
+   },
+   {
+    "archivo": "16.14_4.jpg",
+    "pagina": 169,
+    "px": [
+     551,
+     625
+    ]
+   },
+   {
+    "archivo": "16.14_5.jpg",
+    "pagina": 169,
+    "px": [
+     656,
+     627
+    ]
+   },
+   {
+    "archivo": "16.14_6.jpg",
+    "pagina": 169,
+    "px": [
+     536,
+     556
+    ]
+   }
+  ]
+ },
+ {
+  "item": "16.15",
+  "descripcion": "Impermeabilizacion de jardineras internas",
+  "unidad": "m2",
+  "cantidad": 58.49,
+  "pagina": 170,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "16.15_1.jpg",
+    "pagina": 170,
+    "px": [
+     699,
+     578
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.01",
+  "descripcion": "Plantilla de nivelacion 0.04 mts de espesor bloque C laboraorios",
+  "unidad": "m2",
+  "cantidad": 589.27,
+  "pagina": 171,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.01_1.jpg",
+    "pagina": 171,
+    "px": [
+     702,
+     574
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.02",
+  "descripcion": "instalacion de piso porcelanato antideslzante bloque C labotarior",
+  "unidad": "m2",
+  "cantidad": 589.27,
+  "pagina": 171,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.02_1.jpg",
+    "pagina": 171,
+    "px": [
+     702,
+     574
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.03",
+  "descripcion": "Instalacion de zocalo porcelanato antideslizante bloque C labotario",
+  "unidad": "ml",
+  "cantidad": 294.0,
+  "pagina": 172,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.03_1.jpg",
+    "pagina": 172,
+    "px": [
+     702,
+     574
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.04",
+  "descripcion": "Plantilla de piso nivelacion 0.04espesor bloque D auditorios m2",
+  "unidad": "m2",
+  "cantidad": 321.8,
+  "pagina": 172,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.04_1.jpg",
+    "pagina": 172,
+    "px": [
+     531,
+     630
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.05",
+  "descripcion": "instalacion de alfobra tipo hotel en auditorio bloque D",
+  "unidad": "m2",
+  "cantidad": 297.25,
+  "pagina": 173,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.05_1.jpg",
+    "pagina": 173,
+    "px": [
+     531,
+     630
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.06",
+  "descripcion": "Plantilla de nivelacion 0.04 mts espedor bloque A y B",
+  "unidad": "m2",
+  "cantidad": 3349.6,
+  "pagina": 173,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.06_1.jpg",
+    "pagina": 173,
+    "px": [
+     1485,
+     753
+    ]
+   },
+   {
+    "archivo": "17.06_2.jpg",
+    "pagina": 174,
+    "px": [
+     1312,
+     685
+    ]
+   },
+   {
+    "archivo": "17.06_3.jpg",
+    "pagina": 174,
+    "px": [
+     1350,
+     686
+    ]
+   },
+   {
+    "archivo": "17.06_4.jpg",
+    "pagina": 174,
+    "px": [
+     889,
+     587
+    ]
+   },
+   {
+    "archivo": "17.06_5.jpg",
+    "pagina": 175,
+    "px": [
+     889,
+     587
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.07",
+  "descripcion": "instalacion de piso porcelanato bloque A y B",
+  "unidad": "m2",
+  "cantidad": 3349.6,
+  "pagina": 175,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.07_1.jpg",
+    "pagina": 175,
+    "px": [
+     1485,
+     753
+    ]
+   },
+   {
+    "archivo": "17.07_2.jpg",
+    "pagina": 175,
+    "px": [
+     1312,
+     685
+    ]
+   },
+   {
+    "archivo": "17.07_3.jpg",
+    "pagina": 176,
+    "px": [
+     1350,
+     686
+    ]
+   },
+   {
+    "archivo": "17.07_4.jpg",
+    "pagina": 176,
+    "px": [
+     889,
+     587
+    ]
+   },
+   {
+    "archivo": "17.07_5.jpg",
+    "pagina": 177,
+    "px": [
+     889,
+     587
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.08",
+  "descripcion": "Instalacion de zocalos en procelantato bloque A y B",
+  "unidad": "ml",
+  "cantidad": 840.36,
+  "pagina": 177,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.08_1.jpg",
+    "pagina": 177,
+    "px": [
+     1485,
+     753
+    ]
+   },
+   {
+    "archivo": "17.08_2.jpg",
+    "pagina": 177,
+    "px": [
+     1312,
+     685
+    ]
+   },
+   {
+    "archivo": "17.08_3.jpg",
+    "pagina": 178,
+    "px": [
+     1350,
+     686
+    ]
+   },
+   {
+    "archivo": "17.08_4.jpg",
+    "pagina": 178,
+    "px": [
+     889,
+     587
+    ]
+   },
+   {
+    "archivo": "17.08_5.jpg",
+    "pagina": 179,
+    "px": [
+     889,
+     587
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.09",
+  "descripcion": "Plantilla de nivelacion mortero impermeabilizado zonas humedas baños",
+  "unidad": "m2",
+  "cantidad": 266.48,
+  "pagina": 179,
+  "detalle": [
+   "bloque d auditorios y bloque a y b baño"
+  ],
+  "imagenes": [
+   {
+    "archivo": "17.09_1.jpg",
+    "pagina": 179,
+    "px": [
+     642,
+     858
+    ]
+   },
+   {
+    "archivo": "17.09_2.jpg",
+    "pagina": 179,
+    "px": [
+     822,
+     680
+    ]
+   },
+   {
+    "archivo": "17.09_3.jpg",
+    "pagina": 179,
+    "px": [
+     642,
+     858
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.10",
+  "descripcion": "Instalacion de piso porcelantao antideslizante baños zonas humedas",
+  "unidad": "m2",
+  "cantidad": 266.48,
+  "pagina": 180,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.10_1.jpg",
+    "pagina": 180,
+    "px": [
+     642,
+     858
+    ]
+   },
+   {
+    "archivo": "17.10_2.jpg",
+    "pagina": 180,
+    "px": [
+     822,
+     680
+    ]
+   },
+   {
+    "archivo": "17.10_3.jpg",
+    "pagina": 180,
+    "px": [
+     642,
+     858
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.11",
+  "descripcion": "Plantilla de nivelacion escaleras",
+  "unidad": "m2",
+  "cantidad": 226.08,
+  "pagina": 180,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.11_1.jpg",
+    "pagina": 180,
+    "px": [
+     1724,
+     543
+    ]
+   },
+   {
+    "archivo": "17.11_2.jpg",
+    "pagina": 180,
+    "px": [
+     942,
+     515
+    ]
+   }
+  ]
+ },
+ {
+  "item": "17.12",
+  "descripcion": "Instalacion de piso porcelanato escaleras",
+  "unidad": "m2",
+  "cantidad": 226.08,
+  "pagina": 181,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "17.12_1.jpg",
+    "pagina": 181,
+    "px": [
+     1724,
+     543
+    ]
+   },
+   {
+    "archivo": "17.12_2.jpg",
+    "pagina": 181,
+    "px": [
+     942,
+     515
+    ]
+   }
+  ]
+ },
+ {
+  "item": "18.01",
+  "descripcion": "Enchape de muros baños bloque a b c y d",
+  "unidad": "m2",
+  "cantidad": 776.49,
+  "pagina": 182,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "18.01_1.jpg",
+    "pagina": 182,
+    "px": [
+     929,
+     721
+    ]
+   },
+   {
+    "archivo": "18.01_2.jpg",
+    "pagina": 182,
+    "px": [
+     1157,
+     588
+    ]
+   },
+   {
+    "archivo": "18.01_3.jpg",
+    "pagina": 182,
+    "px": [
+     507,
+     535
+    ]
+   },
+   {
+    "archivo": "18.01_4.jpg",
+    "pagina": 182,
+    "px": [
+     636,
+     629
+    ]
+   },
+   {
+    "archivo": "18.01_5.jpg",
+    "pagina": 182,
+    "px": [
+     517,
+     539
+    ]
+   },
+   {
+    "archivo": "18.01_6.jpg",
+    "pagina": 182,
+    "px": [
+     512,
+     525
+    ]
+   }
+  ]
+ },
+ {
+  "item": "18.02",
+  "descripcion": "Enchape muros acceso ascensores 5 pisos",
+  "unidad": "m2",
+  "cantidad": 70.35,
+  "pagina": 183,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "18.02_1.jpg",
+    "pagina": 183,
+    "px": [
+     1131,
+     482
+    ]
+   }
+  ]
+ },
+ {
+  "item": "18.03",
+  "descripcion": "Mesones de granitos laboratorios",
+  "unidad": "m2",
+  "cantidad": 29.34,
+  "pagina": 183,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "18.03_1.jpg",
+    "pagina": 183,
+    "px": [
+     593,
+     550
+    ]
+   }
+  ]
+ },
+ {
+  "item": "18.04",
+  "descripcion": "Cubierta mesones cocinetas 1er piso 0.60 ancho",
+  "unidad": "ml",
+  "cantidad": 5.68,
+  "pagina": 184,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "18.04_1.jpg",
+    "pagina": 184,
+    "px": [
+     435,
+     640
+    ]
+   }
+  ]
+ },
+ {
+  "item": "18.05",
+  "descripcion": "Mesones granito lavamanos x ml",
+  "unidad": "ml",
+  "cantidad": 41.87,
+  "pagina": 184,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "18.05_1.jpg",
+    "pagina": 184,
+    "px": [
+     642,
+     858
+    ]
+   },
+   {
+    "archivo": "18.05_2.jpg",
+    "pagina": 184,
+    "px": [
+     822,
+     680
+    ]
+   },
+   {
+    "archivo": "18.05_3.jpg",
+    "pagina": 184,
+    "px": [
+     642,
+     858
+    ]
+   }
+  ]
+ },
+ {
+  "item": "18.06",
+  "descripcion": "Piso porcelanato ascensor m2",
+  "unidad": "m2",
+  "cantidad": 7.2,
+  "pagina": 185,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "18.06_1.jpg",
+    "pagina": 185,
+    "px": [
+     1467,
+     585
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.04",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 186,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.04_1.jpg",
+    "pagina": 186,
+    "px": [
+     1280,
+     966
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.05",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 186,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.05_1.jpg",
+    "pagina": 186,
+    "px": [
+     1280,
+     1138
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.06",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 187,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.06_1.jpg",
+    "pagina": 187,
+    "px": [
+     1254,
+     1264
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.09",
+  "descripcion": "Equipo Casette Ciac-Carrier. R410A-220v-1f-60hz",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 187,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.09_1.jpg",
+    "pagina": 187,
+    "px": [
+     1280,
+     1138
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.10",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 188,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.10_1.jpg",
+    "pagina": 188,
+    "px": [
+     1280,
+     1138
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.13",
+  "descripcion": "Equipo Casette Ciac-Carrier. R410A-220v-1f-60hz",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 188,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.13_1.jpg",
+    "pagina": 188,
+    "px": [
+     1254,
+     1264
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.14",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 189,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.14_1.jpg",
+    "pagina": 189,
+    "px": [
+     1254,
+     1264
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.15",
+  "descripcion": "Equipo Minisplit Midea. R410A-220v-1f-60hz",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 189,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.15_1.jpg",
+    "pagina": 189,
+    "px": [
+     1254,
+     1264
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.16",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 4.0,
+  "pagina": 190,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.16_1.jpg",
+    "pagina": 190,
+    "px": [
+     1254,
+     1264
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.19",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 190,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.19_1.jpg",
+    "pagina": 190,
+    "px": [
+     1280,
+     1202
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.20",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio Honeywell Smart",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 191,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.20_1.jpg",
+    "pagina": 191,
+    "px": [
+     1280,
+     1202
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.21",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 191,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.21_1.jpg",
+    "pagina": 191,
+    "px": [
+     1280,
+     1202
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.24",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 192,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.24_1.jpg",
+    "pagina": 192,
+    "px": [
+     1280,
+     745
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.25",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio Honeywell Smart",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 192,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.25_1.jpg",
+    "pagina": 192,
+    "px": [
+     1280,
+     745
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.26",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 192,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.26_1.jpg",
+    "pagina": 192,
+    "px": [
+     1280,
+     745
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.29",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 193,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.29_1.jpg",
+    "pagina": 193,
+    "px": [
+     1280,
+     1235
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.30",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio Honeywell Smart",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 193,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.30_1.jpg",
+    "pagina": 193,
+    "px": [
+     1280,
+     1235
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.31",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 194,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.31_1.jpg",
+    "pagina": 194,
+    "px": [
+     1280,
+     1235
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.32",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 194,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.32_1.jpg",
+    "pagina": 194,
+    "px": [
+     1280,
+     1235
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.33",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio Honeywell Smart",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 195,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.33_1.jpg",
+    "pagina": 195,
+    "px": [
+     1280,
+     1235
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.34",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 195,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.34_1.jpg",
+    "pagina": 195,
+    "px": [
+     1280,
+     1235
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.37",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 196,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.37_1.jpg",
+    "pagina": 196,
+    "px": [
+     1280,
+     1257
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.38",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio Honeywell Smart",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 196,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.38_1.jpg",
+    "pagina": 196,
+    "px": [
+     1280,
+     1257
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.39",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 197,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.39_1.jpg",
+    "pagina": 197,
+    "px": [
+     1280,
+     1257
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.42",
+  "descripcion": "Equipo Casette Ciac-Carrier. R410A-220v-1f-60hz",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 197,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.42_1.jpg",
+    "pagina": 197,
+    "px": [
+     1280,
+     598
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.43",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 197,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.43_1.jpg",
+    "pagina": 197,
+    "px": [
+     1280,
+     598
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.44",
+  "descripcion": "Equipo Central ductos-Carrier. R410A-220v-3f-60hz",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 198,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.44_1.jpg",
+    "pagina": 198,
+    "px": [
+     1280,
+     598
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.45",
+  "descripcion": "Termostato Digital programable 24V, 2 etapas de frio Honeywell Smart",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 198,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.45_1.jpg",
+    "pagina": 198,
+    "px": [
+     1280,
+     598
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.46",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 198,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.46_1.jpg",
+    "pagina": 198,
+    "px": [
+     1280,
+     598
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.49",
+  "descripcion": "Equipo Casette Ciac-Carrier. R410A-220v-1f-60hz",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 199,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.49_1.jpg",
+    "pagina": 199,
+    "px": [
+     1280,
+     607
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.50",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 199,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.50_1.jpg",
+    "pagina": 199,
+    "px": [
+     1280,
+     607
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.52",
+  "descripcion": "Equipo Casette Ciac-Carrier. R410A-220v-1f-60hz",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 199,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.52_1.jpg",
+    "pagina": 199,
+    "px": [
+     1280,
+     485
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.53",
+  "descripcion": "Puesta en sitio, montaje y conexión",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "19.53_1.jpg",
+    "pagina": 200,
+    "px": [
+     1280,
+     485
+    ]
+   }
+  ]
+ },
+ {
+  "item": "19.56",
+  "descripcion": "Purificacion de aire UVC-28 de 56W UVC,  18000 horas,   0% Ozono, a 254nm,",
+  "unidad": "und",
+  "cantidad": 12.0,
+  "pagina": 200,
+  "detalle": [
+   "99,5% efectividad. Totalmente germicida .De Philips. Casettes"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "19.57",
+  "descripcion": "Purificacion de aire UVC-84 de 56W UVC,  18000 horas,   0% Ozono, a 254nm,",
+  "unidad": "und",
+  "cantidad": 10.0,
+  "pagina": 200,
+  "detalle": [
+   "99,5% efectividad. Totalmente germicida .De Philips. Central ductos"
+  ],
+  "imagenes": []
+ },
+ {
+  "item": "19.59",
+  "descripcion": "Red de refrigeración 1-1/8\" - 1/2\"",
+  "unidad": "ml",
+  "cantidad": 272.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.60",
+  "descripcion": "Red de refrigeración 7/8\" - 3/8\"",
+  "unidad": "ml",
+  "cantidad": 276.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.61",
+  "descripcion": "Red de refrigeración 5/8\" - 3/8\"",
+  "unidad": "ml",
+  "cantidad": 48.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.63",
+  "descripcion": "Sistema de conductos de Suministro. Diseño, suministro e instalacion",
+  "unidad": "m2",
+  "cantidad": 546.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.64",
+  "descripcion": "Sistema de conductos de Retorno. Diseño, suministro e instalacion",
+  "unidad": "m2",
+  "cantidad": 234.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.66",
+  "descripcion": "DS4V 14\" X14\"-Con Damper, aleta fija, Blancas",
+  "unidad": "und",
+  "cantidad": 10.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.67",
+  "descripcion": "DS4V 14\" X12\"-Con Damper, aleta fija, Blancas",
+  "unidad": "und",
+  "cantidad": 36.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.68",
+  "descripcion": "DS4V 12\" X12\"-Con Damper, aleta fija, Blancas",
+  "unidad": "und",
+  "cantidad": 14.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.69",
+  "descripcion": "DS4V 10\" X10\"-Con Damper, aleta fija, Blancas",
+  "unidad": "und",
+  "cantidad": 15.0,
+  "pagina": 200,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.70",
+  "descripcion": "RR 24X24 BL-Sin damper",
+  "unidad": "und",
+  "cantidad": 5.0,
+  "pagina": 201,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.71",
+  "descripcion": "RR 12X12 BL-Sin damper",
+  "unidad": "und",
+  "cantidad": 24.0,
+  "pagina": 201,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.73",
+  "descripcion": "Refrigerante R410A",
+  "unidad": "kg",
+  "cantidad": 125.0,
+  "pagina": 201,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.74",
+  "descripcion": "Filtros secadores Danfos soldables R410a -10.0 TON",
+  "unidad": "und",
+  "cantidad": 10.0,
+  "pagina": 201,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.75",
+  "descripcion": "Filtros secadores Danfos soldables R410a -15.0 TON",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 201,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "19.76",
+  "descripcion": "Filtros secadores Danfos soldables R410a -5.0 TON",
+  "unidad": "und",
+  "cantidad": 18.0,
+  "pagina": 201,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "22.01",
+  "descripcion": "Equipo de citofonía",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 202,
+  "detalle": [
+   "Ascensores 900 kg 5 paradas 1m/s cabina y puertas en acero inoxidable Operacion"
+  ],
+  "imagenes": [
+   {
+    "archivo": "22.01_1.jpg",
+    "pagina": 202,
+    "px": [
+     1164,
+     830
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.02",
+  "descripcion": "triblex suministro instalacion",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 202,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.02_1.jpg",
+    "pagina": 202,
+    "px": [
+     1840,
+     1432
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.03",
+  "descripcion": "Estufa con dos parrillas de encendido electrónico",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 203,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.03_1.jpg",
+    "pagina": 203,
+    "px": [
+     1124,
+     776
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.04",
+  "descripcion": "Campana extractora",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 203,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.04_1.jpg",
+    "pagina": 203,
+    "px": [
+     2248,
+     1552
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.05",
+  "descripcion": "Horno con luz interior",
+  "unidad": "und",
+  "cantidad": 2.0,
+  "pagina": 204,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.05_1.jpg",
+    "pagina": 204,
+    "px": [
+     2248,
+     1552
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.07",
+  "descripcion": "Medidores de agua potable",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 204,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.07_1.jpg",
+    "pagina": 204,
+    "px": [
+     1371,
+     988
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.08",
+  "descripcion": "Medidores de energía eléctrica",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 205,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.08_1.jpg",
+    "pagina": 205,
+    "px": [
+     1164,
+     830
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.09",
+  "descripcion": "Señalizacion",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 205,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.09_1.jpg",
+    "pagina": 205,
+    "px": [
+     1942,
+     1398
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.10",
+  "descripcion": "Avisos nombre edifiicio",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 206,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.10_1.jpg",
+    "pagina": 206,
+    "px": [
+     2094,
+     1416
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.11",
+  "descripcion": "Nomenclatura edifiicio",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 206,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "22.11_1.jpg",
+    "pagina": 206,
+    "px": [
+     2094,
+     1416
+    ]
+   }
+  ]
+ },
+ {
+  "item": "22.12",
+  "descripcion": "Nomeclatura zonas comunes y socialess",
+  "unidad": "und",
+  "cantidad": 1.0,
+  "pagina": 206,
+  "detalle": [],
+  "imagenes": []
+ },
+ {
+  "item": "24.01",
+  "descripcion": "Rellenos y compatacion niveles",
+  "unidad": "m³",
+  "cantidad": 417.0,
+  "pagina": 207,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.01_1.jpg",
+    "pagina": 207,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.02",
+  "descripcion": "Tazado y replanteo exterior",
+  "unidad": "m²",
+  "cantidad": 2550.74,
+  "pagina": 207,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.02_1.jpg",
+    "pagina": 207,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.03",
+  "descripcion": "Levante en bloque cemento jardinera",
+  "unidad": "m²",
+  "cantidad": 22.0,
+  "pagina": 208,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.03_1.jpg",
+    "pagina": 208,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.04",
+  "descripcion": "Levante bloque cemento jardineras",
+  "unidad": "ml",
+  "cantidad": 29.63,
+  "pagina": 208,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.04_1.jpg",
+    "pagina": 208,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.05",
+  "descripcion": "Pavimento estampado con color floor",
+  "unidad": "m²",
+  "cantidad": 58.11,
+  "pagina": 209,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.05_1.jpg",
+    "pagina": 209,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.06",
+  "descripcion": "Suministro e nstalacion de gramoquin",
+  "unidad": "m²",
+  "cantidad": 1865.08,
+  "pagina": 209,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.06_1.jpg",
+    "pagina": 209,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.07",
+  "descripcion": "Bordillo en concreto",
+  "unidad": "ml",
+  "cantidad": 309.65,
+  "pagina": 210,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.07_1.jpg",
+    "pagina": 210,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "24.08",
+  "descripcion": "Piso perimetro anden edifico",
+  "unidad": "m²",
+  "cantidad": 575.76,
+  "pagina": 210,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "24.08_1.jpg",
+    "pagina": 210,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "25.01",
+  "descripcion": "Escalera tipo 1",
+  "unidad": "m3",
+  "cantidad": 2.5,
+  "pagina": 211,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "25.01_1.jpg",
+    "pagina": 211,
+    "px": [
+     1618,
+     1268
+    ]
+   }
+  ]
+ },
+ {
+  "item": "25.02",
+  "descripcion": "Impermeabilización sikafell y emulsión asfáltica para baños m2",
+  "unidad": "m2",
+  "cantidad": 9.34,
+  "pagina": 212,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "25.02_1.jpg",
+    "pagina": 212,
+    "px": [
+     334,
+     518
+    ]
+   },
+   {
+    "archivo": "25.02_2.jpg",
+    "pagina": 212,
+    "px": [
+     574,
+     462
+    ]
+   },
+   {
+    "archivo": "25.02_3.jpg",
+    "pagina": 212,
+    "px": [
+     284,
+     356
+    ]
+   },
+   {
+    "archivo": "25.02_4.jpg",
+    "pagina": 212,
+    "px": [
+     242,
+     304
+    ]
+   },
+   {
+    "archivo": "25.02_5.jpg",
+    "pagina": 212,
+    "px": [
+     274,
+     342
+    ]
+   }
+  ]
+ },
+ {
+  "item": "25.03",
+  "descripcion": "Losa aligerada icopor ES0,70 CONCRETO 3000 PSI Losa aligerada en concreto  y vigas aereas y vacios nivel 7.80 y 11.60 2da losa y 3er losa",
+  "unidad": "m3",
+  "cantidad": 33.53,
+  "pagina": 213,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "25.03_1.jpg",
+    "pagina": 213,
+    "px": [
+     1578,
+     1282
+    ]
+   }
+  ]
+ },
+ {
+  "item": "25.04",
+  "descripcion": "Losa maciza e=0,15 concreto 3000 PSI aligerada en concreto  y vigas aereas y vacios nivel 7.80 y 11.60 2da losa y 3er losa",
+  "unidad": "m3",
+  "cantidad": 95.98,
+  "pagina": 214,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "25.04_1.jpg",
+    "pagina": 214,
+    "px": [
+     1578,
+     1282
+    ]
+   }
+  ]
+ },
+ {
+  "item": "26.01",
+  "descripcion": "Plantas ornamentales",
+  "unidad": "und",
+  "cantidad": 30.0,
+  "pagina": 215,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "26.01_1.jpg",
+    "pagina": 215,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "26.02",
+  "descripcion": "Plantas medianas",
+  "unidad": "und",
+  "cantidad": 10.0,
+  "pagina": 215,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "26.02_1.jpg",
+    "pagina": 215,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "26.03",
+  "descripcion": "Grama tapete",
+  "unidad": "m2",
+  "cantidad": 48.0,
+  "pagina": 216,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "26.03_1.jpg",
+    "pagina": 216,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "26.04",
+  "descripcion": "Grama moñito para adoquin (gramoquin)",
+  "unidad": "m2",
+  "cantidad": 80.0,
+  "pagina": 216,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "26.04_1.jpg",
+    "pagina": 216,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "26.05",
+  "descripcion": "Palmeras grande",
+  "unidad": "und",
+  "cantidad": 3.0,
+  "pagina": 217,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "26.05_1.jpg",
+    "pagina": 217,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "26.06",
+  "descripcion": "Relleno tierra negra",
+  "unidad": "m3",
+  "cantidad": 8.0,
+  "pagina": 217,
+  "detalle": [
+   "27.00.01   FILTRO FRÁNCES"
+  ],
+  "imagenes": [
+   {
+    "archivo": "26.06_1.jpg",
+    "pagina": 217,
+    "px": [
+     1141,
+     783
+    ]
+   }
+  ]
+ },
+ {
+  "item": "27.01",
+  "descripcion": "Excavación mécanica de 1,00 mt",
+  "unidad": "m³",
+  "cantidad": 11.72,
+  "pagina": 218,
+  "detalle": [
+   "Longitud | Ancho | Profundidad | Volúmen",
+   "23,43 | 0,5 | 1 | 11,72"
+  ],
+  "imagenes": [
+   {
+    "archivo": "27.01_1.jpg",
+    "pagina": 218,
+    "px": [
+     1146,
+     677
+    ]
+   }
+  ]
+ },
+ {
+  "item": "27.02",
+  "descripcion": "Suministro e instalación de geotextil",
+  "unidad": "m²",
+  "cantidad": 70.29,
+  "pagina": 218,
+  "detalle": [
+   "Longitud | Ancho | Cantidad | Area 1",
+   "23,43 | 0,5 | 2 | 23,43",
+   "23,43 | 1 | 2 | 46,86",
+   "70,29"
+  ],
+  "imagenes": [
+   {
+    "archivo": "27.02_1.jpg",
+    "pagina": 218,
+    "px": [
+     538,
+     487
+    ]
+   },
+   {
+    "archivo": "27.02_2.jpg",
+    "pagina": 219,
+    "px": [
+     538,
+     487
+    ]
+   }
+  ]
+ },
+ {
+  "item": "27.03",
+  "descripcion": "Relleno y compactación con material",
+  "unidad": "m³",
+  "cantidad": 2.34,
+  "pagina": 219,
+  "detalle": [
+   "seleccionado para filtro tipo arena",
+   "Longitud | Ancho | Espesor | Volúmen",
+   "23,43 | 0,5 | 0,2 | 2,343",
+   "2,343"
+  ],
+  "imagenes": [
+   {
+    "archivo": "27.03_1.jpg",
+    "pagina": 219,
+    "px": [
+     538,
+     487
+    ]
+   }
+  ]
+ },
+ {
+  "item": "27.04",
+  "descripcion": "Suministro e instalación de tubería de 4\"",
+  "unidad": "ml",
+  "cantidad": 23.43,
+  "pagina": 219,
+  "detalle": [
+   "perforada para filtro",
+   "Longitud | Longitud",
+   "23,43 | 23,43",
+   "23,43"
+  ],
+  "imagenes": [
+   {
+    "archivo": "27.04_1.jpg",
+    "pagina": 219,
+    "px": [
+     538,
+     487
+    ]
+   }
+  ]
+ },
+ {
+  "item": "27.05",
+  "descripcion": "Relleno con material seleccionado",
+  "unidad": "m3",
+  "cantidad": 9.37,
+  "pagina": 220,
+  "detalle": [
+   "filtrante tipo grava",
+   "Longitud | Ancho | Espesor | Volúmen",
+   "23,43 | 0,5 | 0,8 | 9,372",
+   "9,372"
+  ],
+  "imagenes": [
+   {
+    "archivo": "27.05_1.jpg",
+    "pagina": 220,
+    "px": [
+     538,
+     487
+    ]
+   }
+  ]
+ },
+ {
+  "item": "29.01",
+  "descripcion": "Cuadrilla ayudantes de oficios varios",
+  "unidad": "d",
+  "cantidad": 150.0,
+  "pagina": 221,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "29.01_1.jpg",
+    "pagina": 221,
+    "px": [
+     1280,
+     940
+    ]
+   }
+  ]
+ },
+ {
+  "item": "29.02",
+  "descripcion": "Retiro de material sobrante",
+  "unidad": "m3",
+  "cantidad": 550.0,
+  "pagina": 221,
+  "detalle": [],
+  "imagenes": [
+   {
+    "archivo": "29.02_1.jpg",
+    "pagina": 221,
+    "px": [
+     1280,
+     940
+    ]
+   }
+  ]
+ }
+]

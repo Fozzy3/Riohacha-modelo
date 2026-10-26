@@ -1,0 +1,60 @@
+{
+  "source": "Planos Gedco, Arq. Alvin Prieto, 12-08-2021. Huellas: A-111 (1:100). Alturas: A-106 a A-109.",
+  "ptToM": 0.0352778,
+  "planCenter": [1500, 950],
+  "siteOffset": [-90, -67],
+  "rotationDeg": 0,
+  "blocks": [
+    {
+      "id": "principal", "name": "Bloque Principal",
+      "poly": [[1195, 395], [1860, 395], [1860, 805], [1195, 805]],
+      "floors": [0.4, 4.0, 7.8, 11.6, 15.4], "roof": 19.2, "top": 21.0,
+      "skin": {
+        "default": [{ "to": 4.0, "type": "glass" }, { "to": 21.0, "type": "slats" }],
+        "N": [{ "to": 4.0, "type": "glass" }, { "to": 11.6, "type": "glassX" }, { "to": 21.0, "type": "slats" }]
+      },
+      "pv": true
+    },
+    {
+      "id": "b", "name": "Bloque B",
+      "poly": [[1872, 382], [2092, 289], [2337, 178], [2535, 619], [2290, 728], [2075, 825], [1992, 661], [1872, 661]],
+      "floors": [0.4, 4.0, 7.8], "roof": 11.6, "top": 11.9,
+      "skin": {
+        "default": [{ "to": 4.0, "type": "glass" }, { "to": 11.9, "type": "slats" }],
+        "N": [{ "to": 4.0, "type": "glass" }, { "to": 11.9, "type": "darkSlats" }]
+      },
+      "pv": true
+    },
+    {
+      "id": "auditorio", "name": "Bloque Auditorio",
+      "poly": [[1808, 840], [2165, 840], [2165, 1324], [1808, 1324]],
+      "floors": [0.4], "roof": 7.8, "top": 7.8,
+      "skin": {
+        "default": [{ "to": 7.8, "type": "slats" }],
+        "W": [{ "to": 3.3, "type": "glass" }, { "to": 7.8, "type": "stucco" }]
+      },
+      "pv": true
+    },
+    {
+      "id": "labs", "name": "Bloque Laboratorios",
+      "poly": [[1076, 699], [1283, 906], [593, 1596], [387, 1389]],
+      "floors": [0.4], "roof": 5.9, "top": 5.9,
+      "skin": {
+        "default": [{ "to": 3.3, "type": "stucco" }, { "to": 5.9, "type": "stucco" }],
+        "SE": [{ "to": 3.3, "type": "glass" }, { "to": 5.9, "type": "stucco" }],
+        "NE": [{ "to": 3.3, "type": "glass" }, { "to": 5.9, "type": "slats" }]
+      },
+      "pv": false
+    }
+  ],
+  "canopy": { "from": [1080, 820], "to": [1860, 820], "depth": 3.6, "low": 4.6, "high": 6.6, "fold": 4.0 },
+  "site": {
+    "lot": [[1092, 208], [2010, 208], [2208, 109], [2622, 631], [2262, 793], [2262, 1540], [894, 1540], [570, 1783], [345, 1576], [1092, 487]],
+    "walk": [[1405, 905], [1465, 905], [1465, 1540], [1405, 1540]],
+    "lawns": [[[840, 1630], [1395, 1630], [1395, 1785], [690, 1785]], [[1495, 1630], [2565, 1630], [2565, 1785], [1495, 1785]]],
+    "garden": [[1872, 661], [1992, 661], [2070, 820], [1872, 820]],
+    "palms": [[1308, 1540], [1587, 1540], [1740, 1540]],
+    "ornamental": 30,
+    "medium": 10
+  }
+}

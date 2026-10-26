@@ -1,0 +1,140 @@
+{
+ "estado": "dia",
+ "mapas": {
+  "Estuco blanco|C": {
+   "archivo": "estuco-blanco-c.webp",
+   "escala": 41.90834045410156,
+   "lado": 1024,
+   "con_color": false
+  },
+  "Estuco blanco|A": {
+   "archivo": "estuco-blanco-a.webp",
+   "escala": 45.859649658203125,
+   "lado": 512,
+   "con_color": false
+  },
+  "Estuco blanco|B": {
+   "archivo": "estuco-blanco-b.webp",
+   "escala": 43.29991149902344,
+   "lado": 512,
+   "con_color": false
+  },
+  "Estuco blanco|D": {
+   "archivo": "estuco-blanco-d.webp",
+   "escala": 47.99824142456055,
+   "lado": 1024,
+   "con_color": false
+  },
+  "Concreto|C": {
+   "archivo": "concreto-c.webp",
+   "escala": 38.76595687866211,
+   "lado": 1024,
+   "con_color": false
+  },
+  "Concreto|D": {
+   "archivo": "concreto-d.webp",
+   "escala": 44.65324401855469,
+   "lado": 1024,
+   "con_color": false
+  },
+  "Concreto|B": {
+   "archivo": "concreto-b.webp",
+   "escala": 37.34796142578125,
+   "lado": 2048,
+   "con_color": false
+  },
+  "Concreto|A": {
+   "archivo": "concreto-a.webp",
+   "escala": 43.14065933227539,
+   "lado": 2048,
+   "con_color": false
+  },
+  "Franja aluminio compuesto|B": {
+   "archivo": "franja-aluminio-compuesto-b.webp",
+   "escala": 37.78183364868164,
+   "lado": 256,
+   "con_color": false
+  },
+  "Franja aluminio compuesto|A": {
+   "archivo": "franja-aluminio-compuesto-a.webp",
+   "escala": 48.034759521484375,
+   "lado": 512,
+   "con_color": false
+  },
+  "Marco aluminio compuesto|A": {
+   "archivo": "marco-aluminio-compuesto-a.webp",
+   "escala": 47.03722381591797,
+   "lado": 256,
+   "con_color": false
+  },
+  "Gramoquín|sitio": {
+   "archivo": "gramoquin-sitio.webp",
+   "escala": 33.238037109375,
+   "lado": 1024,
+   "con_color": false
+  },
+  "Andén|sitio": {
+   "archivo": "anden-sitio.webp",
+   "escala": 34.42804718017578,
+   "lado": 512,
+   "con_color": false
+  },
+  "Concreto|sitio": {
+   "archivo": "concreto-sitio.webp",
+   "escala": 46.826744079589844,
+   "lado": 1024,
+   "con_color": false
+  },
+  "Estuco blanco|sitio": {
+   "archivo": "estuco-blanco-sitio.webp",
+   "escala": 47.00123977661133,
+   "lado": 128,
+   "con_color": false
+  },
+  "Terreno": {
+   "archivo": "terreno.webp",
+   "escala": 14.484246253967285,
+   "lado": 2048,
+   "con_color": true
+  },
+  "Edificios vecinos": {
+   "archivo": "edificios-vecinos.webp",
+   "escala": 19.553361892700195,
+   "lado": 2048,
+   "con_color": true
+  },
+  "Vías": {
+   "archivo": "vias.webp",
+   "escala": 2.1642889976501465,
+   "lado": 1024,
+   "con_color": true
+  }
+ },
+ "vertices": [
+  {
+   "objeto": "Cortasol arena|D|cortasoles",
+   "escala": 46.39868927001953
+  },
+  {
+   "objeto": "Cortasol teka|D|cortasoles",
+   "escala": 46.70186233520508
+  },
+  {
+   "objeto": "Cortasol arena|B|cortasoles",
+   "escala": 38.03108596801758
+  },
+  {
+   "objeto": "Cortasol teka|B|cortasoles",
+   "escala": 38.015262603759766
+  },
+  {
+   "objeto": "Cortasol arena|A|cortasoles",
+   "escala": 51.42533493041992
+  },
+  {
+   "objeto": "Cortasol teka|A|cortasoles",
+   "escala": 50.92733383178711
+  }
+ ],
+ "exposicion": -3.2
+}

@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>CIP La Guajira 3D</title>
+  <meta name="description" content="Modelo BIM y fotorrealista del Centro de Innovación y Productividad con énfasis en energías renovables, Riohacha, La Guajira.">
+  <script type="importmap">
+    { "imports": {
+        "three": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.webgpu.js",
+        "three/webgpu": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.webgpu.js",
+        "three/tsl": "https://cdn.jsdelivr.net/npm/three@0.186.1/build/three.tsl.js",
+        "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.186.1/examples/jsm/"
+    } }
+  </script>
+  <link rel="stylesheet" href="estilo.css">
+</head>
+<body>
+  <div id="vista"></div>
+
+  <header class="tarjeta" id="titulo">
+    <h1>Centro de Innovación y Productividad</h1>
+    <p>Energías renovables · SENA Riohacha, La Guajira · BPIN 2022000100057</p>
+  </header>
+
+  <aside class="tarjeta" id="panel" aria-label="Información">
+    <nav id="pestanas" role="tablist">
+      <button role="tab" data-pestana="elemento" aria-selected="true">Elemento</button>
+      <button role="tab" data-pestana="espacios">Espacios</button>
+      <button role="tab" data-pestana="presupuesto">Presupuesto</button>
+    </nav>
+    <section id="elemento" class="contenido">
+      <p class="vacio">Haga clic en cualquier parte del edificio para ver sus datos: presupuesto, especificación técnica y fuente en los planos.</p>
+    </section>
+    <section id="espacios" class="contenido" hidden></section>
+    <section id="presupuesto" class="contenido" hidden></section>
+  </aside>
+
+  <footer class="tarjeta" id="barra" aria-label="Controles">
+    <div class="grupo" id="versiones">
+      <span>Versión</span>
+      <a class="boton" data-base="" href="./" title="Proyecto aprobado: planos de 2021">Aprobada 2021</a>
+      <a class="boton" data-base="lote2025/" href="?version=lote2025" title="Lote nuevo del informe de avance (2025), aproximado">Lote 2025</a>
+    </div>
+    <div class="grupo" id="vistas"></div>
+    <div class="grupo" id="estados"></div>
+    <div class="grupo" id="bloques"></div>
+    <div class="grupo" id="cortes"></div>
+    <div class="grupo" id="herramientas">
+      <span>Herramientas</span>
+      <button id="estudio" aria-pressed="false" title="Sol en tiempo real para cualquier fecha y hora, con sombras">Estudio solar</button>
+      <button id="caminar" aria-pressed="false" title="Recorrido a pie: W A S D o flechas para moverse, arrastrar para mirar, Mayús para correr">Caminar</button>
+      <a class="boton" id="descargaIfc" href="cip.ifc" download title="Modelo BIM IFC4 con presupuesto, especificaciones y espacios (6 MB)">Descargar IFC</a>
+    </div>
+    <div class="grupo" id="solar" hidden>
+      <span>Sol</span>
+      <input type="date" id="fecha" value="2026-12-15" aria-label="Fecha">
+      <input type="range" id="hora" min="5" max="19" step="0.25" value="15" aria-label="Hora">
+      <output id="solDato"></output>
+    </div>
+    <p id="creditos">
+      Planos: Gedco, Arq. Alvin Prieto (2021) · Modelo BIM y render: reconstrucción a partir de los PDF, ver supuestos ·
+      Entorno © <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>, AWS Terrain Tiles, Sentinel-2 cloudless © EOX ·
+      Texturas y vegetación Poly Haven (CC0)
+    </p>
+  </footer>
+
+  <button id="limpia" aria-pressed="false" title="Ver solo el modelo 3D (Esc para volver)">Vista limpia</button>
+  <p id="atribucion">Entorno © OpenStreetMap · Planos Gedco 2021 · Poly Haven</p>
+
+  <div id="carga"><div><p id="cargaTexto">Cargando el modelo…</p><div class="barra"><div id="progreso"></div></div></div></div>
+
+  <script type="module" src="app.js"></script>
+</body>
+</html>
