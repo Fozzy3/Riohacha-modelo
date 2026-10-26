@@ -23,7 +23,8 @@ Abrir http://127.0.0.1:8766.
 
 ## Publicar
 
-- **GitHub Pages:** en Settings → Pages → Source elegir **GitHub Actions**. Cada push a `main` publica `web/` (`.github/workflows/pages.yml`).
+- **GitHub Pages:** Settings → Pages → *Deploy from a branch*, rama `main`, carpeta `/`. Cada push a `main` se publica en
+  https://fozzy3.github.io/Riohacha-modelo/; el `index.html` de la raíz abre el visor de `web/`.
 - **Otro servidor:** servir `web/` como archivos estáticos. WebGPU exige HTTPS; sin HTTPS el visor usa WebGL2.
 
 ## Regenerar
