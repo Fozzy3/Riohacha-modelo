@@ -67,6 +67,8 @@ controls.enableDamping = true;
 controls.maxPolarAngle = Math.PI * 0.495;
 controls.minDistance = 2;
 controls.maxDistance = 900;
+controls.mouseButtons.MIDDLE = THREE.MOUSE.PAN; // wheel held: move around; the wheel itself still zooms
+controls.screenSpacePanning = false; // pan over the ground, not up and down
 
 const manager = new THREE.LoadingManager();
 manager.onProgress = (_, done, total) => ($('progreso').style.width = `${(100 * done) / total}%`);
