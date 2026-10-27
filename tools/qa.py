@@ -8,7 +8,9 @@ import sys
 from pathlib import Path
 
 import ifcopenshell
+import ifcopenshell.geom
 import ifcopenshell.util.element as ue
+import ifcopenshell.util.shape as us
 import ifcopenshell.validate
 from ifctester import ids
 
@@ -65,8 +67,13 @@ def main():
     compare("Huella piso 1, 4 bloques (m²)", sum(p.area for p in fp.values()), 2034, "presupuesto, área piso 1", tol=0.06)
     compare("Losa laboratorios 6.80 (m²)", fp["C"].area, pres["4.06"]["cantidad"], "4.06")
     compare("Losa auditorio (m²)", fp["D"].area, pres["4.07"]["cantidad"], "4.07")
-    compare("Losa bloque A nivel 15.40 (m²)", fp["A"].area, pres["4.08"]["cantidad"], "4.08")
-    compare("Losa bloque A nivel 19.20 (m²)", fp["A"].area, pres["4.09"]["cantidad"], "4.09")
+    def modeled_slab(name, block):  # the slab as built, not the block outline: they differ over A's void
+        s = ifcopenshell.geom.settings()
+        return sum(us.get_volume(ifcopenshell.geom.create_shape(s, e).geometry) / build_ifc.SLAB
+                   for e in f.by_type("IfcSlab") if e.Name == name and ue.get_pset(e, "CIP_Fuente", "Bloque") == block)
+
+    compare("Losa bloque A nivel 15.40 (m²)", modeled_slab("Entrepiso Nivel 5", "A"), pres["4.08"]["cantidad"], "4.08")
+    compare("Losa bloque A nivel 19.20 (m²)", modeled_slab("Cubierta", "A"), pres["4.09"]["cantidad"], "4.09")
 
     louver = {}
     for e in f.by_type("IfcShadingDevice"):

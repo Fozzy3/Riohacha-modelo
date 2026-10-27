@@ -19,7 +19,7 @@ Generado por `tools/qa.py`. Tolerancia de cantidades: ±5 % (⚠ fuera de tolera
 | Huella piso 1, 4 bloques (m²) | 2,034.00 (presupuesto, área piso 1) | 1,950.48 | -4.1% ✓ |
 | Losa laboratorios 6.80 (m²) | 558.63 (4.06) | 562.81 | +0.7% ✓ |
 | Losa auditorio (m²) | 328.05 (4.07) | 329.49 | +0.4% ✓ |
-| Losa bloque A nivel 15.40 (m²) | 567.68 (4.08) | 567.58 | -0.0% ✓ |
+| Losa bloque A nivel 15.40 (m²) | 567.68 (4.08) | 404.94 | -28.7% ⚠ |
 | Losa bloque A nivel 19.20 (m²) | 568.14 (4.09) | 567.58 | -0.1% ✓ |
 | Cortasoles bloque A (m², módulo 0.30) | 1,146.09 (6.02) | 1,174.86 | +2.5% ✓ |
 | Cortasoles bloque B (m², módulo 0.30) | 550.14 (6.03) | 540.73 | -1.7% ✓ |

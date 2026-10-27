@@ -8,7 +8,7 @@
 4. **Cortasoles.** ¿Material y acabado exactos ("pérgola metálica tipo madera"): perfil, sección, color o referencia comercial?
 5. **Vidrio y perfilería.** ¿Tono y reflectividad del vidrio, y color de la perfilería (en los renders se ve negra)?
 6. **Vegetación.** ¿Qué especies son las palmeras grandes, las plantas medianas y las ornamentales?
-7. **Pisos 4 y 5.** En las capturas de la memoria el Bloque Principal tiene un vacío o terraza hacia el sur en esos pisos. ¿Es doble altura o terraza?
+7. **Vacío sur del Bloque Principal.** El corte 2-2 (A-106) dibuja un vacío de altura completa entre el eje 3 y la escalera, cubierto por la losa de cubierta, con barandas de vidrio en el borde de los entrepisos. ¿El vidrio de fachada va en la línea sur del bloque (vacío interior) o en el borde de las losas (vacío abierto tras los cortasoles)? El modelo usa el borde de las losas (`SUPUESTOS.md` S33).
 8. **Laboratorios.** ¿En qué recinto queda cada laboratorio? En A-111 solo dicen "Laboratorio" o "SALA n". La asignación provisional está en `SUPUESTOS.md` S22.
 9. **Marquesinas del acceso sur.** Están a 35–40 m al sur del Bloque Principal, fuera del lote. ¿Las columnas en Y tienen dos o cuatro brazos? ¿Corresponden al ítem 6.04 ("columnas metálicas inclinadas, tubería 4", bloque A fachada")?
 10. **Iluminación exterior.** Los planos y el presupuesto solo traen luminarias interiores (LENS y BALA de 4000 K). ¿Hay alumbrado de plaza, andenes o fachadas (postes, bolardos, reflectores)? Por ahora la vista nocturna solo muestra la luz interior (`SUPUESTOS.md` S27).
@@ -25,3 +25,4 @@
 | H6 | El capítulo 16 (cubiertas) invierte las letras de los bloques: llama "bloque D" a los laboratorios y "bloque C" al auditorio, al revés que el resto del presupuesto y la memoria. | Ítems 16.08–16.13 |
 | H7 | Las 4 marquesinas del acceso sur (cubierta y columnas en Y, capa A-GENM) no tienen un ítem de presupuesto identificable. | A-107, A-109 y presupuesto |
 | H8 | Ítem 6.04 (columnas metálicas inclinadas, fachada norte del bloque A): la memoria cuenta 24 tubos de 7,21 m (770 kg), pero el alzado A-108 dibuja 20 (unos 642 kg). La diferencia es de 4 tubos, unos 128 kg y $2,8 millones. | Memoria p. 75 frente a A-108 (capa A-GENM). |
+| H9 | El ítem 4.08 (losa del bloque A a nivel 15,40) mide 567,68 m², el contorno completo del bloque, pero el corte 2-2 dibuja en ese nivel el vacío sur (unos 163 m² sin losa). | A-106 corte 2-2 frente a la memoria, ítem 4.08 (`QA.md`) |

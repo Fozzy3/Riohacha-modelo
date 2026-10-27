@@ -3,103 +3,103 @@
  "mapas": {
   "Estuco blanco|C": {
    "archivo": "estuco-blanco-c.webp",
-   "escala": 23.890472412109375,
+   "escala": 23.89087677001953,
    "lado": 1024,
    "con_color": false
   },
   "Estuco blanco|A": {
    "archivo": "estuco-blanco-a.webp",
-   "escala": 23.070053100585938,
+   "escala": 23.085681915283203,
    "lado": 512,
    "con_color": false
   },
   "Estuco blanco|D": {
    "archivo": "estuco-blanco-d.webp",
-   "escala": 23.144515991210938,
+   "escala": 23.16812515258789,
    "lado": 1024,
    "con_color": false
   },
   "Estuco blanco|B": {
    "archivo": "estuco-blanco-b.webp",
-   "escala": 23.879854202270508,
+   "escala": 23.842134475708008,
    "lado": 512,
    "con_color": false
   },
   "Concreto|C": {
    "archivo": "concreto-c.webp",
-   "escala": 20.915714263916016,
+   "escala": 20.944263458251953,
    "lado": 1024,
    "con_color": false
   },
   "Concreto|D": {
    "archivo": "concreto-d.webp",
-   "escala": 22.60202407836914,
+   "escala": 22.636863708496094,
    "lado": 1024,
    "con_color": false
   },
   "Concreto|A": {
    "archivo": "concreto-a.webp",
-   "escala": 23.146337509155273,
+   "escala": 23.156696319580078,
    "lado": 2048,
    "con_color": false
   },
   "Concreto|B": {
    "archivo": "concreto-b.webp",
-   "escala": 6.422314643859863,
+   "escala": 6.675003528594971,
    "lado": 1024,
    "con_color": false
   },
   "Marco aluminio compuesto|A": {
    "archivo": "marco-aluminio-compuesto-a.webp",
-   "escala": 23.612075805664062,
+   "escala": 23.644344329833984,
    "lado": 256,
    "con_color": false
   },
   "Cortasol teka|A": {
    "archivo": "cortasol-teka-a.webp",
-   "escala": 36.54110336303711,
+   "escala": 35.08396530151367,
    "lado": 128,
    "con_color": false
   },
   "Andén|sitio": {
    "archivo": "anden-sitio.webp",
-   "escala": 20.958866119384766,
+   "escala": 20.980113983154297,
    "lado": 256,
    "con_color": false
   },
   "Marquesina|sitio": {
    "archivo": "marquesina-sitio.webp",
-   "escala": 21.510284423828125,
+   "escala": 21.559188842773438,
    "lado": 512,
    "con_color": false
   },
   "Gramoquín|sitio": {
    "archivo": "gramoquin-sitio.webp",
-   "escala": 6.089764595031738,
+   "escala": 6.213416576385498,
    "lado": 1024,
    "con_color": false
   },
   "Grama|sitio": {
    "archivo": "grama-sitio.webp",
-   "escala": 11.512048721313477,
+   "escala": 11.510124206542969,
    "lado": 1024,
    "con_color": false
   },
   "Terreno": {
    "archivo": "terreno.webp",
-   "escala": 3.1507818698883057,
+   "escala": 3.150841236114502,
    "lado": 2048,
    "con_color": true
   },
   "Edificios vecinos": {
    "archivo": "edificios-vecinos.webp",
-   "escala": 9.936439514160156,
+   "escala": 9.936939239501953,
    "lado": 2048,
    "con_color": true
   },
   "Vías": {
    "archivo": "vias.webp",
-   "escala": 0.3049037754535675,
+   "escala": 0.30490627884864807,
    "lado": 1024,
    "con_color": true
   }
@@ -107,27 +107,27 @@
  "vertices": [
   {
    "objeto": "Cortasol teka|D|cortasoles",
-   "escala": 22.753826141357422
+   "escala": 22.731979370117188
   },
   {
    "objeto": "Cortasol arena|D|cortasoles",
-   "escala": 22.736780166625977
-  },
-  {
-   "objeto": "Cortasol arena|B|cortasoles",
-   "escala": 3.4958839416503906
+   "escala": 22.693334579467773
   },
   {
    "objeto": "Cortasol teka|B|cortasoles",
-   "escala": 23.347944259643555
+   "escala": 23.396154403686523
   },
   {
-   "objeto": "Cortasol teka|A|cortasoles",
-   "escala": 31.831098556518555
+   "objeto": "Cortasol arena|B|cortasoles",
+   "escala": 3.4907419681549072
   },
   {
    "objeto": "Cortasol arena|A|cortasoles",
-   "escala": 25.064075469970703
+   "escala": 24.955549240112305
+  },
+  {
+   "objeto": "Cortasol teka|A|cortasoles",
+   "escala": 31.703933715820312
   }
  ],
  "exposicion": -2.4

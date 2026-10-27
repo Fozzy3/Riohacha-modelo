@@ -89,6 +89,8 @@ def material_for(cls, name, predefined):
         return "Concreto andén"
     if "arbórea" in name.lower():
         return "Perfilería aluminio negro"
+    if cls == "IfcStairFlight":  # 2025 stairs down to the labs walkway, same finish as the walkway
+        return "Concreto andén"
     return "Concreto 3000 PSI"
 # Upper floors of A stop short of the south void over the lobby (memoria 15.07 floors 2-5; S4).
 UPPER_A = Polygon([(-1.12, 1.30), (26.54, 1.30), (26.54, -13.34), (-1.12, -13.34)])
@@ -250,7 +252,9 @@ def build(out, sitio=None):
             b.element("IfcSlab", f"Entrepiso {lvl}", lvl, b.extrusion(upper, LEVELS[lvl] - SLAB, SLAB), blk,
                       src("envolvente", "S4"), "FLOOR")
         roof_storey = "Cubierta" if blk == "A" else ("Nivel 4" if blk == "B" else "Nivel 1")
-        b.element("IfcSlab", "Cubierta", roof_storey, b.extrusion(upper, BLOCK[blk]["roof"] - SLAB, SLAB), blk,
+        # the roof covers the whole block: on A it spans the full-height void south of the upper floors and caps the
+        # axis-3 columns (A-106 corte 2-2; item 4.09 = 568 m², the full outline)
+        b.element("IfcSlab", "Cubierta", roof_storey, b.extrusion(fp, BLOCK[blk]["roof"] - SLAB, SLAB), blk,
                   src("envolvente", "S13"), "ROOF")
 
     # Louvers (cortasoles): WPC 100x200 mm (Teka) alternating with 90x90 mm (Arena) along each façade line (S29);
@@ -629,15 +633,42 @@ def vegetation(sheet):
 
 
 def lote2025(b, sheet, sitio):
-    """2025 variant (approximate, SUPUESTOS S30-S31): semi-basement parking under A, B and D at natural ground level,
-    plaza fill with retaining walls, block C platform 2.40 m lower, fence, guard house and the existing trees."""
+    """2025 variant (approximate, SUPUESTOS S30-S31, S34): semi-basement parking under A, B and D at natural ground level,
+    plaza fill with retaining walls, block C platform 2.40 m lower with a walkway and stairs from the plaza, fence,
+    guard house and the existing trees."""
     from shapely.ops import unary_union
 
     lv = sitio["niveles"]
     fuente = {"Lamina": "Informe de avance V.01 (DEARCA 2025)", "Capa": "", "EsSupuesto": True, "Supuesto": "S31"}
     basement = sitio["semisotano"]["bloques"]
-    plaza = Polygon(sitio["plaza"]).difference(unary_union([FOOTPRINT[k] for k in basement]))
-    patio_c = FOOTPRINT["C"].buffer(3.0, join_style=2).difference(Polygon(sitio["plaza"])).difference(FOOTPRINT["C"])
+    blocks = unary_union(list(FOOTPRINT.values()))
+    # Block C sits 2.40 m below the plaza with "escaleras de acceso en los puntos de entrada" (informe p. 33): a 3 m
+    # walkway round C at its level and three flights cut into the plaza in front of its shops (S34).
+    lower = FOOTPRINT["C"].buffer(3.0, join_style=2)
+    (x0, y0), (x1, y1) = FOOTPRINT["C"].exterior.coords[:2]  # C's façade on the plaza, with the shop doors (A-111)
+    length = math.hypot(x1 - x0, y1 - y0)
+    u, n = ((x1 - x0) / length, (y1 - y0) / length), ((y1 - y0) / length, -(x1 - x0) / length)  # along it; out to the plaza
+    rise, tread, steps = (lv["plaza"] - lv["patio_c"]) / 15, 0.30, 14
+
+    def rect(s, d0, d1, w):  # plan rectangle centred s m along the façade, d0..d1 m out from it, w wide
+        return Polygon([(x0 + u[0] * (s + a) + n[0] * d, y0 + u[1] * (s + a) + n[1] * d)
+                        for a, d in ((-w / 2, d0), (w / 2, d0), (w / 2, d1), (-w / 2, d1))])
+
+    stairs = []
+    for s in (13.0, 24.5, 36.0):  # m from C's south corner, at the shops; below ~10 m the lot edge leaves no room
+        flight = [b.extrusion(rect(s, 3.0 + tread * i, 3.0 + tread * (i + 1), 2.4), lv["patio_c"] - 0.20, 0.20 + rise * (i + 1)).Items[0]
+                  for i in range(steps)]
+        b.element("IfcStairFlight", "Escalera plaza - laboratorios", "Nivel 1",
+                  b.f.createIfcShapeRepresentation(b.body, "Body", "SweptSolid", flight), None, fuente, "STRAIGHT")
+        for side in (-1.35, 1.35):  # walls of the cut, with the plaza's 1.0 m parapet
+            b.element("IfcWall", "Muro de contención", "Nivel 1",
+                      b.extrusion(rect(s + side, 3.0, 3.0 + tread * steps, 0.30), lv["patio_c"] - 0.20,
+                                  lv["plaza"] - lv["patio_c"] + 1.20), None, fuente, "RETAININGWALL")
+        stairs.append(rect(s, 2.9, 3.0 + tread * steps, 3.0))  # 0.1 m into the walkway: a notch in the plaza, not a hole
+    stairs = unary_union(stairs)
+    plaza_area = Polygon(sitio["plaza"]).difference(lower).difference(stairs)
+    plaza = plaza_area.difference(unary_union([FOOTPRINT[k] for k in basement]))
+    patio_c = lower.difference(blocks)
     for k in basement:
         b.element("IfcSlab", "Placa semisótano parqueadero", "Semisótano", b.extrusion(FOOTPRINT[k], lv["natural"] - 0.20, 0.20),
                   k, fuente, "FLOOR")
@@ -648,8 +679,7 @@ def lote2025(b, sheet, sitio):
                 e.ObjectType = name
     # Retaining walls on every edge of the plaza and of the C platform: down to the natural ground, or to the C
     # platform; a 1.0 m parapet where the edge is open (not against a building).
-    blocks = unary_union(list(FOOTPRINT.values()))
-    for poly, top in ((Polygon(sitio["plaza"]), lv["plaza"]), (patio_c, lv["patio_c"])):
+    for poly, top in ((plaza_area, lv["plaza"]), (patio_c, lv["patio_c"])):
         for g in getattr(poly, "geoms", [poly]):
             ring = list(g.exterior.coords)
             for p0, p1 in zip(ring, ring[1:]):
@@ -660,9 +690,11 @@ def lote2025(b, sheet, sitio):
                 out = Point(mid.x + (p1[1] - p0[1]) / edge.length * 1.5, mid.y - (p1[0] - p0[0]) / edge.length * 1.5)
                 if not g.exterior.is_ccw:
                     out = Point(2 * mid.x - out.x, 2 * mid.y - out.y)
+                if stairs.contains(out):
+                    continue  # the stairs: open, their cut has its own walls
                 if patio_c.contains(out) and top == lv["plaza"]:
                     bottom = lv["patio_c"]
-                elif Polygon(sitio["plaza"]).contains(out):
+                elif plaza_area.contains(out):
                     continue  # inner edge of the C platform, already walled from the plaza side
                 else:
                     bottom = lv["natural"] - 0.20

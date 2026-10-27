@@ -47,4 +47,4 @@ def main(web, states):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1], sys.argv[2:] or ["dia"])
+    main(sys.argv[1], sys.argv[2:] or ["dia", "atardecer", "noche"])
