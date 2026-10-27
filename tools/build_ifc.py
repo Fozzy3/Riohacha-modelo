@@ -237,11 +237,17 @@ def build(out, sitio=None):
                 top = LABS_GLASS_TOP  # labs: glazing only up to 3.50 m, solid band above (S20)
             b.element(cls, f"{label} N1", "Nivel 1", b.extrusion(g, LEVELS["Nivel 1"], top - LEVELS["Nivel 1"]),
                       blk, src(layer, "" if blk else "S13"), pre)
-    # Columns run from floor 1 to the roof of their block.
+    # Columns run from floor 1 to the underside of their block's roof (flush with its top they flicker and bake dark);
+    # the part of a facade column that sticks out past the roof edge goes up to the roof level.
     for g in sheet.fills("S-COLS"):
         blk = sheet.block_of(g) or "A"
         z0 = sitio["semisotano"]["piso"] if sitio and blk in sitio["semisotano"]["bloques"] else LEVELS["Nivel 1"]
-        b.element("IfcColumn", "Columna", "Nivel 1", b.extrusion(g, z0, BLOCK[blk]["roof"] - z0), blk, src("S-COLS"), "COLUMN")
+        roof = BLOCK[blk]["roof"]
+        parts = [(p, z1) for part, z1 in ((g.intersection(FOOTPRINT[blk]), roof - SLAB), (g.difference(FOOTPRINT[blk]), roof))
+                 for p in getattr(part, "geoms", [part]) if p.geom_type == "Polygon" and p.area > 1e-4]
+        rep = b.f.createIfcShapeRepresentation(b.body, "Body", "SweptSolid",
+                                               [b.extrusion(p, z0, z1 - z0).Items[0] for p, z1 in parts])
+        b.element("IfcColumn", "Columna", "Nivel 1", rep, blk, src("S-COLS"), "COLUMN")
 
     # Slabs: ground slab per block, upper floors, roofs.
     for blk, fp in FOOTPRINT.items():
