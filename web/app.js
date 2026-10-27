@@ -333,7 +333,10 @@ function tab(name) {
   document.querySelectorAll('#pestanas button').forEach((b) => b.setAttribute('aria-selected', b.dataset.pestana === name));
   for (const id of ['elemento', 'espacios', 'presupuesto']) $(id).hidden = id !== name;
 }
-document.querySelectorAll('#pestanas button').forEach((b) => b.addEventListener('click', () => tab(b.dataset.pestana)));
+document.querySelectorAll('#pestanas button').forEach((b) => b.addEventListener('click', () => {
+  if (b.dataset.pestana === 'espacios') highlight.clear(); // back to the list: drop the previous selection
+  tab(b.dataset.pestana);
+}));
 
 function budgetItemsHTML(codes) {
   return codes.map((c) => {
