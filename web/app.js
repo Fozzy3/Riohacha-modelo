@@ -331,14 +331,50 @@ renderer.domElement.addEventListener('pointerup', (e) => {
 });
 
 // ---------- panels ----------
+// Phones: the panel is a sheet (bottom, or side in landscape) that shows only its tabs until one is opened, and the
+// control bar moves into it as the "Controles" tab.
+const compact = matchMedia('(max-width: 820px), (max-height: 520px)');
 function tab(name) {
   document.querySelectorAll('#pestanas button').forEach((b) => b.setAttribute('aria-selected', b.dataset.pestana === name));
   for (const id of ['elemento', 'espacios', 'presupuesto']) $(id).hidden = id !== name;
+  document.body.dataset.panel = name;
+  setSheet(true);
+}
+function setSheet(open) {
+  document.body.classList.toggle('hoja', open);
+  $('asa').setAttribute('aria-expanded', open);
+  fitView();
 }
 document.querySelectorAll('#pestanas button').forEach((b) => b.addEventListener('click', () => {
   if (b.dataset.pestana === 'espacios') highlight.clear(); // back to the list: drop the previous selection
-  tab(b.dataset.pestana);
+  const open = b.getAttribute('aria-selected') === 'true' && document.body.classList.contains('hoja');
+  if (compact.matches && open) setSheet(false); // the open tab again folds the sheet
+  else tab(b.dataset.pestana);
 }));
+$('asa').addEventListener('click', () => setSheet(!document.body.classList.contains('hoja')));
+
+// Centre the 3D view in the part of the screen the open sheet leaves free (like a map's padding).
+function fitView() {
+  const r = $('panel').getBoundingClientRect();
+  const cl = document.body.classList;
+  const below = innerHeight - r.top, beside = innerWidth - r.left;
+  camera.clearViewOffset();
+  camera.aspect = innerWidth / innerHeight;
+  if (compact.matches && cl.contains('hoja') && !cl.contains('limpia')) {
+    const [w, h, x, y] = r.left > 0 ? [innerWidth + beside, innerHeight, beside, 0] : [innerWidth, innerHeight + below, 0, below];
+    camera.aspect = w / h;
+    camera.setViewOffset(w, h, x, y, innerWidth, innerHeight);
+  }
+  camera.updateProjectionMatrix();
+}
+
+function layout() {
+  (compact.matches ? $('panel') : document.body).append($('barra'));
+  if (!compact.matches && document.body.dataset.panel === 'controles') tab('elemento');
+  fitView();
+}
+compact.addEventListener('change', layout);
+layout();
 
 function budgetItemsHTML(codes) {
   return codes.map((c) => {
@@ -415,7 +451,8 @@ const cutAt = (nivel) => document.querySelector(`[data-corte="${nivel.replace('N
 
 function frameTop(box) {
   if (box.isEmpty()) return;
-  const c = box.getCenter(new THREE.Vector3()), r = box.getSize(new THREE.Vector3()).length() * 0.55 + 8;
+  const c = box.getCenter(new THREE.Vector3());
+  const r = Math.max(box.getSize(new THREE.Vector3()).length() * 0.55 + 8, fitDistance(box) / Math.hypot(0.3, 1, 0.7));
   flyTo(c.clone().add(new THREE.Vector3(r * 0.3, r, r * 0.7)), c); // from above, slightly from the south-east
 }
 
@@ -595,9 +632,21 @@ let flight = null;
 function flyTo(pos, target, seconds = 1.6) {
   flight = { from: camera.position.clone(), to: pos.clone(), tFrom: controls.target.clone(), tTo: target.clone(), t: 0, d: seconds };
 }
+// Phones: the distance at which the whole box fits the part of the screen the sheet leaves free (the desktop framing
+// below is tuned for a wide screen and cuts the box on a narrow one).
+function fitDistance(box) {
+  if (!compact.matches) return 0;
+  const v = camera.view?.enabled ? camera.view : null;
+  const fullH = v ? v.fullHeight : innerHeight;
+  const free = Math.min(innerWidth - (v ? v.offsetX : 0), innerHeight - (v ? v.offsetY : 0));
+  const radius = box.getSize(new THREE.Vector3()).length() / 2;
+  return 1.05 * radius / (Math.tan(THREE.MathUtils.degToRad(camera.fov / 2)) * free / fullH);
+}
+
 function frame(box) {
   if (box.isEmpty()) return;
-  const c = box.getCenter(new THREE.Vector3()), r = box.getSize(new THREE.Vector3()).length() * 0.6 + 4;
+  const c = box.getCenter(new THREE.Vector3());
+  const r = Math.max(box.getSize(new THREE.Vector3()).length() * 0.6 + 4, fitDistance(box) / 1.6);
   const dir = camera.position.clone().sub(controls.target).normalize();
   flyTo(c.clone().addScaledVector(dir, r * 1.6), c);
 }
@@ -708,14 +757,14 @@ function setClean(on) {
   document.body.classList.toggle('limpia', on);
   $('limpia').setAttribute('aria-pressed', on);
   $('limpia').textContent = on ? 'Mostrar controles' : 'Vista limpia';
+  fitView();
 }
 $('limpia').addEventListener('click', () => setClean(!document.body.classList.contains('limpia')));
 addEventListener('keydown', (e) => { if (e.key === 'Escape') setClean(false); });
 
 addEventListener('resize', () => {
-  camera.aspect = innerWidth / innerHeight;
-  camera.updateProjectionMatrix();
   renderer.setSize(innerWidth, innerHeight);
+  fitView();
 });
 
 main().catch((err) => {

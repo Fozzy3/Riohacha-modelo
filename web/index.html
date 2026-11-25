@@ -2,7 +2,7 @@
 <html lang="es">
 <head>
   <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>CIP La Guajira 3D</title>
   <meta name="description" content="Modelo BIM y fotorrealista del Centro de Innovación y Productividad con énfasis en energías renovables, Riohacha, La Guajira.">
   <script type="importmap">
@@ -24,13 +24,15 @@
   </header>
 
   <aside class="tarjeta" id="panel" aria-label="Información">
+    <button id="asa" aria-expanded="false" aria-label="Abrir o cerrar el panel"></button>
     <nav id="pestanas" role="tablist">
       <button role="tab" data-pestana="elemento" aria-selected="true">Elemento</button>
       <button role="tab" data-pestana="espacios">Espacios</button>
       <button role="tab" data-pestana="presupuesto">Presupuesto</button>
+      <button role="tab" data-pestana="controles">Controles</button>
     </nav>
     <section id="elemento" class="contenido">
-      <p class="vacio">Haga clic en cualquier parte del edificio para ver sus datos: presupuesto, especificación técnica y fuente en los planos.</p>
+      <p class="vacio">Seleccione cualquier parte del edificio para ver sus datos: presupuesto, especificación técnica y fuente en los planos.</p>
     </section>
     <section id="espacios" class="contenido" hidden></section>
     <section id="presupuesto" class="contenido" hidden></section>
